@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Psihologie & Oameni — dashboard zilnic</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,650&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f6f3ee; --panel:#fffdf9; --ink:#1f1d1a; --muted:#6b655c; --line:#e4ddd2;
+    --accent:#2f5d50; --accent-soft:#e3eee9; --warn:#a4462f; --new:#c27b19;
+    --c-psih:#5b4b8a; --c-wellbeing:#2f7a62; --c-people:#b0602a; --c-leadership:#2e5a87; --c-ro:#a33b4a; --c-research:#6b6b2a;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#171614; --panel:#201f1c; --ink:#ece7df; --muted:#a39b8f; --line:#34312c;
+      --accent:#8cc5b0; --accent-soft:#25342f; --warn:#e08a72; --new:#e2a24a;
+      --c-psih:#a99ae0; --c-wellbeing:#7cc9ad; --c-people:#e3a274; --c-leadership:#8fb5e0; --c-ro:#e08b97; --c-research:#c4c47a; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 Inter,system-ui,sans-serif}
+  a{color:inherit;text-decoration:none}
+  a:hover{text-decoration:underline;text-underline-offset:3px}
+  .wrap{max-width:1240px;margin:0 auto;padding:28px 20px 60px}
+  header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:16px;border-bottom:2px solid var(--ink);padding-bottom:16px}
+  h1{font-family:Fraunces,Georgia,serif;font-weight:650;font-size:clamp(28px,4vw,40px);line-height:1.05;margin:0}
+  .sub{color:var(--muted);margin-top:6px}
+  .stats{color:var(--muted);font-size:13px;text-align:right}
+  .stats b{color:var(--ink)}
+  button,select,input{font:inherit;color:inherit}
+  .btn{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px 12px;cursor:pointer}
+  .btn:hover{border-color:var(--ink)}
+  .bar{position:sticky;top:0;z-index:5;background:var(--bg);padding:14px 0 10px;display:flex;flex-direction:column;gap:10px;border-bottom:1px solid var(--line)}
+  .tabs{display:flex;flex-wrap:wrap;gap:6px}
+  .tab{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:5px 12px;cursor:pointer;font-size:13.5px;display:flex;gap:6px;align-items:center}
+  .tab .dot{width:8px;height:8px;border-radius:50%}
+  .tab .n{color:var(--muted);font-size:12px}
+  .tab[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  .tab[aria-pressed=true] .n{color:inherit;opacity:.7}
+  .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .row select,.row input{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:6px 10px}
+  .row input{flex:1;min-width:180px}
+  .seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .seg button{border:0;background:var(--panel);padding:6px 12px;cursor:pointer}
+  .seg button[aria-pressed=true]{background:var(--accent-soft);color:var(--accent);font-weight:600}
+  h2{font-family:Fraunces,Georgia,serif;font-weight:650;font-size:22px;margin:30px 0 4px}
+  .h2sub{color:var(--muted);font-size:13px;margin-bottom:14px}
+  .brief{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px}
+  .bcard{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px;display:flex;flex-direction:column;gap:8px}
+  .bnum{font-family:Fraunces,Georgia,serif;font-size:26px;line-height:1;color:var(--accent)}
+  .btag{font-size:11px;font-weight:600;letter-spacing:.06em;color:var(--muted)}
+  .bcard h3{margin:0;font-size:17px;line-height:1.3}
+  .bcard p{margin:0}
+  .sowhat{background:var(--accent-soft);border-radius:8px;padding:8px 10px;font-size:14px}
+  .evid{font-size:12.5px;color:var(--muted)}
+  .evid b{color:var(--ink);font-weight:600}
+  .blinks{font-size:13px;display:flex;flex-direction:column;gap:3px;border-top:1px solid var(--line);padding-top:8px;margin-top:auto}
+  .blinks a{color:var(--muted)}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:14px;align-items:start}
+  .src{background:var(--panel);border:1px solid var(--line);border-top:3px solid var(--cat);border-radius:12px;padding:14px 16px}
+  .srch{display:flex;justify-content:space-between;align-items:baseline;gap:8px;margin-bottom:6px}
+  .srch h3{margin:0;font-size:15px}
+  .srch .cnt{color:var(--muted);font-size:12px;white-space:nowrap}
+  ul.items{list-style:none;margin:0;padding:0}
+  ul.items li{padding:8px 0;border-top:1px solid var(--line)}
+  ul.items li:first-child{border-top:0}
+  .t{font-weight:500}
+  .meta{font-size:12px;color:var(--muted);margin-top:2px;display:flex;gap:6px;flex-wrap:wrap}
+  .sum{font-size:13px;color:var(--muted);margin-top:3px}
+  .new{color:var(--new);font-weight:600}
+  .more{margin-top:8px;font-size:13px;background:none;border:0;padding:0;color:var(--accent);cursor:pointer}
+  .chip{font-size:11px;font-weight:600;color:var(--cat)}
+  .timeline{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:6px 18px}
+  .empty{color:var(--muted);padding:30px;text-align:center}
+  footer{margin-top:40px;color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:14px}
+  footer details summary{cursor:pointer}
+  .err{color:var(--warn)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Psihologie & Oameni</h1>
+      <div class="sub" id="today"></div>
+    </div>
+    <div class="stats">
+      <div id="stats">Se încarcă…</div>
+      <div id="updated"></div>
+      <button class="btn" id="reload" style="margin-top:6px">Reîncarcă</button>
+    </div>
+  </header>
+
+  <div class="bar">
+    <div class="tabs" id="tabs"></div>
+    <div class="row">
+      <select id="win" aria-label="Interval">
+        <option value="24">Ultimele 24 de ore</option>
+        <option value="48" selected>Ultimele 48 de ore</option>
+        <option value="168">Ultimele 7 zile</option>
+      </select>
+      <input id="q" type="search" placeholder="Caută (ex. burnout, echitate, motivație)…">
+      <div class="seg" role="group" aria-label="Mod afișare">
+        <button data-view="sources" aria-pressed="true">Pe surse</button>
+        <button data-view="timeline" aria-pressed="false">Cronologic</button>
+      </div>
+    </div>
+  </div>
+
+  <section id="briefSec" hidden>
+    <h2>Rezumatul zilei</h2>
+    <div class="h2sub" id="briefSub"></div>
+    <div class="brief" id="brief"></div>
+  </section>
+
+  <h2 id="listTitle">Știri</h2>
+  <div class="h2sub" id="listSub"></div>
+  <div id="list"></div>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const S = { data:null, brief:null, cat:'all', win:48, q:'', view:'sources', expanded:new Set() };
+let lastVisit = null;
+try { lastVisit = localStorage.getItem('lastVisit'); localStorage.setItem('lastVisit', new Date().toISOString()); } catch(e) {}
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const art = n => n === 1 ? '1 articol' : `${n} articole`;
+const catColor = c => `var(--c-${c}, var(--accent))`;
+
+function ago(iso){
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return 'acum';
+  if (m < 60) return `acum ${m} min`;
+  const h = Math.round(m / 60);
+  if (h < 24) return `acum ${h} h`;
+  const d = Math.round(h / 24);
+  return d === 1 ? 'ieri' : `acum ${d} zile`;
+}
+const fmtDate = d => d.toLocaleDateString('ro-RO', { weekday:'long', day:'numeric', month:'long', year:'numeric', timeZone:'Europe/Bucharest' });
+const fmtTime = iso => new Date(iso).toLocaleString('ro-RO', { day:'numeric', month:'short', hour:'2-digit', minute:'2-digit', timeZone:'Europe/Bucharest' });
+
+async function load(){
+  const t = Date.now();
+  try {
+    S.data = await (await fetch(`data.json?t=${t}`)).json();
+  } catch(e) {
+    $('stats').textContent = 'Încă nu există date. Rulează o dată acțiunea „Actualizare știri” din GitHub.';
+    return;
+  }
+  try { S.brief = await (await fetch(`briefing.json?t=${t}`)).json(); } catch(e) { S.brief = null; }
+  render();
+}
+
+function filtered(){
+  const lim = Date.now() - S.win * 3600e3;
+  const q = S.q.trim().toLowerCase();
+  return S.data.items.filter(it =>
+    new Date(it.date) >= lim &&
+    (S.cat === 'all' || it.category === S.cat) &&
+    (!q || (it.title + ' ' + (it.summary||'')).toLowerCase().includes(q)));
+}
+
+function itemHTML(it, src, withSource){
+  const isNew = lastVisit && it.date > lastVisit;
+  const meta = [
+    withSource ? `<span class="chip" style="--cat:${catColor(it.category)}">${esc(src?.name)}</span>` : '',
+    isNew ? '<span class="new">nou</span>' : '',
+    `<span title="${esc(fmtTime(it.date))}">${ago(it.date)}</span>`,
+    it.publisher && src?.type === 'gnews' ? `<span>${esc(it.publisher)}</span>` : '',
+    it.author ? `<span>${esc(it.author)}</span>` : ''
+  ].filter(Boolean).join('<span>·</span>');
+  return `<li><a class="t" href="${esc(it.link)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+    <div class="meta">${meta}</div>${it.summary ? `<div class="sum">${esc(it.summary)}</div>` : ''}</li>`;
+}
+
+function render(){
+  const D = S.data, srcById = Object.fromEntries(D.sources.map(s => [s.id, s]));
+  $('today').textContent = fmtDate(new Date()).replace(/^./, c => c.toUpperCase());
+  $('updated').textContent = 'Actualizat: ' + fmtTime(D.generated_at);
+  const okSrc = D.sources.filter(s => s.ok).length;
+  $('stats').innerHTML = `<b>${D.items.length}</b> ${D.items.length===1?'articol':'articole'} din <b>${okSrc}</b> surse`;
+
+  // tab-uri cu numărul de articole din intervalul curent
+  const lim = Date.now() - S.win * 3600e3;
+  const inWin = D.items.filter(it => new Date(it.date) >= lim);
+  const counts = {}; inWin.forEach(it => counts[it.category] = (counts[it.category]||0) + 1);
+  const tabs = [{id:'all', name:'Toate'}, ...D.categories];
+  $('tabs').innerHTML = tabs.map(c => `<button class="tab" data-cat="${c.id}" aria-pressed="${S.cat===c.id}">
+      ${c.id!=='all' ? `<span class="dot" style="background:${catColor(c.id)}"></span>` : ''}${esc(c.name)}
+      <span class="n">${c.id==='all' ? inWin.length : (counts[c.id]||0)}</span></button>`).join('');
+
+  // rezumat AI
+  const b = S.brief;
+  if (b && b.items?.length && (S.cat === 'all') && !S.q) {
+    $('briefSec').hidden = false;
+    $('briefSub').textContent = `Generat automat de AI pe ${fmtTime(b.generated_at)} din știrile recente. Verifică sursele înainte să tragi concluzii.`;
+    $('brief').innerHTML = b.items.map((x, i) => `<article class="bcard">
+      <div class="row" style="justify-content:space-between"><span class="bnum">${i+1}</span><span class="btag">${esc(x.tag)}</span></div>
+      <h3>${esc(x.title)}</h3><p>${esc(x.summary)}</p>
+      ${x.so_what ? `<div class="sowhat"><b>Pentru echipă:</b> ${esc(x.so_what)}</div>` : ''}
+      ${x.evidence ? `<div class="evid"><b>Dovezi:</b> ${esc(x.evidence)}</div>` : ''}
+      <div class="blinks">${(x.links||[]).map(l => `<a href="${esc(l.link)}" target="_blank" rel="noopener">↗ ${esc(l.source)}: ${esc(l.title)}</a>`).join('')}</div>
+    </article>`).join('');
+  } else $('briefSec').hidden = true;
+
+  // listă
+  const items = filtered();
+  const catName = S.cat === 'all' ? 'Toate știrile' : D.categories.find(c => c.id === S.cat)?.name;
+  $('listTitle').textContent = catName;
+  $('listSub').textContent = `${art(items.length)} · ${$('win').selectedOptions[0].text.toLowerCase()}`;
+  if (!items.length) { $('list').innerHTML = '<div class="empty">Nimic în intervalul ales. Încearcă „Ultimele 7 zile”.</div>'; }
+  else if (S.view === 'timeline') {
+    $('list').innerHTML = `<div class="timeline"><ul class="items">${items.slice(0, 300).map(it => itemHTML(it, srcById[it.source], true)).join('')}</ul></div>`;
+  } else {
+    const bySrc = {};
+    items.forEach(it => (bySrc[it.source] ||= []).push(it));
+    const order = D.sources.filter(s => bySrc[s.id]);
+    $('list').innerHTML = `<div class="grid">${order.map(s => {
+      const list = bySrc[s.id], open = S.expanded.has(s.id), shown = open ? list : list.slice(0, 6);
+      const name = s.home ? `<a href="${esc(s.home)}" target="_blank" rel="noopener">${esc(s.name)}</a>` : esc(s.name);
+      return `<section class="src" style="--cat:${catColor(s.category)}">
+        <div class="srch"><h3>${name}</h3><span class="cnt">${art(list.length)}</span></div>
+        <ul class="items">${shown.map(it => itemHTML(it, s, false)).join('')}</ul>
+        ${list.length > 6 ? `<button class="more" data-src="${s.id}">${open ? 'Arată mai puține' : `Arată toate (${list.length})`}</button>` : ''}
+      </section>`; }).join('')}</div>`;
+  }
+
+  const bad = D.sources.filter(s => !s.ok);
+  $('foot').innerHTML = `Surse active: ${okSrc}/${D.sources.length}. Se actualizează automat la fiecare 2 ore.
+    ${bad.length ? `<details><summary class="err">${bad.length} surse nu au răspuns la ultima actualizare</summary>
+      <ul>${bad.map(s => `<li>${esc(s.name)}: <span class="err">${esc(s.error)}</span></li>`).join('')}</ul></details>` : ''}`;
+}
+
+document.addEventListener('click', e => {
+  const tab = e.target.closest('.tab'); if (tab) { S.cat = tab.dataset.cat; render(); return; }
+  const more = e.target.closest('.more'); if (more) { const id = more.dataset.src; S.expanded.has(id) ? S.expanded.delete(id) : S.expanded.add(id); render(); return; }
+  const v = e.target.closest('[data-view]');
+  if (v) { S.view = v.dataset.view; document.querySelectorAll('[data-view]').forEach(b => b.setAttribute('aria-pressed', b === v)); render(); }
+});
+$('win').addEventListener('change', e => { S.win = +e.target.value; render(); });
+$('q').addEventListener('input', e => { S.q = e.target.value; if (S.data) render(); });
+$('reload').addEventListener('click', load);
+load();
+</script>
+</body>
+</html>
