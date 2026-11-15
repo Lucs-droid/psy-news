@@ -1,0 +1,39 @@
+name: Actualizare știri
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"   # la fiecare 2 ore
+  workflow_dispatch:          # buton manual „Run workflow”
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalează bibliotecile
+        run: pip install feedparser requests
+
+      - name: Adună știrile
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python build.py
+
+      - name: Salvează rezultatul
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data.json briefing.json 2>/dev/null || git add data.json
+          git diff --cached --quiet || git commit -m "Actualizare știri $(date -u +'%Y-%m-%d %H:%M')"
+          git push
