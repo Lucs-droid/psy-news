@@ -229,9 +229,12 @@ function render(){
   }
 
   const bad = D.sources.filter(s => !s.ok);
+  const zero = D.sources.filter(s => s.ok && !s.count);
   $('foot').innerHTML = `Surse active: ${okSrc}/${D.sources.length}. Se actualizează automat la fiecare 2 ore.
     ${bad.length ? `<details><summary class="err">${bad.length} surse nu au răspuns la ultima actualizare</summary>
-      <ul>${bad.map(s => `<li>${esc(s.name)}: <span class="err">${esc(s.error)}</span></li>`).join('')}</ul></details>` : ''}`;
+      <ul>${bad.map(s => `<li>${esc(s.name)}: <span class="err">${esc(s.error)}</span></li>`).join('')}</ul></details>` : ''}
+    ${zero.length ? `<details><summary>${zero.length} surse au răspuns, dar fără articole noi</summary>
+      <ul>${zero.map(s => `<li>${esc(s.name)}</li>`).join('')}</ul></details>` : ''}`;
 }
 
 document.addEventListener('click', e => {
