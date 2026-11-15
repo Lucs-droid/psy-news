@@ -1,49 +1,367 @@
 {
   "categories": [
-    { "id": "psih",       "name": "Psihologie" },
-    { "id": "wellbeing",  "name": "Sănătate mintală & wellbeing" },
-    { "id": "people",     "name": "People & Culture / HR" },
-    { "id": "leadership", "name": "Leadership & organizații" },
-    { "id": "ro",         "name": "România" },
-    { "id": "research",   "name": "Studii noi (PubMed)" }
+    {
+      "id": "psih",
+      "name": "Psihologie"
+    },
+    {
+      "id": "wellbeing",
+      "name": "Sănătate mintală & wellbeing"
+    },
+    {
+      "id": "people",
+      "name": "People & Culture / HR"
+    },
+    {
+      "id": "leadership",
+      "name": "Leadership & organizații"
+    },
+    {
+      "id": "ro",
+      "name": "România"
+    },
+    {
+      "id": "research",
+      "name": "Studii noi (PubMed)"
+    }
   ],
   "sources": [
-    { "category": "psih", "name": "PsyPost", "type": "rss", "url": "https://www.psypost.org/feed/", "home": "https://www.psypost.org" },
-    { "category": "psih", "name": "ScienceDaily – Mind & Brain", "type": "rss", "url": "https://www.sciencedaily.com/rss/mind_brain.xml", "home": "https://www.sciencedaily.com/news/mind_brain/" },
-    { "category": "psih", "name": "Medical Xpress – Psychology", "type": "rss", "url": "https://medicalxpress.com/rss-feed/psychology-psychiatry-news/", "home": "https://medicalxpress.com/psychology-psychiatry-news/" },
-    { "category": "psih", "name": "Neuroscience News – Psychology", "type": "rss", "url": "https://neurosciencenews.com/neuroscience-topics/psychology/feed/", "home": "https://neurosciencenews.com" },
-    { "category": "psih", "name": "Greater Good (UC Berkeley)", "type": "rss", "url": "https://greatergood.berkeley.edu/site/rss/articles", "home": "https://greatergood.berkeley.edu" },
-    { "category": "psih", "name": "Nature Human Behaviour", "type": "rss", "url": "https://www.nature.com/nathumbehav.rss", "home": "https://www.nature.com/nathumbehav/" },
-
-    { "category": "wellbeing", "name": "WHO – News", "type": "rss", "url": "https://www.who.int/rss-feeds/news-english.xml", "home": "https://www.who.int/news" },
-    { "category": "wellbeing", "name": "The Guardian – Mental health", "type": "rss", "url": "https://www.theguardian.com/society/mental-health/rss", "home": "https://www.theguardian.com/society/mental-health" },
-    { "category": "wellbeing", "name": "The Guardian – Health & wellbeing", "type": "rss", "url": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss", "home": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing" },
-    { "category": "wellbeing", "name": "NPR – Health", "type": "rss", "url": "https://feeds.npr.org/1128/rss.xml", "home": "https://www.npr.org/sections/health/" },
-    { "category": "wellbeing", "name": "Harvard Health Blog", "type": "rss", "url": "https://www.health.harvard.edu/blog/feed", "home": "https://www.health.harvard.edu/blog" },
-    { "category": "wellbeing", "name": "Google News – Workplace mental health", "type": "gnews", "query": "\"workplace mental health\" OR \"employee mental health\"", "lang": "en" },
-
-    { "category": "people", "name": "HR Dive", "type": "rss", "url": "https://www.hrdive.com/feeds/news/", "home": "https://www.hrdive.com" },
-    { "category": "people", "name": "Personnel Today", "type": "rss", "url": "https://www.personneltoday.com/feed/", "home": "https://www.personneltoday.com" },
-    { "category": "people", "name": "HR Executive", "type": "rss", "url": "https://hrexecutive.com/feed/", "home": "https://hrexecutive.com" },
-    { "category": "people", "name": "Josh Bersin", "type": "rss", "url": "https://joshbersin.com/feed/", "home": "https://joshbersin.com" },
-    { "category": "people", "name": "Google News – Employee wellbeing", "type": "gnews", "query": "\"employee wellbeing\" OR \"employee well-being\" OR \"employee engagement\"", "lang": "en" },
-    { "category": "people", "name": "Google News – People & Culture", "type": "gnews", "query": "\"people and culture\" OR \"HR leaders\" OR \"chief people officer\"", "lang": "en" },
-
-    { "category": "leadership", "name": "Harvard Business Review", "type": "rss", "url": "https://feeds.hbr.org/harvardbusiness", "home": "https://hbr.org" },
-    { "category": "leadership", "name": "MIT Sloan Management Review", "type": "rss", "url": "https://sloanreview.mit.edu/feed/", "home": "https://sloanreview.mit.edu" },
-    { "category": "leadership", "name": "Knowledge at Wharton", "type": "rss", "url": "https://knowledge.wharton.upenn.edu/feed/", "home": "https://knowledge.wharton.upenn.edu" },
-    { "category": "leadership", "name": "Google News – Organizational psychology", "type": "gnews", "query": "\"organizational psychology\" OR \"organizational culture\" OR \"psychological safety\"", "lang": "en" },
-
-    { "category": "ro", "name": "Google News RO – Resurse umane", "type": "gnews", "query": "\"resurse umane\" OR angajatori OR \"departamentul de HR\"", "lang": "ro" },
-    { "category": "ro", "name": "Google News RO – Sănătate mintală", "type": "gnews", "query": "\"sănătate mintală\" OR \"sănătatea mintală\" OR anxietate OR depresie", "lang": "ro" },
-    { "category": "ro", "name": "Google News RO – Burnout & stres la muncă", "type": "gnews", "query": "burnout OR \"stres la locul de muncă\" OR \"stresul la locul de muncă\"", "lang": "ro" },
-    { "category": "ro", "name": "Google News RO – Psihologie", "type": "gnews", "query": "psiholog OR psihologie OR psihoterapie", "lang": "ro" },
-    { "category": "ro", "name": "Google News RO – Piața muncii", "type": "gnews", "query": "\"piața muncii\" OR \"salariați\" OR \"cultura organizațională\"", "lang": "ro" },
-
-    { "category": "research", "name": "PubMed – Burnout & stres ocupațional", "type": "pubmed", "query": "(\"burnout, professional\"[MeSH] OR \"occupational stress\"[MeSH] OR burnout[tiab] OR \"work stress\"[tiab] OR \"job stress\"[tiab] OR \"occupational stress\"[tiab])" },
-    { "category": "research", "name": "PubMed – Job Demands-Resources & engagement", "type": "pubmed", "query": "(\"job demands\"[tiab] OR \"job resources\"[tiab] OR \"work engagement\"[tiab] OR \"JD-R\"[tiab])" },
-    { "category": "research", "name": "PubMed – Echitate organizațională", "type": "pubmed", "query": "(\"organizational justice\"[tiab] OR \"organisational justice\"[tiab] OR \"perceived fairness\"[tiab] OR \"procedural justice\"[tiab])" },
-    { "category": "research", "name": "PubMed – Siguranță psihologică & leadership", "type": "pubmed", "query": "(\"psychological safety\"[tiab] OR \"transformational leadership\"[tiab] OR \"abusive supervision\"[tiab] OR \"servant leadership\"[tiab])" },
-    { "category": "research", "name": "PubMed – Motivație & wellbeing la muncă", "type": "pubmed", "query": "(\"work motivation\"[tiab] OR \"employee well-being\"[tiab] OR \"employee wellbeing\"[tiab] OR \"occupational well-being\"[tiab] OR (\"self-determination theory\"[tiab] AND work*[tiab]))" }
+    {
+      "category": "psih",
+      "name": "PsyPost",
+      "type": "rss",
+      "url": "https://www.psypost.org/feed/",
+      "home": "https://www.psypost.org"
+    },
+    {
+      "category": "psih",
+      "name": "ScienceDaily – Mind & Brain",
+      "type": "rss",
+      "url": "https://www.sciencedaily.com/rss/mind_brain.xml",
+      "home": "https://www.sciencedaily.com/news/mind_brain/"
+    },
+    {
+      "category": "psih",
+      "name": "Medical Xpress – Psychology",
+      "type": "gnews",
+      "home": "https://medicalxpress.com/psychology-psychiatry-news/",
+      "query": "site:medicalxpress.com psychology OR psychiatry OR mental",
+      "lang": "en"
+    },
+    {
+      "category": "psih",
+      "name": "Neuroscience News – Psychology",
+      "type": "gnews",
+      "home": "https://neurosciencenews.com",
+      "query": "site:neurosciencenews.com psychology OR behavior OR mental",
+      "lang": "en"
+    },
+    {
+      "category": "psih",
+      "name": "Greater Good (UC Berkeley)",
+      "type": "rss",
+      "url": "https://greatergood.berkeley.edu/site/rss/articles",
+      "home": "https://greatergood.berkeley.edu"
+    },
+    {
+      "category": "psih",
+      "name": "Nature Human Behaviour",
+      "type": "rss",
+      "url": "https://www.nature.com/nathumbehav.rss",
+      "home": "https://www.nature.com/nathumbehav/"
+    },
+    {
+      "category": "psih",
+      "name": "APA – American Psychological Association (inclusiv Monitor on Psychology)",
+      "type": "gnews",
+      "query": "site:apa.org",
+      "lang": "en",
+      "home": "https://www.apa.org/monitor"
+    },
+    {
+      "category": "psih",
+      "name": "British Psychological Society",
+      "type": "gnews",
+      "query": "site:bps.org.uk",
+      "lang": "en",
+      "home": "https://www.bps.org.uk"
+    },
+    {
+      "category": "wellbeing",
+      "name": "WHO – News",
+      "type": "rss",
+      "url": "https://www.who.int/rss-feeds/news-english.xml",
+      "home": "https://www.who.int/news"
+    },
+    {
+      "category": "wellbeing",
+      "name": "The Guardian – Mental health",
+      "type": "rss",
+      "url": "https://www.theguardian.com/society/mental-health/rss",
+      "home": "https://www.theguardian.com/society/mental-health"
+    },
+    {
+      "category": "wellbeing",
+      "name": "The Guardian – Health & wellbeing",
+      "type": "rss",
+      "url": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss",
+      "home": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing"
+    },
+    {
+      "category": "wellbeing",
+      "name": "NPR – Health",
+      "type": "rss",
+      "url": "https://feeds.npr.org/1128/rss.xml",
+      "home": "https://www.npr.org/sections/health/"
+    },
+    {
+      "category": "wellbeing",
+      "name": "Harvard Health Blog",
+      "type": "gnews",
+      "home": "https://www.health.harvard.edu/blog",
+      "query": "site:health.harvard.edu OR site:harvardhealth.org",
+      "lang": "en"
+    },
+    {
+      "category": "wellbeing",
+      "name": "Google News – Workplace mental health",
+      "type": "gnews",
+      "query": "\"workplace mental health\" OR \"employee mental health\"",
+      "lang": "en"
+    },
+    {
+      "category": "wellbeing",
+      "name": "NIMH – National Institute of Mental Health",
+      "type": "gnews",
+      "query": "site:nimh.nih.gov OR \"National Institute of Mental Health\"",
+      "lang": "en",
+      "home": "https://www.nimh.nih.gov"
+    },
+    {
+      "category": "wellbeing",
+      "name": "EU-OSHA – riscuri psihosociale la muncă",
+      "type": "gnews",
+      "query": "site:osha.europa.eu OR \"EU-OSHA\" psychosocial",
+      "lang": "en",
+      "home": "https://osha.europa.eu"
+    },
+    {
+      "category": "people",
+      "name": "HR Dive",
+      "type": "rss",
+      "url": "https://www.hrdive.com/feeds/news/",
+      "home": "https://www.hrdive.com"
+    },
+    {
+      "category": "people",
+      "name": "Personnel Today",
+      "type": "gnews",
+      "home": "https://www.personneltoday.com",
+      "query": "site:personneltoday.com",
+      "lang": "en"
+    },
+    {
+      "category": "people",
+      "name": "HR Executive",
+      "type": "gnews",
+      "home": "https://hrexecutive.com",
+      "query": "site:hrexecutive.com",
+      "lang": "en"
+    },
+    {
+      "category": "people",
+      "name": "Josh Bersin",
+      "type": "rss",
+      "url": "https://joshbersin.com/feed/",
+      "home": "https://joshbersin.com"
+    },
+    {
+      "category": "people",
+      "name": "Google News – Employee wellbeing",
+      "type": "gnews",
+      "query": "\"employee wellbeing\" OR \"employee well-being\" OR \"employee engagement\"",
+      "lang": "en"
+    },
+    {
+      "category": "people",
+      "name": "Google News – People & Culture",
+      "type": "gnews",
+      "query": "\"people and culture\" OR \"HR leaders\" OR \"chief people officer\"",
+      "lang": "en"
+    },
+    {
+      "category": "people",
+      "name": "Gallup – Workplace",
+      "type": "gnews",
+      "query": "site:gallup.com workplace OR employees OR engagement",
+      "lang": "en",
+      "home": "https://www.gallup.com/workplace"
+    },
+    {
+      "category": "people",
+      "name": "CIPD",
+      "type": "gnews",
+      "query": "site:cipd.org OR CIPD",
+      "lang": "en",
+      "home": "https://www.cipd.org"
+    },
+    {
+      "category": "people",
+      "name": "SHRM",
+      "type": "gnews",
+      "query": "site:shrm.org OR SHRM",
+      "lang": "en",
+      "home": "https://www.shrm.org"
+    },
+    {
+      "category": "people",
+      "name": "Eurofound – condiții de muncă",
+      "type": "gnews",
+      "query": "site:eurofound.europa.eu OR Eurofound",
+      "lang": "en",
+      "home": "https://www.eurofound.europa.eu"
+    },
+    {
+      "category": "leadership",
+      "name": "Harvard Business Review",
+      "type": "gnews",
+      "home": "https://hbr.org",
+      "query": "site:hbr.org",
+      "lang": "en"
+    },
+    {
+      "category": "leadership",
+      "name": "MIT Sloan Management Review",
+      "type": "rss",
+      "url": "https://sloanreview.mit.edu/feed/",
+      "home": "https://sloanreview.mit.edu"
+    },
+    {
+      "category": "leadership",
+      "name": "Knowledge at Wharton",
+      "type": "rss",
+      "url": "https://knowledge.wharton.upenn.edu/feed/",
+      "home": "https://knowledge.wharton.upenn.edu"
+    },
+    {
+      "category": "leadership",
+      "name": "Google News – Organizational psychology",
+      "type": "gnews",
+      "query": "\"organizational psychology\" OR \"organizational culture\" OR \"psychological safety\"",
+      "lang": "en"
+    },
+    {
+      "category": "ro",
+      "name": "Google News RO – Resurse umane",
+      "type": "gnews",
+      "query": "\"resurse umane\" OR angajatori OR \"departamentul de HR\"",
+      "lang": "ro"
+    },
+    {
+      "category": "ro",
+      "name": "Google News RO – Sănătate mintală",
+      "type": "gnews",
+      "query": "\"sănătate mintală\" OR \"sănătatea mintală\" OR anxietate OR depresie",
+      "lang": "ro"
+    },
+    {
+      "category": "ro",
+      "name": "Google News RO – Burnout & stres la muncă",
+      "type": "gnews",
+      "query": "burnout OR \"stres la locul de muncă\" OR \"stresul la locul de muncă\"",
+      "lang": "ro"
+    },
+    {
+      "category": "ro",
+      "name": "Google News RO – Psihologie",
+      "type": "gnews",
+      "query": "psiholog OR psihologie OR psihoterapie",
+      "lang": "ro"
+    },
+    {
+      "category": "ro",
+      "name": "Google News RO – Piața muncii",
+      "type": "gnews",
+      "query": "\"piața muncii\" OR \"salariați\" OR \"cultura organizațională\"",
+      "lang": "ro"
+    },
+    {
+      "category": "ro",
+      "name": "Colegiul Psihologilor & presă de psihologie RO",
+      "type": "gnews",
+      "query": "site:copsi.ro OR site:psychologies.ro OR \"Colegiul Psihologilor\"",
+      "lang": "ro",
+      "home": "https://www.copsi.ro"
+    },
+    {
+      "category": "ro",
+      "name": "Sănătate RO – instituții (Ministerul Sănătății, INSP)",
+      "type": "gnews",
+      "query": "\"Ministerul Sănătății\" OR INSP OR \"Institutul Național de Sănătate Publică\"",
+      "lang": "ro",
+      "home": "https://insp.gov.ro"
+    },
+    {
+      "category": "ro",
+      "name": "Sănătate RO – presă medicală",
+      "type": "gnews",
+      "query": "site:viata-medicala.ro OR site:medichub.ro OR site:republica.ro sănătate",
+      "lang": "ro"
+    },
+    {
+      "category": "ro",
+      "name": "Google News RO – Wellbeing & echilibru",
+      "type": "gnews",
+      "query": "wellbeing OR \"echilibrul viață-muncă\" OR \"bunăstarea angajaților\"",
+      "lang": "ro"
+    },
+    {
+      "category": "research",
+      "name": "PubMed – Burnout & stres ocupațional",
+      "type": "pubmed",
+      "query": "(\"burnout, professional\"[MeSH] OR \"occupational stress\"[MeSH] OR burnout[tiab] OR \"work stress\"[tiab] OR \"job stress\"[tiab] OR \"occupational stress\"[tiab])"
+    },
+    {
+      "category": "research",
+      "name": "PubMed – Job Demands-Resources & engagement",
+      "type": "pubmed",
+      "query": "(\"job demands\"[tiab] OR \"job resources\"[tiab] OR \"work engagement\"[tiab] OR \"JD-R\"[tiab])"
+    },
+    {
+      "category": "research",
+      "name": "PubMed – Echitate organizațională",
+      "type": "pubmed",
+      "query": "(\"organizational justice\"[tiab] OR \"organisational justice\"[tiab] OR \"perceived fairness\"[tiab] OR \"procedural justice\"[tiab])"
+    },
+    {
+      "category": "research",
+      "name": "PubMed – Siguranță psihologică & leadership",
+      "type": "pubmed",
+      "query": "(\"psychological safety\"[tiab] OR \"transformational leadership\"[tiab] OR \"abusive supervision\"[tiab] OR \"servant leadership\"[tiab])"
+    },
+    {
+      "category": "research",
+      "name": "PubMed – Motivație & wellbeing la muncă",
+      "type": "pubmed",
+      "query": "(\"work motivation\"[tiab] OR \"employee well-being\"[tiab] OR \"employee wellbeing\"[tiab] OR \"occupational well-being\"[tiab] OR (\"self-determination theory\"[tiab] AND work*[tiab]))"
+    },
+    {
+      "category": "research",
+      "name": "PubMed – Reviste de psihologie organizațională (JAP, JOHP, Work & Stress, JOB)",
+      "type": "pubmed",
+      "query": "(\"J Appl Psychol\"[ta] OR \"J Occup Health Psychol\"[ta] OR \"Work Stress\"[ta] OR \"J Organ Behav\"[ta])"
+    },
+    {
+      "category": "research",
+      "name": "PubMed – Reviste de top în psihologie (Psych Science, Psych Bulletin, Am Psychologist, JPSP…)",
+      "type": "pubmed",
+      "query": "(\"Psychol Sci\"[ta] OR \"Psychol Bull\"[ta] OR \"Am Psychol\"[ta] OR \"Annu Rev Psychol\"[ta] OR \"Nat Hum Behav\"[ta] OR \"J Pers Soc Psychol\"[ta])"
+    },
+    {
+      "category": "research",
+      "name": "PubMed – Sănătate mintală (Lancet Psychiatry, JAMA Psychiatry, World Psychiatry)",
+      "type": "pubmed",
+      "query": "(\"Lancet Psychiatry\"[ta] OR \"JAMA Psychiatry\"[ta] OR \"World Psychiatry\"[ta] OR \"Lancet Public Health\"[ta])"
+    }
   ]
 }
