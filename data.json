@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T07:39:56.940247+00:00",
+ "generated_at": "2026-11-17T09:21:39.322139+00:00",
  "categories": [
   {
    "id": "psih",
@@ -65,7 +65,7 @@
    "type": "gnews",
    "ok": true,
    "error": null,
-   "count": 21
+   "count": 22
   },
   {
    "id": "s4",
@@ -163,9 +163,9 @@
    "category": "wellbeing",
    "home": null,
    "type": "gnews",
-   "ok": false,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22workplace+mental+health%22+OR+%22employee+mental+health%22+when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "count": 0
+   "ok": true,
+   "error": null,
+   "count": 10
   },
   {
    "id": "s14",
@@ -205,7 +205,7 @@
    "type": "gnews",
    "ok": true,
    "error": null,
-   "count": 30
+   "count": 29
   },
   {
    "id": "s18",
@@ -215,7 +215,7 @@
    "type": "gnews",
    "ok": true,
    "error": null,
-   "count": 28
+   "count": 29
   },
   {
    "id": "s19",
@@ -235,7 +235,7 @@
    "type": "gnews",
    "ok": true,
    "error": null,
-   "count": 31
+   "count": 30
   },
   {
    "id": "s21",
@@ -243,9 +243,9 @@
    "category": "people",
    "home": null,
    "type": "gnews",
-   "ok": false,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22people+and+culture%22+OR+%22HR+leaders%22+OR+%22chief+people+officer%22+when%3A7d&hl=en-US&gl=US&ceid=US:en",
-   "count": 0
+   "ok": true,
+   "error": null,
+   "count": 40
   },
   {
    "id": "s22",
@@ -265,7 +265,7 @@
    "type": "gnews",
    "ok": true,
    "error": null,
-   "count": 7
+   "count": 6
   },
   {
    "id": "s24",
@@ -275,7 +275,7 @@
    "type": "gnews",
    "ok": true,
    "error": null,
-   "count": 33
+   "count": 34
   },
   {
    "id": "s25",
@@ -295,7 +295,7 @@
    "type": "gnews",
    "ok": true,
    "error": null,
-   "count": 27
+   "count": 25
   },
   {
    "id": "s27",
@@ -335,7 +335,7 @@
    "type": "gnews",
    "ok": true,
    "error": null,
-   "count": 34
+   "count": 32
   },
   {
    "id": "s31",
@@ -355,7 +355,7 @@
    "type": "gnews",
    "ok": true,
    "error": null,
-   "count": 5
+   "count": 6
   },
   {
    "id": "s33",
@@ -363,9 +363,9 @@
    "category": "ro",
    "home": null,
    "type": "gnews",
-   "ok": false,
-   "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=psiholog+OR+psihologie+OR+psihoterapie+when%3A7d&hl=ro&gl=RO&ceid=RO:ro",
-   "count": 0
+   "ok": true,
+   "error": null,
+   "count": 25
   },
   {
    "id": "s34",
@@ -385,7 +385,7 @@
    "type": "gnews",
    "ok": true,
    "error": null,
-   "count": 8
+   "count": 9
   },
   {
    "id": "s36",
@@ -500,6 +500,94 @@
  ],
  "items": [
   {
+   "title": "Când aceeași întrebare sună a grijă pentru unul și a control pentru celălalt",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ3RKVElGZFphcHlmaVUtV3R0eUxWVkJyWFB4bFAzUllRVU9NSklOR3REM3d3TVRsdUFVcDR0dUdJVWh2dUZ1QkpDay10RkFaaG1YMnlkaHljeWgxY1ZxNlU2U2Z6YmdGMDVWcmd5WEcxc2hGM2EzZGFKRlNxWnl2azFaXzJ1dDBXTnljQUlTWkNyb3ZUMTB3TG9vbHlqdk9YcjZ1TjBXYUNwNHpaa1dENHIxajF1ZzEzRGxKbnBRZjAzVnZRRFFIZy1VWQ?oc=5",
+   "date": "2026-11-17T09:04:10+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Revista PSYCHOLOGIES Romania",
+   "id": "a9bab3c5a8e7",
+   "source": "s35",
+   "category": "ro"
+  },
+  {
+   "title": "McFrank",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12LWdpWkNTU0hWd0NnX01SQnRhamw2R3hITk8yZ2I1N2xHRERQVXNRNmJaWTUyX0s5bzVvQU02MlpEWWp3ak84TVAyTWFkMXlfWGpFc2d5Vy1MN0FYUXp1VGhxV19Kdw?oc=5",
+   "date": "2026-11-17T09:03:46+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "SHRM Human Resource Vendor Directory",
+   "id": "ae40f4bca009",
+   "source": "s24",
+   "category": "people"
+  },
+  {
+   "title": "Can AI be used safely in workplace monitoring?",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQem5tLUNTWGpmcHFyUXBVY2hnYUFmM255Y1g2a0Zjc1NuWHFYREN0ZWJZSG1qTFJ4aTZudVVHTXQ5UTh3clpJTURXb19GdlQ5R29JdXBkTThEV3FVcGROVnEyX201MXlOeDJfTm9XS01xeWlib3BkXy1sYVBSTWVuM0dNVXptblU?oc=5",
+   "date": "2026-11-17T09:01:24+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Personnel Today",
+   "id": "b01451cdb107",
+   "source": "s17",
+   "category": "people"
+  },
+  {
+   "title": "Inadequate healthcare could cause women to leave their jobs",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUpSeS1mcHRYY01meXpxeGVNZGdIdTF2dk9nbjZWR2ZRZ2tudGhLMDQ0LWp1dnpnTTUzZ0twOWgyc3l6T1B1eU1HV2xkS19sZ0NqNl9uc1d2RU5pZzNOQmY5bko1UEh1UDNEU3dzUzY4MnZScmNDejQwcmlhRklMYkVmZEE1dkl3UTB4RlUzMmdUSlZhcjNzWmdR?oc=5",
+   "date": "2026-11-17T09:00:21+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Personnel Today",
+   "id": "13f47caececb",
+   "source": "s17",
+   "category": "people"
+  },
+  {
+   "title": "Scandal la Ministerul Sănătății! USR și PNL pregătesc o moțiune împotriva lui Alexandru Rogobete",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPM01Xd3NlVVpzVHpuRDl4eTJBU1dzdHoxOE9XYVdHeUQ5dWE3NS10bURRSW5CRGtHcmZ1T2gxQVY5TndwTUVyLTdjQWFudGlBeUxWM3dVZjVna3V5WVZyMW1IbWRWM2ZCaXFpNG1nUW05YXBoSVZwamMtUDN6b2x4VjlGWDdUUXRJSW13ck4tcVF1Mm4yeTIyS2VrOHM1amYxYkN2S1p1Q1lZZDFyNXZQTFUxZEtZcThlUUgwaUZPMnR3UzJwV2hXcUxOUGt4Vmpkbm9Hc0w5T000SkVOMHFhMHBGWHk1cGM0?oc=5",
+   "date": "2026-11-17T08:50:16+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "CugetLiber.ro",
+   "id": "9b7024677850",
+   "source": "s36",
+   "category": "ro"
+  },
+  {
+   "title": "ARC appoints new chief people officer",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTktPVVJrOEk2V3Q2QjlncVNWREZYUmE1MWFDcnRXQTFWbnZiSHRVLXJZNng4TjFjVjFQMDQ3YUpWcktyM1NKU1BpU043U3BEaFFOVDE0Y1kwT3NiUEZXS253eFluLTlnMWR3Qk9ZTnVaNkJraWtjQ0U5MFhsU3hNZmotV2xVSEJNRFNHMUZuZUdvc1gyUTdr?oc=5",
+   "date": "2026-11-17T08:33:18+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "InterGame Online",
+   "id": "eff5c049e14d",
+   "source": "s21",
+   "category": "people"
+  },
+  {
+   "title": "Edenred India's Economic Value Study Challenges Conventional Thinking on What Drives Business Performance",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMzhoamVheGhtRWZiRlp0SkxEUk5kUUZHNkc4azVFTWxyeVdYYzRiNXUxYndVTWZZRUUzMUFnZGNKSnNJWmltVkNxZ1ZaWjQ2SVU3ZGlOemtPblotdGtvd2ctWGZVZzZyRkdaSmdmQ0l6MklPSkFGRGtXVVFfNW1GY1RMcnR4amI0TWM5UnQ4Vy0zXzQxSXVLbEJCcUNxTnhmU2RrdDlHdG9tekNiZFFrU1hLSlM2clZ0OHgtdkJQVHRBLUJMOTJUUi05SElGTW0zX1hPUzF1TEI3cHdHenh4OVpsQQ?oc=5",
+   "date": "2026-11-17T08:30:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Big News Network.com",
+   "id": "f95859bde972",
+   "source": "s20",
+   "category": "people"
+  },
+  {
+   "title": "Dozens injured as two trains collide near Prague’s main railway station",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFJHNzBxQ3hNX1VKMVRiOWRhSVhXSldCVGFzalFYcS1WOUt2Rnd6c2FpOS1OVFAyRUZyV1lHcDhuNkFNSHZOUVVpY3c5MElTcjctVjA5YVFFVGJnVmc5NF9FRUN3a0J4YmxZZUViQ19XSUdKbWxQNWhQdFNOdnV4VFEzMkViZUczZnZXSWh0RVhMR2d3LUV2T185SVZBczlnMm5XM0EzbDFuc1JiaU9XNkV3?oc=5",
+   "date": "2026-11-17T08:01:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Expats.cz",
+   "id": "6b73b3e17b3d",
+   "source": "s32",
+   "category": "ro"
+  },
+  {
    "title": "Ministerul Sănătății extinde testarea genetică pentru încă șase tipuri de cancer. Noile investigații ar putea fi decontate începând cu 1 ianuarie 2027",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT3gtLXY5djYxb1dDT01jdktSVkxkdUJtREdRQi1OaUl5SzNHckwxbVpCZzJ4WG9saTBNb0wzekZwdkRhQ1pmZHNpNVZiNWh0OFY2eHlxOXhJbWcydkVYQ0FyZmRwQUZXLXZXZFNhcDV6cEFOcXV5ZnY1LUJKVktzb0dyYWdXWjM0ZUZzVnVPWl9OcUNfY0FsTUhxWF95VHlmdG5TdzhTSHdaLTZSUDRKYjVvUGVhUEdYR2hLQy1NRHo0SXh0Q2ozeXZQcC1NU1hCUFU3b1JKUUpBdS1GVnRaUHp2MGhrNWU1QXlqbk93NE85dFExVEgxNQ?oc=5",
    "date": "2026-11-17T07:29:07+00:00",
@@ -533,6 +621,17 @@
    "category": "wellbeing"
   },
   {
+   "title": "A Guide to Healthy Eating: Strategies, tips, and recipes to help you make better food choices",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFVoVTlNdWN1dkc0VDNEeUV6YkxqZDdkRk5LWHJQbWZWU2t4RVplRHhXR2dEV2QyaFN6N0wyYXNwMXltbUlnOU9aeHJiZ2NqTXBFWEV6U1lUVTN0WFJBR2NPMzBvbUswSVpITUlPdzdVRU1MWnIzcDB0bXlydnhpM0pqQ2JyVGoyOTE1S25EMjh4UHpjU3pnSVdoN1g4T3Jsb1huLUxiYjhVcVJSX1ZSVUNXX3JnT3NTQjk0Vk12ZUxtNi0xY1Z5c0RQLUNiVTRFTzNNOTZR?oc=5",
+   "date": "2026-11-17T06:51:37+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Harvard Health",
+   "id": "2b063b8d270c",
+   "source": "s12",
+   "category": "wellbeing"
+  },
+  {
    "title": "Men's Health",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82S1FMQ0N0eVB4WFBNQjZxOXIwV19aZmlERjlQTS1kckxZOGJReEMwNHM2UUZrbTA1c2MwUnVlQldndWFvbHNHM1dNTlBCd0x1VWJrd1lYSnZBeldL?oc=5",
    "date": "2026-11-17T06:45:31+00:00",
@@ -544,15 +643,26 @@
    "category": "wellbeing"
   },
   {
-   "title": "Edenred India's Economic Value Study Challenges Conventional Thinking on What Drives Business Performance",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWllTNVh2WDhWREsxVUZmcUxxSGJfUnZJb3R5UjNoQ3l4ZmpmWmh4R0FES3BGa2tjTEhmVG1RbDdvaFNLMzlEYjBvaDBCUGZDem0xcXFuU0dRRG5YZ0U1TXB4Njk1aV94Wmt4TmhjTE5yUjk2ZGJTZy10NTE0Zkg3VENYT09aNnQzSjFxS0FsdGZFUm9TMlB2ZXJIYXA3MDQtdzJYTnF0SUN6YnFFWEh4alExaEQ5aXptZDlOck91UjdkWGFvenZjLWwxaC01dXdOeVBDdnBXSG1NcWtKSVJKOGxhdDgyQQ?oc=5",
-   "date": "2026-11-17T06:20:29+00:00",
+   "title": "9 cărți de la mijlocul lunii noiembrie",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcVE3S0dWVlBZTUpOTXpvVzA2YzVnNnRDWVVHeURROXl5VTh4OWNsRXZsZmNCSDZDc21sRzVVcG9LZ0RUWHFwcEUyekxNTXF0ajdWOE42Uk5ZLU1QV19pbnc2MjhfUW1QLUdnMzhEYTE0MUpfU0c2ZzZHRWFweURRaXA5dDRFTkNORGxPNnZFZkczYmhlRy1J0gGKAUFVX3lxTE10c1d2bDJzQTZ0TVlJSDFqbHl6ZG5UcUY3UFFEWFRqT05UOWlxc0drQW42OFM3OGd3VjZfQjJhUTFjV2QwZk52Q0dJV3ZrU2gwRnpQekhwdUFtVEpjWi16VFdqZGYxOUFVdVhFR1lrR0hGT0Q5ZmdSMFBkUHBWYmtHUFlVcklTZ3BlQQ?oc=5",
+   "date": "2026-11-17T06:40:01+00:00",
    "summary": "",
    "author": null,
-   "publisher": "Business Wire India",
-   "id": "50045dc1cfcb",
-   "source": "s20",
-   "category": "people"
+   "publisher": "Jurnalul",
+   "id": "07e5096ca49b",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
+   "title": "Dashboard - APA Style Manual - American Psychological Association",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHdHp0bklmQmtQYkR3LVctQTNJQ05JaEQ0TVhPTTZobmJueEozYTAwLUdsellaWWNoQlVzN0dNMzNRYk9GNWxuZ25zVzVndw?oc=5",
+   "date": "2026-11-17T06:39:50+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "American Psychological Association (APA)",
+   "id": "88125adec284",
+   "source": "s6",
+   "category": "psih"
   },
   {
    "title": "Lao Cai își propune să atragă 400 de resurse umane de înaltă calitate până în 2030.",
@@ -597,17 +707,6 @@
    "id": "b0607b5e38bc",
    "source": "s12",
    "category": "wellbeing"
-  },
-  {
-   "title": "17 NOIEMBRIE – ZIUA DE ACȚIUNE PENTRU ELIMINAREA CANCERULUI DE COL UTERIN",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGhnb2l1d0lBcWdLSFFnYUoycEQyQ05yZE9xelppU2djQngyeHZQNjAyRVozdmwzZnVDbTc1TXo5RXg0M3RQYmJMMVk5b01OMm5hbkRhdEtfdkprbEVZbDBhWDlUQlFRbVVJWW1mcm9CMDRBZ2xScU5iS3lmNnp3RzZtN3piLWdpRWVmb0xleEsxbE5rdnhORTZROUFoeDg3OGJWR3BB?oc=5",
-   "date": "2026-11-17T05:47:30+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Institutul Național de Sănătate Publică (INSP)",
-   "id": "9c908644d0a5",
-   "source": "s36",
-   "category": "ro"
   },
   {
    "title": "Gripa B/Victoria a fost confirmată în Bulgaria. Câte cazuri de gripă sunt în România și ce arată datele INSP",
@@ -764,6 +863,17 @@
    "category": "people"
   },
   {
+   "title": "Form 4 Valvoline Inc: Jonathan L. Caldwell (Chief People Officer) For: 12 November By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOVpITmtDVVUtRzJKTDlTZXZuVEJza2RodnpHOUtnSEhhSzBCTTBqT3FPMDE4NDZEeF84RF9SSk14Q3FrMGNGY3BHQTllbVdlMDVyNGRLSkZQbTJQYUlwLWNZTGdBeW1VMzc4aHRBRE9Vd3FCOXlTRmdzRWJVejhTUFlCcmRiZkFlcjlDVkFObkRqZi1wY2tqdGFORk1ZdWM3M3V3TG43UFFaWWg2bWR4ekloVHdXekczdi1jQVdlc0tCVWRySjFod3JiYldDWlVkQ2ZwWg?oc=5",
+   "date": "2026-11-17T03:52:38+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Investing.com India",
+   "id": "7164a84f94b1",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "Bunions and bunionettes",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13NkRoUjNhOFBmV3J6OHNNODNhb212dkhaS016R1pmeEhmVVJOQ0oxQWZIODhzbnk0anoycGFVNzk1X1E1aFZwTFVqR0V3b2FHal9UWlFpN0dmT01LYkVRY0N5c0lnRUg4Tktha2ZKRQ?oc=5",
    "date": "2026-11-17T03:40:42+00:00",
@@ -786,6 +896,17 @@
    "category": "wellbeing"
   },
   {
+   "title": "Cyient appoints Dhirendra Nath as Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbjVyaEpXazNabnhGNnVleWtwLWhWbkNUTnIwM3VlV2xXaFgyX0N3N2E4NU0xVkRUaVlVN0lJRHdteEUzR1dOQzE4TnJLN3pYMHphSkUtaUhTSVdJclEtVnhDWmg3T1lBSFNpc0RBRXhQeGtmU3JzejRwREJtRXNQNHRiU0JGcHo1d2l4YjFMWTJWblZqcGZLOFNVVkQ4a1FhZkVrVUZxaXdkLUhl?oc=5",
+   "date": "2026-11-17T03:20:09+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "scanx.trade",
+   "id": "fb3a4f9047d7",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "- British Psychological Society",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0ExT3hkSWJ2UnYxNnVROEpiYUdWM0d6emdPQTFaZHRxX2pTWjF6QUpyWlEtRWFOemdOMnJzX01DdlE5M2dFeFdpdDY0ZjB4dkVGUzBObVZBcF9xSFBQendVNlAtRVotQTM0cDJJSmIwdXdadF9KdnZLZ1RfY1pLWHIyNDcyYjJDems4MnNpYThsTzMyaGFhZnQ0WnUtdDE0WG1LMzdFSlRqcF9zQzEtSVJtVmIxLUNhYTUwWHRyY1lubTBXX3NzamV3cw?oc=5",
    "date": "2026-11-17T02:29:58+00:00",
@@ -795,6 +916,28 @@
    "id": "e6b040bcd723",
    "source": "s7",
    "category": "psih"
+  },
+  {
+   "title": "Harvard Men's Health Watch",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RcUJPMGJQTDdFVVRpMlhLSkVFNUZKX05xYlhSWllyc3lOZUpnaFBSb1lQaTNjTDI3UTBYUmVyQ2FVeHpyZ21MZHpZaGZFNkloOFpyRmhTQlpHalNyRE15d0ZZUG1qeVVBTTFkWGZxVUhNck82S3c?oc=5",
+   "date": "2026-11-17T02:08:54+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Harvard Health",
+   "id": "ff582695a272",
+   "source": "s12",
+   "category": "wellbeing"
+  },
+  {
+   "title": "Form 4 Klaviyo Inc: Carmel Galvin (Chief People Officer) For: 15 November",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaHVjMGFsU0VYS093RG5iTkpRdVdNU1VfaFY4UTBPOU5GX0xLbmVSc2JtS0NzTTJRMTQwWl9ZRUhlYVd6QVpKR1VvU0E3dTZmbjlUV0Z3LVV3bWlxV2FnLWVzTlUtN1lLS1hJSXRpejJvZk1Wa2pSVnNjSUtTX3JOcy1KZ2RZUk1KSXZxOWhDSTFfV1BzTlhxeU9idVFELUVJV2ZKS1cwSXhsUmF5ZWRrWUdFZUJMLUFxMXZLSjZLWm83TkpCOGZ3ZkFB?oc=5",
+   "date": "2026-11-17T02:05:02+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Investing.com Canada",
+   "id": "447713c90d54",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "Ask Dr. Rob about OCD",
@@ -852,15 +995,15 @@
    "category": "leadership"
   },
   {
-   "title": "A Guide to Healthy Eating: Strategies, tips, and recipes to help you make better food choices",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFVoVTlNdWN1dkc0VDNEeUV6YkxqZDdkRk5LWHJQbWZWU2t4RVplRHhXR2dEV2QyaFN6N0wyYXNwMXltbUlnOU9aeHJiZ2NqTXBFWEV6U1lUVTN0WFJBR2NPMzBvbUswSVpITUlPdzdVRU1MWnIzcDB0bXlydnhpM0pqQ2JyVGoyOTE1S25EMjh4UHpjU3pnSVdoN1g4T3Jsb1huLUxiYjhVcVJSX1ZSVUNXX3JnT3NTQjk0Vk12ZUxtNi0xY1Z5c0RQLUNiVTRFTzNNOTZR?oc=5",
-   "date": "2026-11-17T00:38:46+00:00",
+   "title": "Form 4 ZILLOW GROUP: Dan Spaulding (Chief People Officer) For: 12 November",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcDBHMW42aHRweVQ1NG95QWVHTUltcjJCeS1rZk5QaUxvcWg5aW1qZlhlTkdIdDNZWnFlbkdzN2NjS3hILWN4QWdHS0NFNmlhTHNQQnA3MUQ5TVBzeGJzYmNlVXB6QWVOQkpzMkNvLTJwZ0Q3VFcwc1RLMXlJV215UnRNWkVCejR6UnBLYjJFSkxpWVBoUUdMczBrY3RKdkxOZExEemRPemJjbC1tN09fNTJ6ZkRNSGZGakJSQzRMTGx1bFMzVlZFbXg5Yw?oc=5",
+   "date": "2026-11-17T01:03:36+00:00",
    "summary": "",
    "author": null,
-   "publisher": "Harvard Health",
-   "id": "2b063b8d270c",
-   "source": "s12",
-   "category": "wellbeing"
+   "publisher": "Investing.com Canada",
+   "id": "a32e8b27041b",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "CSR Employee Engagement: How Carbon Literacy Creates Business Value",
@@ -885,15 +1028,15 @@
    "category": "people"
   },
   {
-   "title": "Harvard Men's Health Watch",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RcUJPMGJQTDdFVVRpMlhLSkVFNUZKX05xYlhSWllyc3lOZUpnaFBSb1lQaTNjTDI3UTBYUmVyQ2FVeHpyZ21MZHpZaGZFNkloOFpyRmhTQlpHalNyRE15d0ZZUG1qeVVBTTFkWGZxVUhNck82S3c?oc=5",
-   "date": "2026-11-16T23:33:58+00:00",
+   "title": "Netradyne Appoints Melissa Ribeiro as Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcldoU29PVmwzamFqa3lhazBMTTlDb3BWd0lrNVBaMnZsZFM5SDh0Nl81enFCeHFrOVNpOG1uZXI0cFJrb1N3ZmtJVGFuTFE5ckEyLVI5cnowal9TVFVlUUl0c2tITldTQVhZYU1NdGtheUFWWUpEa2RQT0gyX0tJRlQ4SmY?oc=5",
+   "date": "2026-11-16T23:33:28+00:00",
    "summary": "",
    "author": null,
-   "publisher": "Harvard Health",
-   "id": "ff582695a272",
-   "source": "s12",
-   "category": "wellbeing"
+   "publisher": "https://hrtoday.in/",
+   "id": "2f419ccd59c4",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "Navigating moral injury: a qualitative study exploring the lived experiences of healthcare workers in resource-limited settings in Mozambique.",
@@ -1116,6 +1259,17 @@
    "category": "ro"
   },
   {
+   "title": "Mark Green Appointed Chief People Officer at Avaya",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01QWxfc0ZycUZ0dUphWHcyTV9oT1FRX3hCTEhoUE4zVkM0d0dOODVBRncwLXh1V2JfNTZKOXJPbzNERTNJTFMta0prLXVEVXBEcVJVLWpVZUNMY0NKNEl4dzhRdzNkOXpkeE4wYV9TMElTQWRPamVBY2NB?oc=5",
+   "date": "2026-11-16T22:01:23+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "ddcba028d65c",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "Peste 4.000 de pacienți la Centrul de Sănătate Mintală din Târgu Jiu. Program extins",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLUpKN2pwS0VwbjZhVG9iMGFkVmlHc2d2VF9BMEJGZm4xYnd4cmE1MVZLZWZuMTRzM0tRYzlkZnhyMl8xTUdVdG1rQXA1dFo2ZFhPc3EzUlltUnlXQ3ZyZFdMVjdMVHJXNjVRdklBbTZJOHIzRDVxWXBjM1U0TWQ4ZktWSVBCRFNZSk54RVFQX016Vm5rWU1hSjlkRk53c3p2T01PRHk5VkhzZWYyLVR0aWFhTVVKV0lOcFgtanplTjREaG9JT1hRSQ?oc=5",
    "date": "2026-11-16T22:00:35+00:00",
@@ -1237,6 +1391,17 @@
    "category": "ro"
   },
   {
+   "title": "Researchers find potential way to protect the brain from HIV and opioid damage",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sOVhEWFZsal8td1RMbGdFVnFHek1qUmxiZzVJaXk1Z1l3cXlmcFQtSElVRjdxb1IwTVQ0Qkx1ampSd3haMVhDYVdWZENUNUhIMjRWZkM5TEFiREZSem96NW1HTWJZNmhSQjJiaHkxck5fSU1OSWVEaVpB?oc=5",
+   "date": "2026-11-16T20:40:06+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Medical Xpress",
+   "id": "cb5b9016814e",
+   "source": "s2",
+   "category": "psih"
+  },
+  {
    "title": "Employee Engagement Must Move Beyond Periodic Surveys: Meena Sinha",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNl9qMWpUa1dJNzdSNGlSUEJrRDZsNW9GVFFFQk80MkZBNUpXTGVnbE1mVWJvdjF3UVlVZFVHWlpteFpiYUZYVmhIRlcxejBFNVo3M1MzNDJqQ2NUYzkxNzc0aVpPTFNocjBkWktqLXAxNEpXMTVUQ3NiT1JpeWRHNEUzWU5MTlUtTzhtVjU4ZWRST2xleGxDdGVFWXE0SVhRY2xxdUxrUQ?oc=5",
    "date": "2026-11-16T20:29:58+00:00",
@@ -1270,6 +1435,17 @@
    "category": "leadership"
   },
   {
+   "title": "HR leaders must treat immigration as strategy, not paperwork: HRFest Canada panel",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNb2FwS0tGMjlUd0lQVFBhWFRXYzBWOVJvSmhpaWowM0l6V01ncWp3dDA3NFdXc2xRWlRDaXFIZ1ZmZnZaM210UzVZZUFZVDJVcjZQT2RUVGFSREhXcXczd19vbDNtWnhmaEp6MEZkenBsMlFiV1c2RTVRRHBUUDdNLVhzYXo0Nk9MZk9FdGxrdkJKUVZsNnl4Rk1zSm1LemtpNXA5NlJCVkdESjdJOTIwSXJ3bjB6OUpRZUp1QWpFTUpGWTJHUy1rRU1XMmZxZTd0dnNuOGt3?oc=5",
+   "date": "2026-11-16T20:27:52+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Human Resources Director",
+   "id": "2737cb6c4b0c",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "Older Brains Lose Synchronization Between Movement and Body Temperature",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YNW5zMi1lY09QSHVodUVqdjFOc0VyeE9zdmJRX2dHTHdCcnRUNk5HX2s2S2kwZFYxc0ZfTnJMVC1yX3psbFh5VFo0MTZXS2syWmlXSURqekhmOE9PbmI0dGYzc2pHejVlQzB4SC1Qc3JsTFZDdzA4cTlR?oc=5",
    "date": "2026-11-16T20:12:46+00:00",
@@ -1281,15 +1457,26 @@
    "category": "psih"
   },
   {
-   "title": "Anxiety disorders",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54amYtaTVQakRhMEIwU2habDExNUV2U0gwTERsZ0lUNDJJSFJycVdLVmoyTU9nYzZmcUowQURHeTRydlNVTEluRjZ2aVdndVNqWlEtczloanJEVndxV25wX3lsWmtUcmsybFdiaTVR?oc=5",
-   "date": "2026-11-16T20:02:16+00:00",
+   "title": "DIALOGURI LA ZI | Dumitru Coca Tincuța, psiholog clinician la Spitalul Județean Constanța și practician în psihoterapie integrativă, invitată în emisiunea de astăzi",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNYlR4VjR0cC04dERNdWh3X0dGOWxEQ1BKSnBnSlUwbmNhWkhUa1h4dFI5cmxwdWRqZGl5WDlxdU9ucnNMSXdqN2VhVDRZMkd6aVZPQ2hYS09SU1dGczlyZ21lbFBnMFdxbmV3STJRWmNWYmQ4WkhycVFaU2VtU3Nway01SmFBVGlCLWxEMFB6YkRQQlRpVGZoZlRPZWlSQ3ZjMjR6bnhUbWRGZGhmRzRpcDBiaEhmZXhjSVh0aTNac0p5MDhPQUtMRkJwRHNjaWlZdjhJNWIxNk00a1F3Y3RjYWtVaU8xQzNCczRxTlR5cGhxUDVtLVZiOW9VM2FTdkFOU0ptOXFQX0FXMGpvZ2tKeDhOcWdCdEtOTlg5TmtNdC05UDBGMTEtWjJn?oc=5",
+   "date": "2026-11-16T20:10:18+00:00",
    "summary": "",
    "author": null,
-   "publisher": "Harvard Health",
-   "id": "a0230ec0b914",
-   "source": "s12",
-   "category": "wellbeing"
+   "publisher": "Radio Constanța",
+   "id": "d0bac3854c2f",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
+   "title": "Daytime brain waves resembling deep sleep could explain hallucinations in Parkinson's disease",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbm41YmVXamRkVlpaZ2tJQ2xkbmJ5Z3pHbURFWmFVczhlREFfTmJmSmNubHV2S0s1R0RobzlSQzhEV29rczZqaTNoQ3JTV09YSmxoRHJmS0ZaU3pIOGJZSGd4WDdMNkxIUGZDQ3dybTRRdjhLQ2VnUEZvcWdZbXZGLVlYUURfaDgxTl93clVDM2xpQQ?oc=5",
+   "date": "2026-11-16T20:10:01+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Medical Xpress",
+   "id": "a773c8cb4bda",
+   "source": "s2",
+   "category": "psih"
   },
   {
    "title": "Scent and Memory: Why Novelty Boosts Recall in Older Adults",
@@ -1303,15 +1490,37 @@
    "category": "psih"
   },
   {
-   "title": "Impactul expunerii precoce la dispozitive digitale asupra neurodezvoltării copilului mic – implicaţii pentru screeningul și intervenţia în medicina de familie",
-   "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNQUZidUVtUEg2ckI3NTdTNGJCQkg1ZDJoTXpOSDEtLWhoaU1TRkxjM2hqY0ZiLU9sZmlCbHRmU1l5RkVpQmNPYnk0dTJNSUo3SVE5Vlo0R3Vpc0RMai1MUnEwMi0tSzZKQTNZMlBXaUk2RklTNmw3eWdKdmQwUFRSX2hwaGI3cXBZcmlUUEpYX29tUGd6bDduc3R4Ri0xZ3VoQUJSaXRTOTNBSzZJU2p2MW5kVWwzT1pEWkliZ2hxbW1ERFZ6NTI4ejRkcXcyLXFlb1dQMW53Z3lwVkx2TWpJeHFESlZZM1NMTXlsMGRlcS1MNjZIRW5GVHNnS3RSQjk2eUc2Z2tsNlNVMmF4QzZ1c1pHdFpfTWl6dVdYWTltRDQ5WW9KYkNzcWZLWUJwTUNzVFd6eHYyYVJvSnktaFFSTmEwLUU3ZDNJT01qZlJRS28?oc=5",
-   "date": "2026-11-16T19:32:36+00:00",
+   "title": "Shawn McIntire",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mS3VubFc1Q2RwZEp2dFo0S0RVX0hieXo5Tk5XckNRMldhbzhnSDN2Zlh0cndMSEZPT0NwQUxta0l0WHFTczFRTUxhaWxkcVhCNkVLQllFajU4QWNxQnFOTkwteC0?oc=5",
+   "date": "2026-11-16T19:53:38+00:00",
    "summary": "",
    "author": null,
-   "publisher": "MedicHub",
-   "id": "77eec2050ec8",
-   "source": "s37",
-   "category": "ro"
+   "publisher": "HR Executive",
+   "id": "227c5a9150f8",
+   "source": "s18",
+   "category": "people"
+  },
+  {
+   "title": "Political tensions at work? How HR leaders should respond",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNODFIRVNqTk5nRlM1OUtxUUVFeVM3MHQ1Z0dEMWphS1lxM2VlQzNsRmQ3ZHlhZjN6a0lFT1ZsZ2pEdUx5U2NHRnRpd3dyblE1RTBVSldHanNnVG1IZGxZZDUwOHhGWEp5MDlVNE5MdVFqQ1EzVWhrTGg4aWxtRW1oa1NpS2puUDg4cWxKRzhkZmtJWk0?oc=5",
+   "date": "2026-11-16T19:50:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Employee Benefit News",
+   "id": "713ad3592ab5",
+   "source": "s21",
+   "category": "people"
+  },
+  {
+   "title": "Employee Mental Health: The new responsibility of modern managers",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVk9ReTBlVElzWXpVNUJpZF9OVmhaY2w4RjBTUTdnMDRVbjNkODd0ZDZFSTduVDByNXY0cFVLMlJNSVFXMkF5VHVhVjBxMm9vVkhONlo0VXZtNGFuSEN1b0RpLVVvLVVjTkVURHN4RzBwQ3VremJvUzQtOWNtMTBxWTlhXzZxekNCYjdJb2lsTzdIYzNuNnJqQXBWdFo1TjRLckV6MGJGbjM5LWVOSFNsdjV3SzQ?oc=5",
+   "date": "2026-11-16T19:37:48+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Ceylon Daily News",
+   "id": "10dccb379db6",
+   "source": "s13",
+   "category": "wellbeing"
   },
   {
    "title": "How ADHD Shapes Breathing and Time Perception",
@@ -1325,6 +1534,17 @@
    "category": "psih"
   },
   {
+   "title": "SWBR Appoints Jennifer K. as Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uUHlIWkhmcGhtNWRwd3RhSFRUbTFneEx5djhtc2hoRVE0bzU5MjY1LU9qRG5DTC1rVkhaWk1memY3TkwzQTJqQmFJbF83N2gyemJPZGIwTlRRMDI3TkZXSndBNkR4SndzbDZLQVUzaXZKQkZobk93?oc=5",
+   "date": "2026-11-16T19:19:16+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "15fe5d844681",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "How Lead Exposure Erodes Long-Term Memory",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fWVZYUGRhSzJhOG1IUU5GLUJQV09ubWIzYlc4NGkxRVVFSmtvb0xIX21ERU5pd2hhRDlxcE8zSGFFUWJnZ1dJeVliNS12QTdpRmZUVG9xcGxNMGRxU1p6M254T3B5MUZnYWlSUWo3dXRnOTMyUURfLQ?oc=5",
    "date": "2026-11-16T19:17:45+00:00",
@@ -1334,6 +1554,17 @@
    "id": "42bfd9e7a299",
    "source": "s3",
    "category": "psih"
+  },
+  {
+   "title": "Next Maritime Promotes Anthony Beales to Chief People Officer (CPO)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcjVmeVU0X1oxRlRkSkJfSERwd3p3dzB1S3lCVzVwbk51b1hfTzhLYWlKZlpBeHV2V1BEOTR1NDM4QnJlZVVrNlBXUmg3RENxU0ZlR3d3Ujczb05fY19Ya1RsX2lNU0E5VjZRTkNFODk4d1ctX1VXbVhZUGdkQXFtQ2R1UUdaZG9BeXN5WFZR?oc=5",
+   "date": "2026-11-16T19:12:32+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "f3d672ff3da2",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "The profile of adults diagnosed with autism has shifted markedly since 2010",
@@ -1501,17 +1732,6 @@
    "category": "ro"
   },
   {
-   "title": "Research finds a pop void in studies tracking how the brain and heart respond to music",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVTdBWkd1Vml2SzBoOFVSQ3ZaZ0d3QmlWZzFzN0lkRUdYZkZYTmFQZmhfWF81NXh4WDBxR3VZN3BkdEVDNFd4aGcyaDJJSDJORVJWSmlVS09TaHB5YUdpV083WE5vNW9WczI2LVh2TUFXTWVpdC1TZG1OWk1YX0JTRg?oc=5",
-   "date": "2026-11-16T17:40:01+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Medical Xpress",
-   "id": "53c722490a81",
-   "source": "s2",
-   "category": "psih"
-  },
-  {
    "title": "\"Why Can't You Just Be Normal?\": Veterinary Students' Experiences of Neurodiversity-Associated Microaggressions.",
    "link": "https://pubmed.ncbi.nlm.nih.gov/43038445/",
    "date": "2026-11-16T17:33:00+00:00",
@@ -1653,6 +1873,17 @@
    "id": "fc27d2f22d52",
    "source": "s29",
    "category": "leadership"
+  },
+  {
+   "title": "Ce înseamnă cu adevărat să fii bun cu tine: explicații din psihologie și efectele reale asupra sănătății emoționale",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMFBxcVQ5ZUhIWHdMQmhVajJvdEx5ZGVLNGNCbzdaR0dZWngtWElsanlFMVZoWFNvRTctaGg0SlRqVktRb3cxOEYyWXphZmJiTy12anR4dm1CeU9zMzVkeXR3WTVUalNsaEJHSFAxRXNhTXNrcHliTi11d3FsUUZDRGpvSGxYclpkdWo3S3FydXNac05qdEVBNERUcHllMnVMM0hnWDZpZmlzdXBMY1dMSXgwTEFJMHVudmE1NWVUT3kwMGZmUXNWenBNWjNRdEx2MWlDNlVCaFdwUWVZbFlKT3NGUmdIZndic1ZjZg?oc=5",
+   "date": "2026-11-16T16:03:46+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Descopera",
+   "id": "c63fc2c9291f",
+   "source": "s33",
+   "category": "ro"
   },
   {
    "title": "Gut microbiome activity linked to exceptional longevity may support healthier aging",
@@ -1908,6 +2139,17 @@
    "category": "psih"
   },
   {
+   "title": "When sleeping on it doesn't ease karaoke's sting: Emotional distress in borderline personality disorder",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWUZrOXRrRzNDNUhXZnFEd1JJUTQxcHM1b043bGtTcUhWMUYxdEZZMThLV3dNYV9wUDlaaDdKVFlKRURyeG5jWHM5bmVIVGtkYS1jMEIxUldNS05jUXJZSDF3QmREZkljbXViNjN3OXZ0T3ZqbnBhMkxqa3VPYzVXSlJpS0RjTkRRM2c?oc=5",
+   "date": "2026-11-16T15:00:04+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Medical Xpress",
+   "id": "71df72033432",
+   "source": "s2",
+   "category": "psih"
+  },
+  {
    "title": "New research calls for stronger standards when using LLMs and other AI tools for psychological assessment",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPelc0Tmc3T25uUllMc2hKWEkwd2lZdnhuOTBtRXVJSlE2Q280NlJfWjZxclJsQlYtMko1N01fZGFjUkxUajE1TXdPZjNFOGxsUlZsMU81allhSU10OEp5Ulg3bWZ1blNuN2ZiQkhvSDNBVTFIbmUwRDAza2NxVUM2eE9n?oc=5",
    "date": "2026-11-16T15:00:01+00:00",
@@ -2029,17 +2271,6 @@
    "category": "people"
   },
   {
-   "title": "Cartea despre Helicobacter pylori a unui fost clujean",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWEFkUWU1S29CTW01eERIUTRYckxuSkROT0xvZlpqWWNWUGJDLXZtb2hZM1hfcWM3S2QycDlZQnhHa08tek44UUZRUDhMQmhrSDNJakdCT3M0d3lCc2pXeE50a3FGYm9aZ3BLNTJNdnhjNFRycVVYalFWYjFVOURjZnEweVV2QmJtUVhZNkl0TmRGT0k?oc=5",
-   "date": "2026-11-16T14:03:00+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Viața Medicală",
-   "id": "7d17dcf00108",
-   "source": "s37",
-   "category": "ro"
-  },
-  {
    "title": "Living Well with Osteoarthritis: A guide to relieving the pain and caring for your joints",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUDY1c1NGX3FIbjg2bXF1VEN5M0g1S1ZKczRfSTV1aVlQTTN6YzZfT25BRVBDTllMWXdmWFRSdjc2MzZlV0JlcW5OMEJaQmM2VUFieHAyTFZ5WmotTHFyQjB6WDJKMUd4bVVmUDhhMHZIcS1NdVVhWWRHbEdhY3kzT2R3SzBMeEI2YjNlUUJOUmNvcEQzSUx2TU14TjVWbi1TeWt6RnViMGtfOHhXaW94UWo4VmNGcndDZXlvMjNsMUU?oc=5",
    "date": "2026-11-16T14:02:20+00:00",
@@ -2071,6 +2302,17 @@
    "id": "c59ea1555f03",
    "source": "s30",
    "category": "ro"
+  },
+  {
+   "title": "Financial distress is now a clinical risk factor, says TELUS Health",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQelVCc3YwWXlPbUp2b0RJRnBlSkRJaFh0aTlsd295d0M1MGlpbVdQUkZua1pOUHM5TjJaaDBhTzVzMHlSemJBWGRMRm1jdjhrZnBNd3J0cy1CX3JfNGNERWNnRUtVY3RCTjRIdFoxcWM0azJyczNlR25VeHZuaThtVFRLS0xIRElfdG5uZzBxSkN3enpmemVscmNET3UtajFMZTh5N1JDcURrVFBjOEJFdHJhVkVvZU9XTlhmSkRXcllpTmVYV2Jkekl2dkRYS1dCRW9lUVR3?oc=5",
+   "date": "2026-11-16T13:55:35+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Benefits and Pensions Monitor",
+   "id": "a1581f0f0ba9",
+   "source": "s13",
+   "category": "wellbeing"
   },
   {
    "title": "Are STEM workplaces especially dark? Considering dark personality and workplace experiences among employees in STEM and non-STEM jobs",
@@ -2106,6 +2348,17 @@
    "category": "ro"
   },
   {
+   "title": "Inteligența artificială alimentează o nouă formă de abuz sexual asupra copiilor. Fenomenul ia amploare",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM25tT0hkQ0hXMk1Bb1pqcENLWVNvam9iaVdhV2d4YUVqUDlCYjVzZUJFOGJFTGdPOFhka01YQlNxUE9YZUNzS1BQa3NkdmVVYVE3b3h4aFRHcG1GUmhRaC03cEw1ZDg1dEFsYmZ5VjA3QW9lelp5V3RzVlMyZ19jNk9aZXNrbmJvYlZXSGowUFFLOE9Qb1lzc21Eam4wbnFfRTg5SkFjb1hCUQ?oc=5",
+   "date": "2026-11-16T13:40:27+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Adevarul.ro",
+   "id": "6654a09cc971",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "Survey: Gen Z wants mentors, not just AI tools",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12dU5zQ2JKckJEb1ltSk9wVXduVkY2Y1gxb2REM0JVTGhwbEQtVXk0MkkzdFlXczdPZ29xeUM1dDJrbUtLckx6cnpIcUpocHJHQ0VualdLT0N2azVBcjVwV1JHbTdyaW9ta21VSUFTbEtTQnFFWTNpNg?oc=5",
    "date": "2026-11-16T13:30:57+00:00",
@@ -2126,17 +2379,6 @@
    "id": "f4348595d99e",
    "source": "s2",
    "category": "psih"
-  },
-  {
-   "title": "As You Adopt AI, Ensure Employees Still Feel Like They Matter",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEJvMDlGZDdUSHRETlRYdlVmaFZLUy14LUxyano5TE1iQmdSZGh5eGdRanJWMk51cktkNTZVRVppam03UHdBdVZXUVhwbEpKU2VMRGZ1TWlhRU5wYzRZSFFFMk1rNTZaclFzaUZlOVJQUHVudUd3eTF5SlU0MW9VWDN0VEdTNDdWZDJKSTlta2wydw?oc=5",
-   "date": "2026-11-16T13:17:15+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Harvard Business Review",
-   "id": "b525f94dd699",
-   "source": "s26",
-   "category": "leadership"
   },
   {
    "title": "HONOR Pad X8b – Tableta de care nu știam că am nevoie. Acum nu prea mai vreau să mă despart de ea!",
@@ -2203,6 +2445,28 @@
    "id": "bb0433766d53",
    "source": "s1",
    "category": "psih"
+  },
+  {
+   "title": "Lovable chief people officer: How to lead a company where ambition has somewhere to go",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMDJJdWFnV3h6ZE1fUC15WVpucnluV29TRW5ialJ0QmluVnNLRUs0bXk2cm9ONm1nQlUwdE93aFJ6eVdqWHBKVV9EVWc0VGZHRlhMYUJjMnYtOTg4Sjh3VGkzS0I3WkdXZDVFbkZ3OThRdG5ENDVHSV9Rblc2aU5QVXFLaVRlbjBaOEVJV2txQmQ1dw?oc=5",
+   "date": "2026-11-16T12:30:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Fortune",
+   "id": "0fceb9e609ee",
+   "source": "s21",
+   "category": "people"
+  },
+  {
+   "title": "From shelter worker to trauma counselor — one Phoenix professional's path through hidden hardship",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDY5RlBnR0U5UkdybDRXME1IazRYb1V4MDdCVk8xZ0Y4QTQta09wR29na05LN3EyZF9IVnVhT2o5T3M3OFltc21vNU5pSFpjMlBIRUdsRDlQWk1iTnh2MUZxRmhPMldOcnExOWZvN25UYkJhbmRzLXJ2ZG90WThYRmdyN2N3R1QwN2UwbTM3Y1FIQlJPekZZWGw2bWpNRlZoTTdIRg?oc=5",
+   "date": "2026-11-16T12:15:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "The Business Journals",
+   "id": "0919e2f1a9cd",
+   "source": "s13",
+   "category": "wellbeing"
   },
   {
    "title": "PSD își propune comasarea unor servicii sau agenții de stat (de exemplu a celor de control – ANPC,...",
@@ -2370,6 +2634,17 @@
    "category": "people"
   },
   {
+   "title": "Ești părinte-elicopter? Află ce înseamnă acest concept de la Bianca Poptean, psiholog și psihoterapeut, realizator al rubricii „Cu mințile curate”, difuzate în fiecare luni în emisiunea Deșteptarea, la Europa FM. | VIDEO",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOcUhLN0ZyMjBOejJxQnlzUXU2Q2RzNWxoZWdYMjJoU0FQdEJJVy1wMTBYUkFsM3ZqMy1PbU1nX2hhSjYtVFBPaFV6LXVfNm4wRGZ2X3lFUkZrQXQ0WG01a2xLR3JtNU1iQVpOUWk4SzlxNGxUbS11ZGhCLWw5VGhrbWk4eTlWbXprTUVnUjZkZnVCcDZSQ014WHAxNlFWRnBnT2NlcGF5RFRxcGZOZEQtaXhJXzk1MVhKWlQtdFo1TzhLdVdTRGVKOGNKVnA3M19XZ0kyUFRFcWJUMHZmWWZhTVNCNGVDQk5TU0pUQ01YR2tFbExkRHhLNzF3MXhwZUFYazdweFRxLTJfd29CeVpsQWE5WFU4REQ3aGdHanZMWG5wMmNUaElhWkZXbw?oc=5",
+   "date": "2026-11-16T10:29:35+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": ": Europa FM",
+   "id": "6a5ff9d97a95",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "Ministerul Sănătății avertizează împotriva știrilor false despre infecția cu HIV pe rețelele de socializare.",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX3d1dkh1TjB6eHRETmpNV1hqQTY0Sl83QVdJZTN5eGh4dmpkcU5aWk5raDVvdF96bTNELVZYUEVKUWZqLWhLTW16cjZGbzc2M3lHYUtILVpyR0Zodi1rQVc4OHRlOU5EQm0zbk56eHI1VkJvWlIyYy1RMld6aEJJSlMza2hKby1KdzY1Mg?oc=5",
    "date": "2026-11-16T10:29:28+00:00",
@@ -2390,6 +2665,17 @@
    "id": "48268ea9e897",
    "source": "s1",
    "category": "psih"
+  },
+  {
+   "title": "Edinburgh Napier University partners with MHR to deliver an “adopt not adapt” approach to its people function",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcGZMRWFIYnNuUlp1YjFNNTZpdWpocUo2OWhLY29ua0djcTFXWUFfZVlEbWpXdG8wS1d4b0NlUFJ6ZWdXdEVNTmNkdUNpRGs2VUR6cVVVdExIR3FvMTZJcEczMjkxT0xHajVSaDVNNG9yREExWmhkV3BOQUVBSzdhQ3hha1IxeTI3bkNZOEhqaC00V1VVdnA2RWVQaGxMUWhRR284VjBSeHR2Um5CX2owcnZ5cEx3T2NkZVV3YTNtM0xFQS15QklCNw?oc=5",
+   "date": "2026-11-16T10:17:03+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "HR News",
+   "id": "9585127b5789",
+   "source": "s20",
+   "category": "people"
   },
   {
    "title": "What can we expect from tomorrow’s Milburn review?",
@@ -2469,6 +2755,17 @@
    "category": "ro"
   },
   {
+   "title": "Elevii ar putea merge la psiholog fără acordul părinților. Măsura pe care ministrul Educației o vrea aplicată urgent în școli",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObnFjcFRPclVxOXBMeWpWeHBnWVpnQU5MQzNMZGVYRGtQU3BHSGJKMTk1X3V3QTJOX0tUNjBkRkYxdWVFQ0dYcVlCV25LU1JWY1dyMU9abUZLNVIxMmpLdkJyV2F5Yko2TklsMDFJY3RUUFBQVGtXS0VkdWNKcXAwQVE0bi1KV241NTN6UGZUTFFwYjZFcnNkQ0liNXNNdEJ5YzUzdHpmeHVFWkR5YTk2QkVma0MxZVgyVmlNclE3b0xJSjY0VnJjb2NhQWVNQ1Zsc2h6d3hCekFCMEFnalA1OWhtZGRUTDlob0dn?oc=5",
+   "date": "2026-11-16T09:26:52+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Kanal D Romania",
+   "id": "213a3ecb13c3",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "Angajatori din Gorj, amendați de inspectorii ITM",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85bXZuV0VJXzQ1OTl0bml1QnVFbWtTVGhWVVRDWjMzZHh3RVY2anRqY2dhT2F6d1p4QnRrVnUxZkJ5TFlSTjlJTE40RTREcU5Kd3hGV0N3MVlrRHBnOUs0Uko1bmJHaFMyU1NjMU8tTDNiOU9y?oc=5",
    "date": "2026-11-16T09:25:03+00:00",
@@ -2478,17 +2775,6 @@
    "id": "e83e48a8e0ac",
    "source": "s30",
    "category": "ro"
-  },
-  {
-   "title": "Views of U.S. Crime Remain Most Positive in 25 Years",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LMmExYlBNUm1jMndxbk1zd2lLNVRCbnAyeWNiUlEwalpIaEY1ZW9ibFNKNzNHa3hSS1RqenF1SHBaNV9YbVkzeC0xN1ZYem5CdVphM2VfU3dvcnljcjJVZmVnVXdacWZPTjR1YzVGeGpVQ1g5ZVBwNGI0WTVVM28?oc=5",
-   "date": "2026-11-16T09:22:04+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Gallup News",
-   "id": "e3dee8af5e41",
-   "source": "s22",
-   "category": "people"
   },
   {
    "title": "Washington, D.C., New York Reach New Highs in Perceived Safety",
@@ -2502,6 +2788,17 @@
    "category": "people"
   },
   {
+   "title": "Views of U.S. Crime Remain Most Positive in 25 Years",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LMmExYlBNUm1jMndxbk1zd2lLNVRCbnAyeWNiUlEwalpIaEY1ZW9ibFNKNzNHa3hSS1RqenF1SHBaNV9YbVkzeC0xN1ZYem5CdVphM2VfU3dvcnljcjJVZmVnVXdacWZPTjR1YzVGeGpVQ1g5ZVBwNGI0WTVVM28?oc=5",
+   "date": "2026-11-16T09:22:04+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Gallup News",
+   "id": "e3dee8af5e41",
+   "source": "s22",
+   "category": "people"
+  },
+  {
    "title": "România, din nou pe podiumul internațional al roboticii – 15 medalii la două competiții internaționale ENJOY AI!",
    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQeFF2c1dxZzZMeG5zRWhCYlB0X3ZtVHFOZzlZYVVScEJJcE14TWhtTnNhZGN6dlI5VXdURW41WVJncFVURE8tVjUzQXZoc1pPSHllNGV0bkdQdEpCSEpZbDVuc0t5eUhlS2Nid1ZXSzNtZlRsSEFVaHQxVjdzU0tJZllWSHZ3X2U2djFXaGRfRGVrS1BlXzZkTFNFLWxnSGFkdWhPT3pXcXdZV05HMDBSTlowcDA4ckVldWNfel9iSW1qdVJiMkZCWktSbi02OG9WR2pxbUhHZlpLSk15X3VzbVNUeUFYaENPVVZrbmNTZUtTZVdjQ29SYjQ2TXplZ2R2MWFoQkZ1N1BQU0N6b1hvMzlMQmh6dm8?oc=5",
    "date": "2026-11-16T09:04:25+00:00",
@@ -2511,6 +2808,17 @@
    "id": "9cfa70b58abf",
    "source": "s35",
    "category": "ro"
+  },
+  {
+   "title": "CFC appoints chief people officer",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPREpKdXdRN05pVXFvaWpCb19pQnFWTjM0akQyU2xoc2puUWtJWTZXdnlTTVk5UUZBNXowSmlXQU1IMGktc1RJN1VUR201Mk9sYlg5RlpxSXJnS3VHWmFFVWROcy1heDdCNjRfOU1DbWxRdktJaWN0UV84YWpkQjVOdDMxUExRTTZ3MDZjM0hSMUZ0MkFjSy02eQ?oc=5",
+   "date": "2026-11-16T09:02:02+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Employee Benefits",
+   "id": "4e10bda31d28",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "Prea tineri pentru pensie, prea în vârstă pentru angajatori. Drama românilor care își pierd serviciul după 50 de ani",
@@ -2554,6 +2862,17 @@
    "publisher": "BusinessMagazin",
    "id": "883f4942cef5",
    "source": "s38",
+   "category": "ro"
+  },
+  {
+   "title": "Sanatoriul Balnear și de Recuperare Techirghiol scoate la concurs mai multe posturi vacante. Ești interesat?",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNblUtODZQLXFQMk9SMkN0QzR3d2tfQjdhR0Fmb2lxWWZzQjF1SndROTRYZkdiTjhQYWM4RnVBZmZsd1h5LWhWbG9LY2hHYmR6UnpNSWVKb1JvdGxXWDZBUXlpWENlRDFRemk0bGNlN3hmRHl6WUZuRkZvYVlSM2FzOFUyQUk4NUY4VVhUaVdQUUR1UXZKOWFZSm9RcXh5WWQ0d1pxN2xWdk9TOTVDWHRsekFyRXFLVXgyOTE0WHprZThvekF3ZHozVTNOeU4ya2lGQ19BZXlySXI1eXd0MWdjOUdwcXFtR2tkTGI3MWNFaktJUkJkeElWZHFrTlp4VGNJY2RkSjhwX0NjRVVEa2Uza19jTS1kRnhTZE82TlNrbXpDWGVKSElGaU93?oc=5",
+   "date": "2026-11-16T08:18:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "ZIUA de Constanta",
+   "id": "b5a58b3e6437",
+   "source": "s33",
    "category": "ro"
   },
   {
@@ -2634,6 +2953,17 @@
    "category": "people"
   },
   {
+   "title": "Sanatoriul Balnear și de Recuperare Techirghiol face angajări. Vezi ce posturi sunt scoase la concurs",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRF9KRmQwZ19PRG92MmExSThHckpoRnNOa09hd3R4eDV4ZjVwbXRDaTZsRW1IU2FiX2ZxdXlUeG82WlU0YmpObVNUTmlqVnBtZTdXUEQtWVlPZjJBZmlDaEJtNkdjVi13QkVTQVFPRHVHcVNZWEsyWWd1ZzNmMTJUNzMxOGVYZDFoam8zNi1XNFlyTjdpOHJibzdrdWtoU1RtV2NoUVdlb0NYN21tZXRZcTd5Q0s0Q2wzNXlHc1NXQ3czSEF1cEpR0gHHAUFVX3lxTE1EX0pGZDBnX09Eb3YyYTFJOEdySmhGc05rT2F3dHh4NXhmNXBtdENpNmxFbUhTYWJfZnF1eVR4bzZaVTRiak5tU1ROaWpWcG1lN1dQRC1ZWU9mMkFmaUNoQm02R2NWLXdCRVNBUU9EdUdxU1lYSzJZZ3VnM2YxMlQ3MzE4ZVhkMWhqbzM2LVc0WXJON2k4cmJvN2t1a2hTVG1XY2hRV2VvQ1g3bW1ldFlxN3lDSzRDbDM1eUdzU1dDdzNIQXVwSlE?oc=5",
+   "date": "2026-11-16T07:03:56+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Ordinea.RO",
+   "id": "56c204012cae",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "Viața cu copii mici: dinamici, tensiuni, apropiere",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWnJseU5vQ3h3RlNHMTF4dnRodDdnWFI4Z2pHWW0xZ3labGRRUWY1b042Z2lzNEZhU0FvZy1nT2JOWFpFMS1oenpuc1pfUmxSRWp1clF1UWd6bzZsVUFPM1BtZ3ZjdlVBZnBaSjZ4UlFtd0dlaklNUFlGQmNYd0ZsVVVjMmx6UE1rWWtoeGhvcTRsMk53dENwc0w4Wk9RX2N5UnBVWmRDTVhIX21udFlNWno5MVFScnZ1WkV3LXhkM2I?oc=5",
    "date": "2026-11-16T07:00:50+00:00",
@@ -2654,6 +2984,17 @@
    "id": "d43b3857cf88",
    "source": "s29",
    "category": "leadership"
+  },
+  {
+   "title": "ANGAJĂRI la Sanatoriul Balnear și de Recuperare Techirghiol: Posturile scoase la concurs",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeXRmb1lKTWxlUE9mMmtEdmxNRjJQNjNLYV9OMlczeWpTNkJWbjcwRVAwbTdYaDM3YXBHYk1xcE9HSUhMa0dSTGZUUjJQcGcyOHZEbDYzbWtsUlQ5bFlyZTM1NmVoWE55My1obElMaVdTZlY0S3dkQXhua0VYaXpkZG83Ymd6Y3NVcTh1UFlnTVVhV2JmX0pmZFZ2MGlUY0hMdU1nSXVMZURlNVVlcTEwNXJ3SFFHeGU0ak9xclpOV2k2RE9PN3JwdTZpZjc0WlBFVnEw?oc=5",
+   "date": "2026-11-16T06:47:20+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Ziarul Amprenta",
+   "id": "ee16316dc270",
+   "source": "s33",
+   "category": "ro"
   },
   {
    "title": "CBA's Matt Comyn tells employers to provide AI training before layoffs",
@@ -2697,6 +3038,17 @@
    "publisher": "BZI.ro",
    "id": "c70261a3bd7d",
    "source": "s34",
+   "category": "ro"
+  },
+  {
+   "title": "Cine își dă acordul ca un minor să meargă la psiholog. Două proiecte susținute de Andreea Neacșu",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbmRqOHN5X3o4dFJNMU1TZXFtYjRORjlOZVZFX1NSaXA4ajB1VUNuOS14a2dsMFZPX0NaS0EyNURRdDc3Q2doNlptQ2IydkYyTzRGWkFGMDZwNDFiUk1kb011Ti1BRm5tSE9nRmdSb054aUVhWnVaX2IzbDZhOHNNdVZRZFZ5aG9rVENiUjloc01yWEN2cy1sRUxqVFg2Y2hMM241bEw1dW9Bb2ZNU2tJWUstdUszcUJzWG5ZRG5VcGFQZ0w1dGxNN2d3?oc=5",
+   "date": "2026-11-16T06:00:43+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Mesagerul de Neamț",
+   "id": "8283224fb20f",
+   "source": "s33",
    "category": "ro"
   },
   {
@@ -2854,6 +3206,17 @@
    "category": "ro"
   },
   {
+   "title": "AI will reshape insurance roles, not replace people, HR leaders say",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGt3b3FaTVpZMFltUkUyMjRPZUVaUEVMMjJnRUtsbjUycEVZWlNLWUc4dU5FQThYUDZVczhyTVhhcGFBTmx1LUMyOGREWWp4S3IyZW5VR1RYSWlLNVB1QnpVUXNHdlFFR2JHMGJ4TWhTeHQ2UE5SdEhSamhHZndhZ1VuTDlGV1RjMk5HS2I0VDJXM3dDZGRVLTU0SVQxa2hDS09YR0d6bnlIQjB1VWJfN1puaFNHZmgzZEZ4bmd0ZWMzLTEzdFNBN2JNSkM1Zw?oc=5",
+   "date": "2026-11-16T03:46:37+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Insurance Business",
+   "id": "fd69e09e2973",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "Cristina Emanuela Dascălu - Întrebare - Măsurile de protecție a angajaților și plata drepturilor salariale în cazul întreruperii activității marilor angajatori industriali",
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQNWJrR29yeTdQNE8zWjZTbl9fbTNiWk8wT1pBSFI0cWlCbFFMelA4Uy1weFlFZEZPTmtQQnVpZjNFdXNDcExhejBTT3lEVXFpTk1RYjZSa3lwNC1MSGhFa252UFczY3k1OWlvejBOTS1iMG1OaTQwLUk0NGJKM3ZJS2tpeDBHZjhoNkRyUVJkQzlDZHlLbFB2aUZyMVNvZWRqa1ZmNHFLWFpyaFZSeTNHeklVc2RiYkJtZVR6UHRZb1dObUJfUEhJZGZMU0NiZDRKU1lSV1I3cmRTaGlsdWFPY095X25zT0t1UERTaXNxc2JCRXE1bGZ6NTdkLVZGSlYzc0xYTzBGWWdDWWd6ckZvSHpoZnBDVWRHSjcw?oc=5",
    "date": "2026-11-16T03:36:21+00:00",
@@ -2876,15 +3239,26 @@
    "category": "leadership"
   },
   {
-   "title": "Dashboard - APA Style Manual - American Psychological Association",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHdHp0bklmQmtQYkR3LVctQTNJQ05JaEQ0TVhPTTZobmJueEozYTAwLUdsellaWWNoQlVzN0dNMzNRYk9GNWxuZ25zVzVndw?oc=5",
-   "date": "2026-11-16T02:37:04+00:00",
+   "title": "Form 4 Colgate Palmolive: Sally Massey (Chief People Officer) For: 11 September",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNTBTc3psNXJlVDJYVTBVeGlGZWVvekI0WlRKck1ET0kyQUZGcWl4cWdBN1NGUjZfQ29yUzlWc1pQeVpWVExNSGJGbmJ0MC1RSWJqV3BKMG1pZ3lzZ21UQ1hxazR0Z0JlZFp1NlpYS296V3BtVVRzN0diUkg0WG52Z3BCNlFNTWMzWkhpeVBvbm42YVhXRmVXd1Y3bm1hN1BVWE1zNWdsQlROMmxpZWg0Z19mOW5CNHVaVFVrcS1ELUFlSkc0U2NiNzJEelZJUXRndHc?oc=5",
+   "date": "2026-11-16T03:10:59+00:00",
    "summary": "",
    "author": null,
-   "publisher": "American Psychological Association (APA)",
-   "id": "88125adec284",
-   "source": "s6",
-   "category": "psih"
+   "publisher": "Investing.com India",
+   "id": "0a9d0287c1a3",
+   "source": "s21",
+   "category": "people"
+  },
+  {
+   "title": "Managers face challenges in addressing mental health distress",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTNiZmpjMWlLa2wxdmVwSkZJWVBiLUIydENwdWFPTlJzeFBzQU8tZi1ueVZCOXBkXzJyd04wUUc1b1FkWDFSR0FHeF81QXNjcGV6eWJNd0JJajI5OW9xYzYtRVViWHJ6YTN0eVVwUDFNMDM3WEJnMHRjbEdHYnMtdnN0amFWOERTajhlNjZIY1pEcEVzeW5OZTRXVkZKWW5Cd1MzajNJRkZrQkVOdnBOMFRUUFltT1Qxek16cGoyRQ?oc=5",
+   "date": "2026-11-16T03:00:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Business Day",
+   "id": "62ac02b7801c",
+   "source": "s13",
+   "category": "wellbeing"
   },
   {
    "title": "Îngrijorarea constantă cu privire la mesajele legate de muncă: Un risc care poate devasta sănătatea mintală.",
@@ -3151,6 +3525,17 @@
    "category": "wellbeing"
   },
   {
+   "title": "Un concurs de la Spitalul de Psihiatrie „Pădureni – Grajduri” a fost contestat în instanță: o candidată cere daune de 5.000 euro pentru că a fost jignită",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ05ObXJrS0lZN0hTaURFUHJnTExtWThqMWN5YXZsZDJKVXdUWUZ3VDdXdG1rZTRJMldRSDR4WjdjTk0tRGNLZXl0a3RmaWlkLV85UmZuUEM4ODlsRllWOWZHT3BUWnRHUTkxSWsxT2otSHNFRnpXTHlFSnZWLUFWSldkTmY0cWVyekphMi1xUVVzN21BaHE4RWxsY203NTFCREhuZk1tMGI4cUtY?oc=5",
+   "date": "2026-11-15T22:00:25+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "WikiPress",
+   "id": "cba5ae5f9423",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "Actualități în dermato-venerologie la cea de-a cincea ediție a Congresului „Quo vadis, Dermato-Venerologia?”",
    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMVBYWXB1OFRpbkp0d3dXNlhEOVZfM2FVYldyek9TWmhWOGhOS2xvbmFwMG5ZT2F6a1ZZWjVvMVVUSUhkS2szdGFXWDN6WE1ZZUFoQUxxT21fVUFTR1hOUmJRWkpKMjdsbXRHV1lDUDFxTEh6V2lrNmpjTl9xVVBjWmxBRERUT1B5N2o0dXVzeVlTNVJiREY3dkFOSzY5ZEt5dzlPZHZZb3A4a2c5eDliUWNudUxKR2VGV3VURkIzb09NQWpqb1RfbkVUOUdJNllfYXZhOE16cFRHbFRlRUVlNGRBeWY1UXM?oc=5",
    "date": "2026-11-15T22:00:00+00:00",
@@ -3259,6 +3644,17 @@
    "id": "1f3c2bbfc67a",
    "source": "s31",
    "category": "ro"
+  },
+  {
+   "title": "Why Facilities Management Is Now a Strategic Priority for UK HR Leaders",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdE9CUHo2NkpDTHVGWVBlRzRPZ3pNTGFteGd3T2hrRk14blhJRUExSjFCSzdHTnpxRTF0NkJEQXI3YVB5TldtV25fLWstcmdGQkN4NW1TVEVXU1c3bHdjenRyQVppTzA2Skd1NERFa0lmamNLM1pmdEFJdzk4dldrWmVPQnk1c0RoRGM3SU1NNnQ1SzV6aTdXaQ?oc=5",
+   "date": "2026-11-15T18:26:16+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "HR News",
+   "id": "b67fe5952511",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "Art psychotherapists are already regulated | Letters",
@@ -3558,6 +3954,17 @@
    "category": "ro"
   },
   {
+   "title": "Cinci meserii la mare căutare în UE. Un moment paradoxal pentru piața muncii",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkpYd3VWWmVYd2JpaDRza3NRY3F5dDM5Z1I5RnJ4cDBIYmk4dXZ3dnF6Y1RFa29Pc29sTDk4bUh1S0haSHFvaGJhN0NwRTN3enhoR2hKM0JtU1BsUVRxRGpzdE82VVZjMFRxalFYX2ViRXBiNFZRaTF0azNBU1FmRG5FOXoxWEttQmVDQmVMeHlrcUxkeGk1OFgzbzZzLTVONGtLQldDTE5EcXVCX1BKLQ?oc=5",
+   "date": "2026-11-15T08:17:33+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Money.ro",
+   "id": "10fbc71f0483",
+   "source": "s34",
+   "category": "ro"
+  },
+  {
    "title": "„De la depresie la crimă: ce se întâmplă cu societatea noastră? Patru zile de dezbateri incomode la Sibiu” de Mihai Copăceanu, psiholog • CityZen",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VdDNVSF92SHpHRy0tVVdXWmlTb1Q5SVBJSzBBVVFoMWRBVjNwOWp2cHRlMFcwVzRxREx5bFZkQWMwVVNxVm9BWDJiN3JLSWIzcVhNbktxZXV6YkRxSEFIdG1zeWMzVWpJZXc?oc=5",
    "date": "2026-11-15T07:49:44+00:00",
@@ -3567,6 +3974,17 @@
    "id": "6db30f43b7a3",
    "source": "s31",
    "category": "ro"
+  },
+  {
+   "title": "Ibex chief people officer sells $100,164 in company stock",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUnh6WC1ZM1Z1aUxTQ0N6OWN1RVJub2FncENEMnZhU3A4UkhNc3FlRGpGQkxvWHFWR1FVbnVpRGphWFdRc2NrMnRaTUJHX2hfNlZza2NZTHBibmpGMmQyc0xFWHRPWHNySXJualJ5a1JtYi1yckh5bkU1Q3JLaG9zMElhV0VlRTBkbzA1SWpLbC1MWjdibUdYWWJuOThaelZkcGZQOEZMcXNQZmVlTU5Bb1BGUklOM0p5WDJLTw?oc=5",
+   "date": "2026-11-15T07:39:36+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Investing.com",
+   "id": "d51464993680",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "Spațiul de locuit și sănătatea mintală: Ce spune casa ta despre starea ta de spirit.",
@@ -3613,6 +4031,17 @@
    "category": "ro"
   },
   {
+   "title": "Cu acid hialuronic în buze, înainte de 18 ani. Ce transmite un medic celor care exagerează: “Gravă şi complet ireversibilă este fibroza care apare din cauza injectărilor repetate”. Psiholog: “Avem presiunea reţelelor sociale şi faţa de filtru”",
+   "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPNHlhRkRDbk5BT19zR3hXNnV3MVlQZFplYWVCUmEwdG9MN3ZzdzdYYjhyTTB1aTFSdGdJVGV3Rm9faTR1dDdnQ2RheGRHVmZMRzNMLUQ5V3AzNEtLNkw3dGM4bmtHTGc1MmlPbldhU2laQ2VBdE5QYXUtcWNmR2tvVjd1cDQxUTVFTDAzU25ETW1fRTR6dWo0VUxMRjFieU91Q3lLNHQzWkxaTGE5bWlROWdudXNLLWtwZlIyYVVBZk4xMHpQZVphUEIwTEltQUdTMVludmF1MjlVWXNGZ3NCdzNTYms3aFVBTW9qeldxZVpXRXhSQzNMQXl5Z28ySnc5czRjZEIzS1g3eWdKOGY1ZkcwOW56V3VGeUpLWDBYa3dHT2pNQVJxaTNCajRZaWJqbV8zbG5OclhmUVNPaThHMlJ6Z0psM1BGa0tjSHhiWmU5ZzJHWFBUQzdIclZOZUNrYlVWWlZn?oc=5",
+   "date": "2026-11-15T05:30:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "News.ro",
+   "id": "5f6298e5cae0",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "Navigating Tomorrow: California Legal & Compliance 2027",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSnlZZkhTVlRwd2xZRGhZdUtLU0lCU2R5VFRSWDBkdklacFVNSTNBSXhlOG5GSnFxUTNaMzlJS2FuUmx4aGdZd0Z0dW9oaEtuN3l5bUxqTDJCTmNIeUtxVjNPcmlRd29EUkg4eVBwVGszWGJ0UXRaZEladlN5QS1ESzZEZ1hpdFF6SkRRYmpXQjVxZm9kaGhDWERPSEJ4UWpiSVptRg?oc=5",
    "date": "2026-11-15T05:25:27+00:00",
@@ -3651,7 +4080,7 @@
    "date": "2026-11-15T03:48:00+00:00",
    "summary": "",
    "author": null,
-   "publisher": "Republica.ro",
+   "publisher": "Republica",
    "id": "2c38a93f63e8",
    "source": "s37",
    "category": "ro"
@@ -3673,9 +4102,9 @@
    "date": "2026-11-15T03:20:00+00:00",
    "summary": "",
    "author": null,
-   "publisher": "Republica.ro",
+   "publisher": "Republica",
    "id": "43ff1e12070c",
-   "source": "s37",
+   "source": "s33",
    "category": "ro"
   },
   {
@@ -3943,6 +4372,28 @@
    "category": "psih"
   },
   {
+   "title": "Form 4 eBay Inc: Cornelius Boone (SVP, Chief People Officer) For: 11 November By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0tUQkpqdDFEN2E1clhSN1JaZktCcjRhaktzRkZ5ZGYtc0dpM3NISElNWHZESC1OWUJNemlDZzAzZnhuRnltNndvSmE1VDE3UThtZ000eXhTd3Nrbm9MWWN6alRZeU9yX2pyQ0M3QW1lUDhSNXpja183TFRmelRxdngwNmJ5NzV5VUJJQ3hOeVVUVFBYR1ZNQ0FuVXh5U200blVkMjY3MWlPSWtrNENpQ3l0TG9KUndtamJiZXlBa0x1LWtWNVU4OVl2a25tZw?oc=5",
+   "date": "2026-11-14T15:15:21+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Investing.com South Africa",
+   "id": "a9e5fab2174a",
+   "source": "s21",
+   "category": "people"
+  },
+  {
+   "title": "eBay SVP, chief people officer, sells $3.82M in stock",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSDF0Z3dINXlzc1RDT2lGVVg1RENTT3ZYRmdTelFQUXlmaFFCZlcwNF92XzVlYTVlN2dKVHl4NFNaLUhYYjIxYnhsSzdIZGhkSU41Z19WVHI5dWZsOEZ6RkFlaGk3TzJaLXZRZ0lGa1NSWkZvaElZQXZDT0J0ZG1OM1BvSVA0cTc3MXNKZFdrLWlzNWVzTzh4aXBTTjNxNzFQTWsyaGpEQ0RDcHBUYzlLSGg3WXQ?oc=5",
+   "date": "2026-11-14T14:48:06+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Investing.com",
+   "id": "f215f7e77820",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "How employee engagement drives successful change management and business growth",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQel9Bc19fUzJ0cHBtUEtGak5Yam9DTjRWMnUtRjZWb3NFdEZjb0dSVWNiaXkyeWt1Y0tDazBFZzU3NlJhQzI2UjhXcVNaZUVkc1VDZlAyaHpqekxWWGZXY1VWdnBSMHo5cWtpcG8yVk93Z1hoTnNYblFtM1l6WDVHbTdfSjRNc2Vrc1VPdGlEbWI4RjdIaGRvdjdLSlNQRTZE?oc=5",
    "date": "2026-11-14T14:42:06+00:00",
@@ -4018,6 +4469,17 @@
    "id": "fbe41c3f7cde",
    "source": "s1",
    "category": "psih"
+  },
+  {
+   "title": "Newmont Corporation Promotes Deborah Leyva to Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmNCcjVvRUx3S1VDaXF6QUhiY2J3M2ZKWVdYRWROdldMUGdwQk9iSU1Ja3JuanZ1VUFQSEF0QjJDSDFncVJkY1Z0M2ktUnZtTG9ieXhmV1JqeWR3MC0tNlAteko3YlloYl9QUHdERk1lWDdJMUNrS1BJWjFyN2FtdFFCY2p1VnVzZEdONk5uMA?oc=5",
+   "date": "2026-11-14T11:53:54+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "b25c8e0d0b2c",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "574.000 de moldoveni de vârstă activă nu sunt pe piața muncii",
@@ -4142,12 +4604,12 @@
   },
   {
    "title": "CIPD CEO Neil Carberry responds to Microsoft Outage",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWVneWNFdFJGWkFXVmdnNFZvU2RFd2txSmZqOElPTjhCdFhHdkxCaDdsZHlZWDE2c0k0Ykp1Wkl1cGNhNFVPSktWNk1fajh1RzBkb21QYzFKejBKUVRUY2gzUHZuLUptWjJfT3BjZTVaWk05VWZETjhmcnBrNUVYaHhRc0djdzhCSVozeWRkQVEyZDVtaldaVkNST3BVQQ?oc=5",
-   "date": "2026-11-14T09:54:18+00:00",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakxRX19xWUFQWnhlaTFxUUgxMW4zcmxPMnV6TnFFcGVTRVpLdV94VGpYMF92RlpmdFNIZXljNzlkVG9kSzFCRWFiMXlaN0xtblBhSi12VHhNMmZRczZra2NSVG1jdVNnc3hMT1hlbFNSbTZ6QUVpb3g2YXVhSnNiN2ZqMC00akoycDZUSy15U2VtNWNQdUZUdlZhY3U0dw?oc=5",
+   "date": "2026-11-14T09:54:17+00:00",
    "summary": "",
    "author": null,
    "publisher": "CIPD",
-   "id": "5349f16fcbe3",
+   "id": "29377c6a18f3",
    "source": "s23",
    "category": "people"
   },
@@ -4238,6 +4700,28 @@
    "id": "bb12ee0c01e4",
    "source": "s29",
    "category": "leadership"
+  },
+  {
+   "title": "Un tratament psihiatric te poate lăsa fără permis? Medicii psihiatri acuză Ministerul Sănătății că a schimbat regulile fără să-i consulte",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMWFTR25qV2x4aUdTYU1jZzlRS3hTU0lqUTZyYTUwS0dlY2FFeFAyRV9nSTRxOTlCZE5VS05FdE5pV3M3NW9LOEVaXzVYd3hBYWt5SnJxcDZ0aHowV19pN00yRjhYZXJEWU0tZEhVZWRsWGlsaFowYjRXRlBmZTkwUHdBckVSMXFWSlEzX0liU1ZEbEJvZHRBYlpZRXNXTXpEUXhVSEZCc0N0cnJuZk1RSF95NDVkZnZxenBQR2NXUTl4Tzh2QUsyeFlkVi01cmN6YkVJcnRYRG1wcVNMcmgxYlFtOWhseEROa2N2MWcyWDMtM2h1d1JHbEJ2TQ?oc=5",
+   "date": "2026-11-14T06:47:03+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Sibiu 100",
+   "id": "c84da3a6995d",
+   "source": "s36",
+   "category": "ro"
+  },
+  {
+   "title": "LUZI Appoints Claudio Deriu as Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yeTkwVEh3T0UyMVdTMTBZclBjOWtSTGFINlJzeFdDMzV3YkFUREpQWWVhWlVyMktwOW4wTVRSS0QwWXM1QlBPcUg2OHUxVDBDWTBUWktXMFplWnRUbzM4NXJMMm1JNWdBaHVfMWJ5TFk5d1FhWWtzalYxbw?oc=5",
+   "date": "2026-11-14T06:28:17+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "87e611f2b54c",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "O nouă facilitate fiscală pentru salariați: cine ar putea scăpa de plata CASS pentru venituri suplimentare",
@@ -4504,6 +4988,17 @@
    "category": "wellbeing"
   },
   {
+   "title": "Premier Foods Appoints Michelle Parczuk as Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdU1IMUdiSXhxT1lmMnpDeGlkLWU4NklZakY1UVQ3ZFBxZnFqRV9vb3ktam16Y28wTUE4Zk01aUl0ZHc5aDk0M2haRUlNRWx4MXNuQ0NfWlk4b2NRRGh3NDVrMmJLaUs4dWhWQTh2ZVA3ZlFNekFoaFJGMnBUT1ZDYWgwa2ZfcUh4SHlN?oc=5",
+   "date": "2026-11-14T03:57:14+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "04b2884fbc8b",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "Pilot Tests Show Feasibility of AI Patient Simulations in Medical Training",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjFFMWdCLWtXM0lYd1FwMUYtemVHMEp2NzFxd29NSl9KV0xHaGFvMTBSTi0xYUR1dERjTVE1QWVNWElZQk1iZUNfMHNUUUx1WHhuNFY0dDd1NC1CSk1SSlhyelQ1elRPTmZOc0IyM1NySk9qcTE1SEQ5UlU4UnlLZ1lQTzVla0ZCdGp3SjZPRDN3VWQ1eFh6dDl0V3FNX0s3?oc=5",
    "date": "2026-11-14T02:57:59+00:00",
@@ -4636,17 +5131,6 @@
    "category": "psih"
   },
   {
-   "title": "Short-term versus chronic stress: How each one affects your body",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVVJMTNQMGN5SVVCM2c0UWdxQ2VObXlmQjF2ZDBuTy1FZ05Vb2hkTFk2cXVfVUJMOFUtNG9zTk1KamkzekZzRWt1b1gxbW9RUG9BYzBOa0ZXX2ljMktLVFFlWWdsS0NESGJzN2JCeUdJbDhOYmVtdTdNZnNJUVVra2RnNA?oc=5",
-   "date": "2026-11-14T00:40:01+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Medical Xpress",
-   "id": "45265af3cc1e",
-   "source": "s2",
-   "category": "psih"
-  },
-  {
    "title": "FOTO | Jungla din Piața Muncii, acel loc din București unde un dragon cu barbă se ceartă pe un cappuccino cu șopârla cu limbă albastră. ZooCafe, pe Basarabia • BUCHAREST COFFEE SHOP",
    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPR3VQa3dDd3JRZ2cwMVNSaGN5QjRlYk1qODRBRzk1SzZZeGhmZG51bnVqS28wTXZTdG9LNTNmeEZOZHJJMXdlRWNfT3RtdHh6SEhmWExwNjVUYkl3ZjY3SUZiRWhLSEx0YnpSVzVkaE9DQ2hnSGdLQ1lFUjVyUERlTmhEbnFNTGpDMjBmTVp6dlJsbGxhQU5BY05FSXZDZ0d6TGdkcmk5aTdPSUMxaC1laWxrZjg3bmo3Nnp2aHppMVdwNmpJN214WURLRlZFY1d4LUpVSGtLUDNKOWxEdEpDVjRpXzFXN3VOVEpFODNaaExXaV9pZEN3VkZZRExQNi1ibmdaTUd0YU1ORGk1eTdRcEliaw?oc=5",
    "date": "2026-11-14T00:02:14+00:00",
@@ -4666,6 +5150,17 @@
    "publisher": "SHRM",
    "id": "0606ba2348f3",
    "source": "s24",
+   "category": "people"
+  },
+  {
+   "title": "Guy Ellis Appointed Chief People Officer at Cooney Lees Morgan",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOek8wT2xNNTlvS0ZPNjU4QkRBdmxDTlRITklPY1FvN2pWcHY2LWRVa1JyMUpybVI3U2M0V20xTkoweGN0QkZMby1USm5JUVFtel9WbjB3VFZBTFdudjBlU2FSNnN3SXg5YlZfdzRwaVRBMjN2NHpyTXoxX3dIVzhwaGlfeVdadkZYRHc?oc=5",
+   "date": "2026-11-13T22:26:39+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "b81bc7f73c40",
+   "source": "s21",
    "category": "people"
   },
   {
@@ -4821,6 +5316,17 @@
    "id": "c52efce1549c",
    "source": "s2",
    "category": "psih"
+  },
+  {
+   "title": "Răzvan Babană renunță la meseria sa după opt luni în care s-a luptat cu depresia. Decizia neașteptată: „E ca o jertfă pentru Dumnezeu”",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYnY5aVg2a2hQYkV6U0FBWlppaXFRbVZTRGE2RnowUzc2T3lHWV9EWExfVVdyZ3lUd1M4czJPX2g2NS1DWmxfWTRoZU9oSzM5djNTanB3OTB6ZFFvUUtkcFpNRVBwLUlMY18xY0kxR09pQ3FFMzlSR2t4WmVWT2gzQ2k3emgxQklyZHpnTFNZbV83SzRQMm95d1hYSFF0WmpuVzlZWGd4M0NYc1VtUElvN3pzak9ST2s1MFZkNkRGd1ZxYmhaaHdVVnZVU3RxN3BjTGlvbnlNTFAwRXh6TS1ZaHVDLVNGWU1TQzdVRGdaZ3BUWFJxemYwWFJvbGhTb28yNXZlblJfeXMyaUZFckcw?oc=5",
+   "date": "2026-11-13T20:18:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Spynews",
+   "id": "b655cfaf2eab",
+   "source": "s31",
+   "category": "ro"
   },
   {
    "title": "Best walking shoes: Which ones are right for older adults?",
@@ -5153,6 +5659,17 @@
    "category": "wellbeing"
   },
   {
+   "title": "GALERIE FOTO: Primul cultivator român de afin siberian, un psiholog",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN3V1ajhfUHMwd0R2Z0ZHTWJyWGo1X0ZYWGxRT0FiblZMcWY2MlFCZWVJajhPNTJVVmJWdUJyRjR1NjFDeHVLb3kyNTBNVVVRZWNDbGFzUWo2U205WmJhTy1FckE5Z0RQOGRFMzFDN2thNDlXcGRfN0x0NVhqemF6V1NYT0pIRW9Ga3RJbFhROEEycHpIZl9sNlJXWQ?oc=5",
+   "date": "2026-11-13T15:30:21+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Cancan",
+   "id": "fa0782da9c50",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "Medici specialiști în Siret",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9femFrMW1ua2tpMnRzbG55djZuNmhqMkVHeDdfR3hFSUVNZmdzbEFYMVlPMG9TclhUb3hmTFZ6eEdsVl9CMVY3Y1ZlUVdjTGRobzAtQU8tMGU2eG41Y0U5RjJBRWw0S2huOXRocFkwQmM?oc=5",
    "date": "2026-11-13T15:29:00+00:00",
@@ -5175,17 +5692,6 @@
    "category": "ro"
   },
   {
-   "title": "Antena Academy și Antena Group au adus viitorul muncii la a treia ediție a conferinței „Piața muncii în fața revoluției AI''",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQ0E0dFI5UEtDUWxxQ3lhV0NfTm55UGFwMHVNZklnVWlTaGF4T191c2xYdjZKUWlnQU10cEtwS1QwYXJ6VDlDSWdzOENCSjEydzFZclJ1TzZveGZrREZ5Wjc5NUJmbjU5Rk5leS0yUzViRHR1aGV6WnRJN2tiMFM3cmhRVl8xRUw2V2NSUURJb2pCVEZDUGVhaGZuN2RHaUEyaFNCYWxRUGdWWS1RRmlYeF8tTm5kMGdpbmhlbmhZNEVkUjRYR0Yyb1ZZQ0lKdXhMMWRxcndPUlBMcThCTW5SSWY5dEFDTTlVc0VSOXdfXy1iTVZoMzQwX2Q1S05ZQWJCOFHSAfIBQVVfeXFMTWRIcFJpT3lqR2h2dWkzR0N0SUdIU1ZJZGtTbFFKM0VnLXFjQTR2YzJqX05yZ3E5bUR0cjdQSks0YU56bUljLU5wUXdya3I3d2J3S3ZNWnRDdEUxT2o4SUpQRGNNMEJ1WUpEbGtTaGVEc3pkbm9FMEg3X0VwT1JjSjNxRnRobWdFUDZ1bFdETDF5X1JpbjA1TE80VEV1T2RMM1l1ZnJxVFhmaHZKMzVHcElBVTV0NkttYnpBSm1CbnJJXzlaanc3NUZTclhhSWtjMjZDUFVkcFpsWF9JS0RWTThiNHFLdS1zY0Z5Q0NJZHF4SHc?oc=5",
-   "date": "2026-11-13T15:25:02+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Antena 3",
-   "id": "3bacce127706",
-   "source": "s34",
-   "category": "ro"
-  },
-  {
    "title": "În Sibiu – post de rezident chirurgie toracică",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjdmTUhpdEQwSlg1SFFoVDJIOFRYYVk3MDg3TVhuV1liOFJxbmdlRnRPM1lRdU53SFJCTi1Od2pIdG80SHQ2VzVjSldTZVdzQXcxRWtvNXJra2o1NE01THVmazR2MnhsYUhHdEhDaE13NGttTEx3d0JKSHBzUE9qM1NPdF9fVFk?oc=5",
    "date": "2026-11-13T15:24:00+00:00",
@@ -5205,6 +5711,17 @@
    "publisher": "Viața Medicală",
    "id": "fede2a5cb35c",
    "source": "s37",
+   "category": "ro"
+  },
+  {
+   "title": "Antena Academy și Antena Group au adus viitorul muncii la a treia ediție a conferinței „Piața muncii în fața revoluției AI''",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQ0E0dFI5UEtDUWxxQ3lhV0NfTm55UGFwMHVNZklnVWlTaGF4T191c2xYdjZKUWlnQU10cEtwS1QwYXJ6VDlDSWdzOENCSjEydzFZclJ1TzZveGZrREZ5Wjc5NUJmbjU5Rk5leS0yUzViRHR1aGV6WnRJN2tiMFM3cmhRVl8xRUw2V2NSUURJb2pCVEZDUGVhaGZuN2RHaUEyaFNCYWxRUGdWWS1RRmlYeF8tTm5kMGdpbmhlbmhZNEVkUjRYR0Yyb1ZZQ0lKdXhMMWRxcndPUlBMcThCTW5SSWY5dEFDTTlVc0VSOXdfXy1iTVZoMzQwX2Q1S05ZQWJCOFHSAfIBQVVfeXFMTWRIcFJpT3lqR2h2dWkzR0N0SUdIU1ZJZGtTbFFKM0VnLXFjQTR2YzJqX05yZ3E5bUR0cjdQSks0YU56bUljLU5wUXdya3I3d2J3S3ZNWnRDdEUxT2o4SUpQRGNNMEJ1WUpEbGtTaGVEc3pkbm9FMEg3X0VwT1JjSjNxRnRobWdFUDZ1bFdETDF5X1JpbjA1TE80VEV1T2RMM1l1ZnJxVFhmaHZKMzVHcElBVTV0NkttYnpBSm1CbnJJXzlaanc3NUZTclhhSWtjMjZDUFVkcFpsWF9JS0RWTThiNHFLdS1zY0Z5Q0NJZHF4SHc?oc=5",
+   "date": "2026-11-13T15:20:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Antena 3",
+   "id": "3bacce127706",
+   "source": "s34",
    "category": "ro"
   },
   {
@@ -5439,6 +5956,28 @@
    "category": "psih"
   },
   {
+   "title": "AI boosts efficiency but fuels workplace mental health strain, report finds",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmlxemxCY05laGpIQ0FHRmsxbDI0S3c4ZWNNUTN2czVXd0lpZjFuSTRGU1ZKQzFEdngyd0JpOGEwcDZUSnBwdmt0ZEEyNGhMWVpOUFJNUnBoVzR4Vzh1Sl9nUE1WbzI2ZW1rUkFhU3prdmZ2XzJ5V2xZTFI0MjBydU15czVSZnNtdWNkNlI4aUhaNE1UU0lvQWJ1SUlnU3daS0NEbG9aOUZCd0p6RW1MajRyTkVmQTU0elRyQ21R?oc=5",
+   "date": "2026-11-13T13:57:57+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "KSNV",
+   "id": "418a4fb7c784",
+   "source": "s13",
+   "category": "wellbeing"
+  },
+  {
+   "title": "Stay Ready, Don't Get Ready: Building Tomorrow's Skills Today",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSXhfeW50LVBsb1dSalBCRkp5dHBVRGc4czBVaWlFSUFCWmVBWHVIZ08wQkN6OGc3aDJHOHJnY194UHlWVkR0WGVxN1VCcUJlVl9La2lDekhqOWRHb0haX0FQbXk3MEh5NHBGTTFMOUp6WXFiUWFsZUcxQ2pZNkMwZjJDWDhyTWJ6VExjX0JldjZqWnBISS02ekJSUzFVQV9kR1g3bzd1UUoxN0FZZDRZRkdNNGJkSTFoUHVhT0swRQ?oc=5",
+   "date": "2026-11-13T13:43:57+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "SHRM",
+   "id": "204efff29359",
+   "source": "s24",
+   "category": "people"
+  },
+  {
    "title": "EHS Safety Culture Week 2026: A Review",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55YmVvS3k2T0ZjelRCLUdIcURFV1NTWXhwS1ZzRlhvbEtnVXktdHJNUzdETFhsM3FBaThYUE5xYklWQ01OZUcyTUIzV0tkMjhybGNZNndLOHIxZGt6RFdWVndkV2dCNmI2cG9OVW10Rzl2N0x5ckdWWQ?oc=5",
    "date": "2026-11-13T13:38:47+00:00",
@@ -5560,17 +6099,6 @@
    "category": "ro"
   },
   {
-   "title": "Emotional Intelligence / Mental Process — News & Research",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoQUVIUy1zZmFzX2o2ZkE2QnJ2VWFFSjhwVzI5eDMxSXBYN2RTSWNUUlFNbzcyYXp5T0JzWkgySU15eW5qR0FLeEQwNG1TdWMzelJ1SlhpQ2RZRnBDSE5FVzVDcGFTbVFxZEdFS3lQR1NtYnNVdjRFa2N0QXdGQQ?oc=5",
-   "date": "2026-11-13T11:59:53+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Medical Xpress",
-   "id": "ec25648561b9",
-   "source": "s2",
-   "category": "psih"
-  },
-  {
    "title": "Investiție de peste 10 milioane lei! Centru Integrat de Sănătate Mintală pentru Adulți, cu finanțare europeană, la Spitalul Județean Bacău",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUktacUM2U1Btb2pPUkxmYTFfYVc0OWtsTWdDMXAwb3FtMDhIb3poTWpscWxvdjBGTjV4X2VwVnhMV0hKeU1PdTctM281RGdWQWRuT3pyb3dnZEs4Sl9reXQ1ZUp1RUpTdE1CR1RzSWI1X2l4THU5TXpoV1RMUFktVFRoWktvandScS1SQ3BsWV96Zm1jX2hIZ21tUFF2TkFXX2pacllpYWlQa3F4YkZsTDdCZnA4ZnFIc3AyNklRaTlHUXJFSy1vNnhnd2l3VTg1VGpXY0JWZVRMZktlUVFnWjM0RTVQS1N2YlliVXRuc0kyOE0?oc=5",
    "date": "2026-11-13T11:57:14+00:00",
@@ -5582,6 +6110,17 @@
    "category": "ro"
   },
   {
+   "title": "Qlik Appoints Anna Sharkey as Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGdjTnhCa05mNC1IY2pXLWdsNE5KSkdKb2JYSUh0cXI0QS15dE1ybUs2SGdxTEZRRVFSTy1scUk5eUlDRkpfVE9CcjF1OTRib2J4WWxLOFhFSWxZRXBacEFPLTNKVEIyWTdtZjE1aHhsUXNETEVucFZlR0ZkTEp0d3hfQWYtUQ?oc=5",
+   "date": "2026-11-13T11:50:28+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Bisinfotech",
+   "id": "400bfe282b8d",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "BPS Event - Protecting yourself from secondary trauma",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByNHRWRGVkbmJTbU4zak1iNmZXVXhVTHVmUllXX1IwdDRJX0ExMVFrT042d3NCeW5SQTlPY045QWFBVDZ6VVpZVnd5Vk9icklTdDhHMVBwNThSTU0yY1lHamxVSktMdHRranRyWDhHQ01kS0E?oc=5",
    "date": "2026-11-13T11:43:08+00:00",
@@ -5591,6 +6130,28 @@
    "id": "bebd44fabb2d",
    "source": "s7",
    "category": "psih"
+  },
+  {
+   "title": "The cybersecurity warning HR leaders cannot ignore",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTFNKamdHN056VTJnYVJZS1ZwSHk3MFFOelUxalppeGhVSmU5V3V1NkdCbXFnS1JwN1lNUE9CMl9Salg3TWZ4WVBGNXZWX1NUc0hJODJKaWpJcHlBNkZhTEk2eTE0ZnhaMU15OFVrTV9CNm1WemZPb2p5Q0twM1ZYamR0RjVuOFVscUZLUE9KRXhmNjJ3UzEwVnVVNA?oc=5",
+   "date": "2026-11-13T11:36:50+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "HR Magazine",
+   "id": "0c929efd5a53",
+   "source": "s21",
+   "category": "people"
+  },
+  {
+   "title": "Most HR leaders use AI to challenge managers’ decisions, poll suggests",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR3pYQzc3UTl1dkVVbXpQLUlxSWlhWEdTQ19PMWpYZXFNdnhTcGFpWUNaTUNGSFhYSGIzZlpYNF9iZVNUVTkydkNLTnVGQURJOTYzUXVON0VIYU1zTnBCdlBIbDBvYk05YTB6OTRyMnFkRHRRZVVtUEVFUFUtbkFzS050NWRmMExuQURfWkh3M2xQaUJRQTlHZzJSV2d1NS14SlBYNkN6MTNHTGtPaUdF?oc=5",
+   "date": "2026-11-13T11:30:53+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "HR Magazine",
+   "id": "42b675bb07c4",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "WorkinRomania deblocată: cât au pierdut angajatorii",
@@ -5733,6 +6294,17 @@
    "publisher": "People Matters - HR News",
    "id": "4618ca46489c",
    "source": "s20",
+   "category": "people"
+  },
+  {
+   "title": "What HR Leaders can learn from Ex- Prime Minister Lal Bahadur Shastri",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVU9NLUxoS1VkUHpKbjJWTFNQaFNYclZSOG43X2twbnQ5bUZoT21hSkhPWHpZaWVjY3ZqU0FqZGpKb20tNHpYRVJoM0hoNmYybEp1eTc5OElLeHFLV2k0aTlKeUNVRXpmRmVNd1QtallLTHRPMXVFdWZiVFduNjZxanV3bURDY203Ykw4Wk5kTTQtYS1LbUpqcGg3NHM4TXVhdm85Ukk2eU5Ud0tEOEhCWEgyNVY2RXBCblVDZXdQWQ?oc=5",
+   "date": "2026-11-13T11:06:03+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "People Matters - HR News",
+   "id": "03455b8fb7c9",
+   "source": "s21",
    "category": "people"
   },
   {
@@ -5912,6 +6484,17 @@
    "category": "ro"
   },
   {
+   "title": "Dairy Holdings Appoints Anna King as Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPem5ZSHdBMFo1cHBXbWszcmVCekhKSnc1WG9TWFdtM0FNY29SZEVKMTltODFnVkgxa1FIN2xiNEhJdmtXUUcxSG1GMjVpVncwRTBNMDF1Y3c0dEhqbk05VlpJTTlNOTRocEYzbFBudGxuVXRJMHlEaFRLTW4ydlNWbmgwZw?oc=5",
+   "date": "2026-11-13T08:33:34+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "bbfab4e2265e",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "ITM Cluj a amendat magazine din județ cu 12.000 de lei după controale privind munca nedeclarată și securitatea angajaților / Inspectorii au verificat 18 angajatori și au găsit inclusiv salariați fără fișe de aptitudine",
    "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOMmtmay1RSThEWkwyVmgzTmI0OTJhQjRJTlBYZVlIRUZZZGk2bERTNk9CSkh0djB1OWp4UGRMRVd1Smx0bUg5MnAtTDM4Wmo3MEdsdHRaLTVRaUVDYW1yblV5eG1uazFuUFBjNmRpYnFyejNlTVdjQkU2TnMwSjQtaWtxejlnUWRqemw0S1Y5R081Wm91alpLcVJhMThTcG9tQTdTdFFPVGlQN3NYLVBJUDJyQTFtRGhjOEk1VnFCWGx1RzBIQXVLZ1ZhUmF2cEYzd2RvdDRtLUZfZlFmb25KclFRUGpWcUVHeEVGU2R4LUpTSGJTRTFnRzN6LWNHZmRvYk9VZlRkRi1fVmFTZ2xsQ2ZFNkNtV1F5ZmNWRDh5bmowN2syeVB6SzFSUDhSdU04TnZ4emNPY1FfUExGRDl0MlIwX0k?oc=5",
    "date": "2026-11-13T08:13:36+00:00",
@@ -5967,6 +6550,17 @@
    "category": "psih"
   },
   {
+   "title": "All Atrial fibrillation Articles | Page 1",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIZGJJVlhIVXlGc3RqVlJxUlh5QVhkcVpqampCMDdtMC1CZ2ZRSUlpNGNEU3UzcDI3SVFKS05vOEpZQ3JFaXd2cGJXZXdFSUV0aklZQlBjVUVwSWJEMk1CYndud3pjYmJPVlRBdw?oc=5",
+   "date": "2026-11-13T08:00:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Harvard Health",
+   "id": "2b50fb04ba49",
+   "source": "s12",
+   "category": "wellbeing"
+  },
+  {
    "title": "All Libido and sexual performance Articles | Page 1",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4SW1FakRZYlY5NnJ5SFJOREFuQUg0b3M5ZTZEOHBSbExNTUg5a3ktbEp4bnZCYUNWeW5fVnN4dXRKSUdPa29DRmtvOVNrUzRyOFloRHIxRjhFUTJLckV6RTlkUGZfV2FYekZISWNkYy1vR2ZBelBZamdn?oc=5",
    "date": "2026-11-13T08:00:00+00:00",
@@ -5996,17 +6590,6 @@
    "author": null,
    "publisher": "Harvard Health",
    "id": "d9187d4810cc",
-   "source": "s12",
-   "category": "wellbeing"
-  },
-  {
-   "title": "All Blood Pressure Articles | Page 1",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQc3hGcWZlcG1EN1pSYnR2a3Y0eW1yYnJaYmZJVVRySzl2anp4NVBkbFFCRi01WmZ1VFRLb1hNOUlYRmx1c0RjeHpCdkZkY3EzMS1rLVRFenZ3RmdIQ0pJekRkekxyZw?oc=5",
-   "date": "2026-11-13T08:00:00+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Harvard Health",
-   "id": "62d7c6cafec4",
    "source": "s12",
    "category": "wellbeing"
   },
@@ -6066,6 +6649,17 @@
    "category": "wellbeing"
   },
   {
+   "title": "Importance of Exercise: Benefits & Recommended Types",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12ckhMVzRKTUc1cENSODYzeG5xM1Y1SmdNbkxNS2hvX0dyLUtSZWl2NEJUUmJRQktsU0hrSTFiam1mM0VicEx3TzdqZ1ZzTGtCa21iN1RZUzFhbW5ZVW9xNUtxQ1JqZjBfWEE1QW53?oc=5",
+   "date": "2026-11-13T08:00:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Harvard Health",
+   "id": "0a071e235c1d",
+   "source": "s12",
+   "category": "wellbeing"
+  },
+  {
    "title": "Directive 2006/25/EC - artificial optical radiation",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb3RXRVkzdzFTU1paQ0J5Vlhtek9zZWZybkxRMGFSRXhUc1VuMnBvUHRIeUpzS0djeUhpbFNTR0xRVF9yNnVtVERyaHFERHZlV0F0WHVNaklvVzFmRFVtNmdycUJKZjlGUU9xam9iQU5GMGwta2RCSXA5aGhWSlJMZ3Z5dzczZU9GOXpwX0ljZEUwR0FSUDk3dEJ6ZXozNWdVQzdkQjRxQXpLQkdjRUZaYTlPNnNmVTVqeDFZcG45MlBlVzJnR0lUN041bw?oc=5",
    "date": "2026-11-13T08:00:00+00:00",
@@ -6095,6 +6689,17 @@
    "author": null,
    "publisher": "Gallup News",
    "id": "0dbcf2f7a734",
+   "source": "s22",
+   "category": "people"
+  },
+  {
+   "title": "Government",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QRWZBcVVaMi1tOVphZEt1SWk1ZUM1QllQcXRtWGFWVDRfdW1DdndhbHlXN05jLXpDZE9QRmdiTjFBNWhHRUJuYkQ1d20wYUpoQlpYS0ZWUHQ?oc=5",
+   "date": "2026-11-13T08:00:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Gallup News",
+   "id": "970591197b39",
    "source": "s22",
    "category": "people"
   },
@@ -6187,6 +6792,17 @@
    "category": "ro"
   },
   {
+   "title": "Terry Redmile named Michelin’s chief people officer for North America",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV21STW5yYk01UEtCQThiSVVzSkpQaFNybWIwaGo2WmVUYl95THJtNVd2Nks4YmtCajRJdEd3US0yWnVySEt6blR4QVo2ZXdpdnBEd21NVk5Sb1dyYXVteE1tZFROWXk1UnVGZnc1WEFEd1NRbm9KYmpjckxtOHN4Vlk5LUJQSkhoeXVaeW5fc0hfbThXNWdmTE1SYzAwUGN3d1NBUEl3?oc=5",
+   "date": "2026-11-13T07:25:23+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Tyrepress",
+   "id": "dbc062b76c3f",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "Clujenii știu ce se întâmplă în magazinele din care fac cumpărături? ITM a descoperit multiple nereguli la 13 angajatori. Cât i-au costat greșelile",
    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOV0NSbGlqM2VsZV9TT3VjaXpza1lZMmxPQ3ZoT0xLRDN6UF9GQWV3WTdMdGlPX2twT0lxekg4NlB0NFlsb0JqZnF4LTNlSnNqdk03OUpiNUhfS0ZZTkVNa2h0SG53bUJlWXRfWmNzNmNPMlpzdHhNT3hnMXdsYTlKYXFmRUc3MFhkckF2UzVMeW9GOERJaUxBd2RoZUFheWJ2VEhHU2VndXgyNGw3V1JqUktHeC1LNDBseTF5UkI3Qkx0T3BpY1lqSmxhS1J0UGNPUXBBWFBsazl5UHV5TUYtOElFamt4V2JDYjVjcDg3XzdYckl5ODI4dEQwemRER2cwYTJvemsxYUJNTm8?oc=5",
    "date": "2026-11-13T07:20:00+00:00",
@@ -6196,6 +6812,17 @@
    "id": "367c34cdb2ad",
    "source": "s30",
    "category": "ro"
+  },
+  {
+   "title": "The Guest Society Appoints Andre Matius as Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMWZsYnJTVG5GM0FBbmtRaWJIZ3IxeHdIOGt0cjA1ekVMbUt2Q1YtVlAyS3V2Vlp2MlJYRklUV0dFZ2R6YWJoMUlaVGJsWFpuNjZVWWtZVi1SeE1FbW1IRkxBNDhIdnNrZnYtMWxSVWtHV0NpVGxOZXl4VWoxb2J4R29XUGxxRDRzelZF?oc=5",
+   "date": "2026-11-13T07:03:48+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "5520bda49694",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "Microsoft outage briefly disrupts ‘loud working’",
@@ -6209,6 +6836,17 @@
    "category": "people"
   },
   {
+   "title": "Sora Ralucai Badulescu, in premiera la TV! Ioana e psiholog si seamana perfect cu Raluca! Uite cum arata",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeENCSXhibk8wTzFZV1ZwVGN1NjltQTRtcGFsamxaTTd0Rm1BVGNXLU1BOVctcjhxUG5oMUtoYlJpRU5oWWlWX0F1MzFjTGUyY0lPS0tzbUtGMUNtSmk2N1dPN2k1dnhtaFBsaDlLTzg2TndyZDd3QWhVZHZlRTNxNmVrRjMyTG1NN0syM21uWDJac2p5TW5MUFpySktCQzFSRlFEOS1rUTZtdVBvOW80bldEdVdoSFJub0o1ZXAycVZ5cWR4Yk11N0pKX2M?oc=5",
+   "date": "2026-11-13T06:52:50+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Kanal D Romania",
+   "id": "28b5c08c0ba8",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "Ministerul Sănătății a trimis controale la Spitalul Județean Sibiu",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVpfNENHTTVRQXItQ3FhX3Z0QXZOS0MwX19pSUozTGF5dDZfbjdNZm8zUm9rVkFqS04zeWx0aWRtTy1rTDJaSFRWNldxS1QwSTF5N0Q2d1Nicm4wU0VtZ19GRGRIUFVvVmdJdWFISlVwVWRSUzdEajdMSXdPYWZaWVpNU0RlR2lRR2d6RUF0MWpYSlJBRkJPMzB5QjN1SDV0cVE?oc=5",
    "date": "2026-11-13T06:37:49+00:00",
@@ -6220,6 +6858,17 @@
    "category": "ro"
   },
   {
+   "title": "Omnicom Global Solutions appoints Acquelia Colaco as Chief People Officer for India and Philippines",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdmNfV0xUd3RxMzd0NVpuSVJNT3RxWTdhWWF2cXVkUGVDd2VKanBoTVpJa3pfLUdNb3FmT050ekJuZ0ljdHRpU0pyWk03RnRzY0E2aXhyS3BfRHkzSVRGQkZ4UmpnSWNmMlpYYlQ5QUJsOFBaXzB1WC1vMTRJTnFKU3NCSzIyZW1EUDVfUVowX3V4cURNbk5HcWhoRmV5bFVfNUVSelFhbHRUcy1EN25wR2kzMGtSUDRhTEdQRHZaQl9QTkJrQzFNcnFsTUFKeklGaFpMLVBMVnQ5NFBta1VpYnJFWDRGSjg?oc=5",
+   "date": "2026-11-13T06:26:13+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "People Matters - HR News",
+   "id": "66926cd2c898",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "Average pay in Britain mapped",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIYmFqR3l3UE4xd2E4YjNMSi15NFNqbDZhVFg4djNKdEZnd2FmWVVxamVNVjBuYm9YRTU5TFI2THVJOGhPT08xT0taamxCel9SOUZEdzZ6aTdmUnJFZXg1eHIzRUd0Qjl6UDd4M2NVVkFKQkVuaURoUk5n?oc=5",
    "date": "2026-11-13T05:58:51+00:00",
@@ -6229,17 +6878,6 @@
    "id": "8d1183425da4",
    "source": "s17",
    "category": "people"
-  },
-  {
-   "title": "Aradul, pe lista orașelor în care Ministerul Sănătății și CNAS trimit controale în ambulatoriile spitalelor",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDcjJXWWd5bzRrT1pxc0FpdjBlUk5KaVFXQzRuN0tjSk5ydDhfUXkyUHc2ek1Yb0pBUVdEQndESmVqN0NEanNoOERiVXBEck5XRnRkYnFvU0p2Q1RkZXdNRDF3ZGJLVGl3Z3M4d0FPYkZkckk?oc=5",
-   "date": "2026-11-13T05:48:30+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Special Arad",
-   "id": "57382d607f06",
-   "source": "s36",
-   "category": "ro"
   },
   {
    "title": "Interpersonal communication competence, organizational climate, and academic burnout: examining indirect associations within the job demands-resources framework.",
@@ -6295,6 +6933,17 @@
    "id": "d4e4774b9724",
    "source": "s37",
    "category": "ro"
+  },
+  {
+   "title": "HR leaders convene in Phnom Penh to discuss innovative training and development approaches",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGpxQ0UydUY5MWlodzZIWFhGRjNiZlY0WVFXNTgzM0N4TTJBV25sclVIS1F2OEhFV21fY3NVMmVzWXlnaTFTU2pUN1pSVkQzeFllRF9NT1VZM3JnN3JBd1MzZ29FU2N3YXh5aS1HZGJlUDdXaUJsdThERU9rekRFckx5VUM4S3Jwck5zOVpjb1NKV3h5dHlCSUlvN0xPaU1SWTM4U0VpUXBDVGo4OEpDLU1FMGVPNnBUZ3JGem1zbHBwV0ZqcXM1R0I0Y0tVaTRVRG1V?oc=5",
+   "date": "2026-11-13T03:38:04+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "ACI Asia-Pacific",
+   "id": "27169893f4e8",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "Cristian Păun",
@@ -6361,6 +7010,17 @@
    "id": "5f2841a629e3",
    "source": "s1",
    "category": "psih"
+  },
+  {
+   "title": "Form 4 Appfolio Inc: Elizabeth Erin Barat (Chief People Officer) For: 10 November By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMnRfY29WUDRIR2xnN21MOVlQcXRpUWdpSHVrampZSXFuMUQ4RDNldGx2Q3BnVk9zQ2tEeFNBOC1TUEtrbjVoeXhlalV6R3BVSzlVTHFOXzU2TDgyM2xiczJmTU5JTjZSeG1ITlJhVTRkMUFVYUNUaHQwV3h5M0Y2STVZTjdyek9od2tLT001Q3BmQTkyV1JfQTYzMjNzeTczNXdqTWFweC1lSEFlWDhmWHFaT3oxSUM0REVQZjNxelNtRFJKYU9pY3JzT3dkUy01YldHRQ?oc=5",
+   "date": "2026-11-12T23:22:47+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Investing.com South Africa",
+   "id": "9b90efeac073",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "MSc Health Psychology (Stage 1) Conversation Café - The Plinth of Growth: Turning Feedback into Development",
@@ -6583,6 +7243,17 @@
    "category": "wellbeing"
   },
   {
+   "title": "HELIO Appoints Michele Zammit as Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83dHc3TkVvQVowQl96LWl4dUJwVDZoWUYwbXA3ZkNuSE1RSkttQ3dhdVpIQnRvNlg3aV9hRDJmNThJLXJ3b1E2M0p4d0QtYmRIOWFGSy11UmRLeWs5cTlXMkJHYzNoYzliWFpMMk5kNS01d2pzY3UzSE5kajVkUQ?oc=5",
+   "date": "2026-11-12T17:56:17+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "9a63d850212d",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "Jensen Huang Has Resigned. How Will Nvidia Replace Him?",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkl2cllkWjFacWp1NVlqNU9KdHBfLVBBbW1EN0NEN0JfdzBHSlV2M1VfQ3FkVFMwdmhOaGdtYUJXZG00NlY5Zy1Kb25WM0xBVkoxMEdLbDRLUVRPem10WXJoa1lvRHJBSFlscnVxMGtlY0JTSjFZRkhhTGJleDRSRGswcw?oc=5",
    "date": "2026-11-12T17:39:52+00:00",
@@ -6605,6 +7276,17 @@
    "category": "people"
   },
   {
+   "title": "Limor Drezner Appointed Chief People Officer at Edelbyte",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMFYwZ1ZKdFZQTkZ3ZjBoNUh1b1F6STQtdkhEU1d0V05HWG9VQmdMYThWMi0xVHpJcFd5REdMU3oxc3FYalg3R1VueDVjTVdFdElPLXNJWjEyOElYNmE2bEU3NF9saDNKRHc3Yl9QM2tnT01famU5V2Vic015TEZvMWJR?oc=5",
+   "date": "2026-11-12T17:06:02+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "bcc7b1acabe6",
+   "source": "s21",
+   "category": "people"
+  },
+  {
    "title": "Pluxee release a global study uncovering three paradoxes shaping employee engagement in the era of inflation and AI",
    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcDZOcHZEYklfZGg3MEtNYzFQdHRBcnA3UXRTMk1BSU9Tc180SnVHQ19Xbzg3WVNYZU9vbHpmWXJqSktNNXdnTjBqYjl3RVJJUXRWUlpVc0ptRnBtb24zdDQ2VU1nUzJxdmd0dlRPcXI0QVk4bHBIemVQdGJlVVd1QlJ4ZlpXM3ZQaGxXRnBFbE5pQlphSmNBTHRMWE1nYm5uOTl3NGdQOXp0d3UxWmpxMWRwd0FFME1EcUY0OTJGSVdTWXhUSm1EdEMzMktNQWtXRXJr?oc=5",
    "date": "2026-11-12T16:36:56+00:00",
@@ -6613,6 +7295,28 @@
    "publisher": "HR News",
    "id": "7278ef956052",
    "source": "s20",
+   "category": "people"
+  },
+  {
+   "title": "Kiran Guntur Elevated to Senior Vice President – People Services Business Partner & Administration at Ventra Health",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNlU5RkllTm9tdU5xX1dTMENxd0laa2lOcWR6bkI0NUc1My1jNFRYdkxMeGhac05jVmVBc3E2aXBrSlFOY0Z1X0p0X3VPeFV2bFFGdHk2Zjk3MmtTWlhKcXVwSVdGRHFCaVQxTnpyZVhwVVZGQXRxQXRsOXF0dXB2M1RZSW9WMHdrallMZ0dQZ2dnWGJ2NXJRaEJnaDFSUUs1UmRqT0tUR0Q5YTZtWEhrSEszczdXdHhSQ01GeWN2ZU9pR3Fjb3RoM1BMNA?oc=5",
+   "date": "2026-11-12T16:35:49+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "https://hrtoday.in/",
+   "id": "5696ce54ddc9",
+   "source": "s29",
+   "category": "leadership"
+  },
+  {
+   "title": "Michelin Names Chief People Officer",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWd1TmxyanJiTXFxYmpYaWlTV1h3T3lnUEI5VDFJc2xiT3pHcFFvSmtPTnRUWEJZallhR1daZlJNNC1rN0plRnIxdFdyUTdrYTV3OFlCSk5rXzQyeDNoTlJObzlDNGEzcHlEUGJmZU4zLU5BRjVCUjUzZVgxWS02RF83ejBxVXVNNlZIb2x6Yy1lR2l5aHNR?oc=5",
+   "date": "2026-11-12T15:25:10+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Modern Tire Dealer",
+   "id": "b8901c97733c",
+   "source": "s21",
    "category": "people"
   },
   {
@@ -6682,24 +7386,24 @@
    "category": "ro"
   },
   {
-   "title": "Romania: Industrial relations developments in 2025",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORG1meVUtN19ibGFibjhqZF93OWRvMDJKbXdzeTI1NVlhaElYbjhQUThHem5aUG9TdXdFMnByYVotbXpaaDVhc1RTZHNXS2hiMm1JeTFwdDhZcG1YSG5RYWE1Ymc0VUxGRjJrLXlLOUF2UGt2dFdXUmZPY0szZklMZlI4MTdkaGpmTXhEbFpXdm1ZOHo3NkZjb2RuQ2twU0k?oc=5",
-   "date": "2026-11-12T14:07:29+00:00",
+   "title": "Malta: Industrial relations developments in 2025",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3pvZWVIRWl4bVlDLVZfSVZFUmczQndwRWhsQTBJTTJMYTE4Ym41TERURWd0OW4yUGhHSjRyak5EMFZlZjZOeTRxMFpjSFJ1VXJNWkpYaUFDRGRKX3lPM3I2X2E1bEZpS2hUX2pUMFNfRktoNWpwWC0zYl9MbkVVMHRfRll0Z1V1ZVNodkhUcGxHUjJ2VzcxRlNndjA?oc=5",
+   "date": "2026-11-12T14:07:28+00:00",
    "summary": "",
    "author": null,
    "publisher": "Eurofound",
-   "id": "f6371c404b3f",
+   "id": "69628a3ce2e1",
    "source": "s25",
    "category": "people"
   },
   {
    "title": "Post de rezident urologie scos la concurs în Sibiu",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdmxvRk5Bdl9SN2ZJRW5EY182b3VHZ1RSLW4yb1YzYWNLN3B0c09WUC03cjZyQ3IwVWp1VmU2ZzRsa3piNjlsOG13eFR6UUJBaElDQlRqMFB5dVkyY1VqWExnVndSOUo1WERQTE9lV0dMa2pDN2FwYjktYkJ2MW9scjFLYnpBejRSQlVXbGd3bw?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWJydjRMdVQzZE5rR0V2aTl2TExScGZMTVNnUDlyX0xzbzdsaDhyQ0pWc1VtVzl5NTBhTEV6a1I0c09PVldGXzEyZWxfMUx1WDdxcWkyREtWSG1pX3hHcjVyR3M4dkl0czJrd3VpcXJOWWp5NXhDNS1LSkljV3FMcWJwZ2F4MFBEV0EyVE1R?oc=5",
    "date": "2026-11-12T14:07:00+00:00",
    "summary": "",
    "author": null,
    "publisher": "Viața Medicală",
-   "id": "5b2fc0fa4ffe",
+   "id": "dbbc12576ec4",
    "source": "s37",
    "category": "ro"
   },
@@ -6715,6 +7419,39 @@
    "category": "people"
   },
   {
+   "title": "Workday and The Josh Bersin Company Bring Galileo Agent to Workday Customers in Sana, Giving HR Leaders Instant Access to Trusted Expertise",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdEdVNlltemt3YWxxTHI3NEhwWTBBX3lDYkZvaDBaNFU1ZUhEUW1ydU1tVzFSM0JYM2Z3d1haTU9KZm1neHJ5SlBxaTRtWjFIMmY0T2xIaTA0V0dtOFN6U0s3YWxzSWlnSGFEZXFNTFoxekZfTnpOQm9uSVV4b08tMzU4bVR5OTR1bm9nd08tck1IbzJEckE4bWZCUllHZw?oc=5",
+   "date": "2026-11-12T14:05:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Yahoo Finance",
+   "id": "650755c3f8ba",
+   "source": "s21",
+   "category": "people"
+  },
+  {
+   "title": "În Roman se caută rezident medicină de urgență",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdExMVUMtSmhOeDliZGF6OE91QWloZDc4NjFKc3FWWEtKV0trRDNJSWduUHFpaWVMNS1uSERTN3JvWl9vRzc5N1FYSWktT3R4Y2s3amdwaUwyYVhPT1U4Y3V3WkJHdEtqQl9sd0J6WUpsSWVhR1Y5Xy1WUXp0ODVUTFJObkVJWHls?oc=5",
+   "date": "2026-11-12T14:02:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Viața Medicală",
+   "id": "960e1a87e2cf",
+   "source": "s37",
+   "category": "ro"
+  },
+  {
+   "title": "Here’s Why 59% of Workers Blame Their Jobs for Declining Mental Health",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTjhKS0ZWMDg5MHd4RU9nNnRkTFFjNlltZnIwLW9mbUkxSlpOY1NQN3h5cjhoSUoyNkM3RDZVc3JfVVgwV3cxdGYyQzl4UmtDeGNyZVhyeXZKOW90elo2OXUyd2JfbUo0cF9uRE5pUDFnOTFxNE9jaXdIendWV0Y3U1dxU25Zd3VUeE1hYnRhSk9VR19qU0c1YnE4dk9fdw?oc=5",
+   "date": "2026-11-12T14:01:28+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Money Talks News",
+   "id": "b7deadf03fc8",
+   "source": "s13",
+   "category": "wellbeing"
+  },
+  {
    "title": "My best friend is pregnant. I’m happy for her but not good with babies. How can I be supportive? | Leading questions",
    "link": "https://www.theguardian.com/lifeandstyle/2026/nov/13/how-can-i-support-pregnant-friend-advice",
    "date": "2026-11-12T14:00:43+00:00",
@@ -6724,6 +7461,28 @@
    "id": "1efbad8c7882",
    "source": "s10",
    "category": "wellbeing"
+  },
+  {
+   "title": "Concurs pentru medic pentru îngrijiri paliative în Bicaz",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ25Ub1dnSjA1VlZYYnUyeS15S1dTeE5NbTVEYXk1YlZUUFVOQ3cxcUFzenBVNFM0ODEzQWlLNDZZZGMxVmM5aWxZbnhXUmM4TjV3cWZqUjVOM3QtQmM4X0g2XzZ1MGtRd0d5X3dFWDFvMjRYVkI0NmxkM1BvQ0Y2WTNvNU1CaE1DZjUwOFl0TzZfZFlTeHpN?oc=5",
+   "date": "2026-11-12T14:00:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Viața Medicală",
+   "id": "e3b091f14a5a",
+   "source": "s37",
+   "category": "ro"
+  },
+  {
+   "title": "Spitalul din Orăștie angajează trei rezidenți ultimul an",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS25fYkpLc2l2UTBfRFZteDFZLU9NNHBaZDl2ZEZFMk5oeDlZMGFULThaTjFlRWRjb3liRDRmM3lLX3NvSUVTNGltNTFGNWtzN3JhdVRTQ3EyeHA5elJtUUt6N205RHF0MUUxS3dLUjN3Q2RsS3Iwb3VqOGhzcEU1LTFEUWNDYUVGUVRWMU4xSGJoNG5jbE1j?oc=5",
+   "date": "2026-11-12T13:57:00+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Viața Medicală",
+   "id": "9a135b4f0296",
+   "source": "s37",
+   "category": "ro"
   },
   {
    "title": "AIMA Life se lansează în România cu o abordare integrată care redefinește echilibrul personal",
@@ -6757,6 +7516,17 @@
    "id": "726af0f6ad01",
    "source": "s26",
    "category": "leadership"
+  },
+  {
+   "title": "Americans' Views on How Trump, Biden Have Conducted Their Campaigns (Trends)",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS25YbDF5VEZhdzdFaFlGR3ZUVkxDM0IyVWQ3QnJEd2ZMUjVSTURSUENrY3h3MFhESTdodVZaSi1zR29lQU9UZWFwRVYyWGRQSUZyN3lWbEs1R09uX0xfeTdfaldsREZ0dDZFN3dOSXpJTmpZazFtRkFFTDBsc0dpVnlOWTZtN2ZQeVZtQ3gxNFRuSEdJRkN4eDBSTQ?oc=5",
+   "date": "2026-11-12T13:44:18+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Gallup News",
+   "id": "3b6deb75ab9b",
+   "source": "s22",
+   "category": "people"
   },
   {
    "title": "Program național pentru tinerii care nu muncesc și nu studiază. Guvernul vrea să-i readucă în școli și pe piața muncii",
@@ -6801,17 +7571,6 @@
    "id": "1ccfebdba9da",
    "source": "s34",
    "category": "ro"
-  },
-  {
-   "title": "The Voice of All Things Work",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ISUtaNklFdF9XeENiRGRXVkQ1ek12cVRVcGg2bjdiNmM5RTNVYjltYnM2YWRfYVpMSkJQZElKNnB4LWE5M29qV0ZkQnVCS01pN3dQLUhXaEVOZk93MkVSdGM1TXFNdUlXem9xU28waXhUZw?oc=5",
-   "date": "2026-11-12T12:37:10+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "SHRM",
-   "id": "ed6ee7baf152",
-   "source": "s24",
-   "category": "people"
   },
   {
    "title": "U.S. companies turning to LATAM for experienced hires",
@@ -6924,6 +7683,17 @@
    "category": "ro"
   },
   {
+   "title": "De la scenă și studiile de psihologie, la finala Asia Express. Pasiunea ascunsă a lui Valerie Lungu",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdXZjaS1aM19KamFfaDB3WEJRclJqNDR2ZEg4ZFowSzQ5YXBHQ1VhYUM5aEhBMWszb2hkU3A3TTI3TW02OV9oM0xHanp4ZWtXLWJBbkRyQ0hBbGpWMV9mNUZ3RTJFUUlVaFMtbmxENnZLLXFCal9wZUhoYlgyanBoRzRqZElCa1NVTDdJZUlfUkFxMlhvTUY2cy1PNUJWcTlfS2RXd2dnS2M1SjNWVmprd25wTUVtMnJGc2NSZkU2eU01QVhtOVpaNC1zZnPSAdIBQVVfeXFMTnBoUktiRjBlQ0ItajhOUElZZ3ZzUGM1VzVhb2NxQmtUNGJWZ1hXTy1UaUpvM21iNjVvdW9iUUVFaTdzbWpfV05tOGNGb0VfSnlwcG92bmVnVGNYbUg0SXBxRl9HV2V2Q3JEaDVYSk1BYWF3MnBOWmJKOGNXNUZncllvS2R4RE1xMjBMM3BSSmFKT2dKaDZ1eF9IT3BJRWdlTE0zTWs0cE53dVlKZDJuNjllVFVVUmNadGxmaTQ5a3MzZnJXWDBtQ2RPOG1OU05pUGxn?oc=5",
+   "date": "2026-11-12T11:06:40+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Unica.ro",
+   "id": "952a77abab48",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "Concedieri în IT, angajați fără contracte și amenzi de aproape 900.000 de lei. Ce se întâmplă pe piața muncii din Bihor",
    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbU0tV3RwNE8tTkpuaWIwTHlLYWt1T0FCRUZ1Wk1LME5yNU5BcUdoRHNsNlFMaWZDVHhaUGRkZDFBNnp1TmtNWXQ3NDFRMXZpMVBOaDU2ZVJJWjZEUDc1WXpRUmJhMkdRTG9kZFpYWlJUSHEwdV9KV0x1VHVXQUluNUw4VGs0NXVFNmRCenhidnVxc2xzZEF4S1l2UkRaWU84SWxQU1V6Rk1SZ040TXlyLUEzczRNaFN3WGVrX0FqVUdzdzdVTDY1TmRTVFpETU1ZdTFwaS1HZnBaU1hKVWJiTEl4Q1ZhWmRfR0FuOTc0UEt3YURIcC0wREF2MHNacnAxYVRFMEtwMmRELTZM?oc=5",
    "date": "2026-11-12T10:56:00+00:00",
@@ -6988,17 +7758,6 @@
    "id": "13a0f393c808",
    "source": "s34",
    "category": "ro"
-  },
-  {
-   "title": "Iterative User-Centered Design Improves Acceptability of Pediatric Antimicrobial Stewardship Dashboards",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcm5Ta1hLYmV6NERiVlM5cUR5ZDhOWno3Qko3aTNIcmRHTjN4ZjdsWU9jVGJqb2hFcFVudVdYaDBMVENLazctTjRmVzV4bElpV1dkSWswU3gxSEp1bkhUTkdIUFdldk9yTElvOFB0cFBHeThTWEN6R0Jlc1NvOXFQb2c3LWhVcXd3emlFZV8xQWFzUmQ2ZmtzVGMxN21qZWRiS3pfVzZ3TzZLbFNHUGdKSjVUckRtSDB5NnNtMUNuUThXWmhfb1pN?oc=5",
-   "date": "2026-11-12T09:58:12+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Bioengineer.org",
-   "id": "927c6826cd1c",
-   "source": "s29",
-   "category": "leadership"
   },
   {
    "title": "„Lara, vine tata”. Dezvăluiri cutremurătoare despre ultimele ore din viața lui Robert Enke: lupta cu depresia și mesajul lăsat de fostul portar la mormântul fiicei",
@@ -7067,17 +7826,6 @@
    "category": "ro"
   },
   {
-   "title": "Clay tile serves as 200-year-old letter of dismissal",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DbHM4bFFFVHhqLUZqeDMtbTZwbEQ2Q3Y1TkxuelVPQnNnVzV0WmMtNlFqR0NTTXNCNjNqenp3OW0xVmlLUlVMRnN6THZiVkhBS0NKeWplNS1OeC13VnJVVzJIR3JNaWFoYlp5OEFURENXbjJqLXdR?oc=5",
-   "date": "2026-11-12T08:47:04+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Personnel Today",
-   "id": "57dec178d4cb",
-   "source": "s17",
-   "category": "people"
-  },
-  {
    "title": "Prima ediție a UNIJobs - pe 13 și 14 noiembrie; peste 30 de angajatori, organizații și instituții publice se întâlnesc cu studenții",
    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTndDbXI1ZUxPeVpCZlRBbFhqRDg1U3FlRkNCNmk3WkkyNWNUQWZVYkRZMTFlSXo3bUVvWkxOaVBWZ2FlcFZla0hvdkN3OWNNU0Vad3B6VDZaRXg2MHNXdmJkQThsNmVNNjhJSjZjOEIwakJvdzY4SGN1aXJXdTQtOTB5QlAzZkw2WkpDSlQ0T1U3NWljVmRrNFctaDMwLWpCNGw5N2xCRWFhY2IySHA0czItd3ZwblhMLWZ0RHNEdlNNTmdRTldSYVJvUF9Hb0VfSGpSSXM3Nk1yd2YxZzFYckVNeFF0MVZEWWRIUVl3?oc=5",
    "date": "2026-11-12T08:44:09+00:00",
@@ -7086,6 +7834,17 @@
    "publisher": "Agerpres",
    "id": "b9d9b0da48f1",
    "source": "s30",
+   "category": "ro"
+  },
+  {
+   "title": "Piața muncii la final de 2026: Tinerii „vânează” joburi în retail, în timp ce candidații de 50-60 de ani se orientează spre construcții",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQLVBSTnhDdDRkUUhXVkhBalhlWGxxUnBORDhJc0JSbkg0ZEMxMkNCckJGVmtQNHdhQzJacmh6UGdzV1htQW5JYjJELVBOQXVCb2ZkMUNoTk81MnJZUnRpcmJ5TUhXVS1HY3Vub1NYNWRwcmJxdm9ENDJqTWthaTdlNEk4QXFfcnZwNFdiWldicDVieDlQbUtESjZPUGFWYWtqNmtRV3dhZ3dtZWI5ai1YVDI4ZEMxcGM5S2k0c3hVOW52NmdOOGVoUDlmRmxNTjZNd1prQ3JhNVhwM21pLXkxcjJWSTJuOWdFQ2hFSE56aw?oc=5",
+   "date": "2026-11-12T08:24:35+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "MyTex",
+   "id": "3be6475669eb",
+   "source": "s34",
    "category": "ro"
   },
   {
@@ -7199,15 +7958,15 @@
    "category": "ro"
   },
   {
-   "title": "Ideas and Advice for Leaders",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeldpYU9DeWdNeUZYLTFkcnVQRk5UOHJWN2FWZFZtRWdTalpKUGRPb3JjMm9FVUd5RmhxSkVMOS1FU25Lc3BCV29BSU1JWUhCYkZmRExXc19mSWpnM3F6ZzR4YmE5UUxWTHA4QzFpODhKRXJqUmV0cHF6bWlOVEQ0aw?oc=5",
-   "date": "2026-11-12T07:03:53+00:00",
+   "title": "7 reasons why organisations & HR leaders should nominate for the ET HR Excellence Awards 2027",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOX2R6cFYzTjRZNTZGLWotb1hDdHRKMU5HN0hXVS1CRVFxUElZdzN4TmJxMDBiWEI2ZUdQN0FuRG9yT2hkbU1mWURwMDBtVXJfdmVWT3c4RzZYMERBWFZnX1dKLVN2Sl9FTnBMY2V3T0luT1M5ZlZZVTRrN0NIZ3Zfc3d4Zml6b3VkWEJPZFpuN1JodG92V3B5cEFCSlZOQS01VzdVWUxPSWlZZGtjdTlKNmlkTXRqZ1U3VGEtWVhwbG01Z2pXaVZGOTFybFViT254aVJKRnl2THJuX3l3aWJJb2ZrbmZ0Q2N6bmV5WTNHc2lhMnNnWUE2R1hmZDlRcXgxLVRvZEdR0gGLAkFVX3lxTFBrM3Q5Zm90YmxESi1EWkd5NlhyNG9mSmxvWmZYaDM3RXhRbGJXT2p0M0hSdjExX3RIMXBhSWE2N0YyWWxtWDM0THNHaXBXRFlvamktaVFsZGxiT1k2M04yRUhGTl9FN21lbm9fel81RXFLNmpyRWVZdTZhRFFqSzYxRzZaYm9zRGRaRzI2eEJLRkVCQWFrNGFFcDlxSkRzMnliS085a284MlQyTkxzeG9kSUtlSV80RjVlOGJUR19FVjNYODEycjdYUUdGOUNpNHMxQ3BGaER1ZGNhX3NUMFBvbDktM293V2lXZ0E5NE9tRVRPNnhlSFN5UF9oV1R0QTViV3cxRXFWVmV0WQ?oc=5",
+   "date": "2026-11-12T07:48:35+00:00",
    "summary": "",
    "author": null,
-   "publisher": "Harvard Business Review",
-   "id": "2ee8288ab12d",
-   "source": "s26",
-   "category": "leadership"
+   "publisher": "The Economic Times",
+   "id": "51b7b0cb763b",
+   "source": "s21",
+   "category": "people"
   },
   {
    "title": "MEIC’s Divya Prakash Joshi on Employee Engagement and Social Impact",
@@ -7229,6 +7988,17 @@
    "publisher": "Human Resources Director",
    "id": "0e3354b1854a",
    "source": "s20",
+   "category": "people"
+  },
+  {
+   "title": "Qlik appoints Anna Sharkey as chief people officer, succeeding Ruthann Wry",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUTctT1VRRU4yS0JvQnkwVlJiUGI2cXA1U09vNEhwSXRjUW4xVVBtczMxc3Z6QV9vSGRlcnJaRE5iQk9iNl9OUlpBYnU0OThlanh1S1Jxak44V2h2cmFYY3FsNVlhaElOYmpmeHhWeUpVald5dEtoYy1QUXFIYXQ4Sm1mcXJVRFlCTFpUbWZTLUttWHBJUld1RmZiSHo0dWNaWWhGY2NuckVPX0Fja3lsT285R29MZS1uVld3NUh0X2xPZw?oc=5",
+   "date": "2026-11-12T06:11:22+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "People Matters - HR News",
+   "id": "046ac26ed942",
+   "source": "s21",
    "category": "people"
   },
   {
@@ -7276,6 +8046,17 @@
    "category": "research"
   },
   {
+   "title": "(PDF) Americans' Views of the Leading World Economic Power, Now and in 20 Years",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWFfOGdYb0VXRFNFbmhOQzhiVjVDR1BMR1pWQU8xNUdqUGlPcENUc3FaRmM2alR0RV9KREFMb19YYXFXTlB0aFJiX212c2pHTkxNdFoyR09BY05IS1Y2M1dDYnF6RERWSklaTDlXTTg3N2dkLXlzWGQ1NW9hd0lubGtaVTNuNDJIU3FSb3c1VTB2eE91Z3dReTBLbw?oc=5",
+   "date": "2026-11-12T05:13:47+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Gallup News",
+   "id": "9435c34b778f",
+   "source": "s22",
+   "category": "people"
+  },
+  {
    "title": "Grab the wigs – we’re going to the theatre! We meet the audience superfans going crazy for cosplay",
    "link": "https://www.theguardian.com/stage/2026/nov/12/cosplay-craze-theatre-beetlejuice-phantom-of-the-opera-cats",
    "date": "2026-11-12T05:00:09+00:00",
@@ -7320,6 +8101,17 @@
    "category": "people"
   },
   {
+   "title": "Nine in 10 HR Leaders Say Good Employee Mental Health is Critical to Business Success",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkVYUS1GLXdGckVLWFhJZUhqY0dkdHY0Tk52R2tLTWxPd3FhR2hFMU9HcnJkQmhzQ2ltTXJ2ZFIxY3I2RnlCLUdEcmtiTWxVVnNLTjZHbFBuNkZ4N25YS2xxOVFRWDgzUl9ROFhxR1ZEM2I2eF8wUWJubndjNW9fWmlvRjZHRTlwSl8wM0JtcHM1VElTQlRDbEhjWGtsRzdseHB6Q2lHODJDUzNIVnNHVzhjUko3OGhSY0RZV28yem00WVlhU1E?oc=5",
+   "date": "2026-11-12T00:50:55+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Fair Play Talks",
+   "id": "77668fa4b9b0",
+   "source": "s13",
+   "category": "wellbeing"
+  },
+  {
    "title": "New on OSHwiki: behind the scenes of psychosocial risks in the audiovisual sector",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTnkwRllMeXZ0b1ppeGlvbk52RHVjdlJfbkloaFp0elpUQmFsTEpMVlpxZUVjMzFENkFPMGFmR3VhdWE3NC1hWDllY2FCcGFNbFhrWUNtUk9nM0M1NDVudFF5dWUzQnpKVWVEbTNZYWx3Z05hdl90TUpsTW40SWNBaEFLNG9kamJ4eGNndEtyN2dZODRpZGhwU1FEakZFUQ?oc=5",
    "date": "2026-11-12T00:37:35+00:00",
@@ -7340,6 +8132,17 @@
    "id": "c7dd282940d2",
    "source": "s15",
    "category": "wellbeing"
+  },
+  {
+   "title": "Un psiholog cere daune morale de 25.000 de lei! Femeia dă în judecată Spitalul de Psihiatrie Grajduri, după ce a fost eliminată de la concurs",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPd1ItWWxrRGJtd0tjU28zbHJtVGZYV0lQaTdWVEtmSXh2TEM1eXlfRVJNLWlwZktkc3g4NnZ0QzZwNU5hd2U2OWZXaUZ2allPSUptRFpIWmdpWW9SU3U5Zm1xeXRncXZBck1OMmdrSDlLejNfTjktY0tCbnM5QUhnTFpEbTNzaURudmxBbTA3bVlLWGljbGlaTURNdnM3ZGJ5MjE2NEpqWTBYemsxcnU0cVFwZ0tXNTIwUjRDMmlSeEV3OHl6ZUFBRUlPREMtVWFUOVg2aVdwUWY2TUg3Rzk2ZGtQTmtEMTNPcm1wVzdxZS1ORVVaeHpVQUVn?oc=5",
+   "date": "2026-11-12T00:33:57+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "BZI.ro",
+   "id": "e29d261e099e",
+   "source": "s33",
+   "category": "ro"
   },
   {
    "title": "AI to create 1.7 million more jobs than it eliminates by 2030",
@@ -7507,6 +8310,17 @@
    "category": "psih"
   },
   {
+   "title": "Hypnic Jerks News Research Articles",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53WWhQdWhka3FGMG8wNnpCUUhmVlo5Y0xkQmxvVE5HNE5zR01uaXdaQjRlS0M5NENhQ2NlMkx1WjBudlUyMUpFV1N1STFFRGJUZXpVTEpOcGNEZ0RSblowdk9rem9wYlE2YkJteTlB?oc=5",
+   "date": "2026-11-11T20:24:18+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Neuroscience News",
+   "id": "750b6f8ac7d1",
+   "source": "s3",
+   "category": "psih"
+  },
+  {
    "title": "Research: The Risks of Rewarding Top Employees with Better Schedules",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1lOUVVjRGxOVEZKNVJZal9FNW5DXzkwWEF5MnIwYm8tQWJQMFlMM0dvaVFSdEVNdUpYR3VvLXdxdlRhQlp4UktqWUtwb3ZCWDJHajBibmMwdVd5SmViNm0zYWtCcXhzMkFmcnJVZ2hFRk5YTndOTzhjMUx5a2o5eFNpdnJxYXY0S1poMU4xZUtGS01RMWc?oc=5",
    "date": "2026-11-11T20:15:10+00:00",
@@ -7584,6 +8398,28 @@
    "category": "people"
   },
   {
+   "title": "Director of Education Job Opening in Germantown, Maryland",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mRHFLeEZNT3B4WE9tTGh2aGFyTG9Ma05jSThEUnJJQTNoYy0wenEyMVdCRjlyS1czZ25RQ3o0UU5ZdDEzVjNYc3dCbmZNQWlXdTVmUlFmcFpzVVBsSzBETW9pMjg0TW9X?oc=5",
+   "date": "2026-11-11T19:12:12+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "SHRM HR Jobs",
+   "id": "21f528ef0fff",
+   "source": "s24",
+   "category": "people"
+  },
+  {
+   "title": "Cum arată fiica lui Sorin Bontea. Miruna are 19 ani și visează să ajungă psiholog",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbkdFRUZoLXZNVmZOQ09ZaW4zamdCOWxBTWVyV0Y4UnRObFRKQWRKdEhiQlhCYlZPSWdvVWR0TExWS0tDNFRfLVBzWldwYnAyZ1ZMWUVmNWpEQXpfZkRXRi1FRDhzVW10OXBqY2dhWUJhXzlOaDhLZlZQLXdfeXh1b1B5WVV1emNQUU5tNUZCUm1LakRqM1JWRi1ZaGlSQ0hPcm90dW10dVJGMF9DbmZ5c01aRUpsbVhEWlJOX0xsQ2ZoTTJ6NlhGYWhyUGVjNWY1?oc=5",
+   "date": "2026-11-11T19:03:57+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Libertatea",
+   "id": "b8dba0cfdeb4",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "Unlocking AI’s Revenue Potential",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WZDNOTzZmaVdlUVRCcmt1cmNqTzFHV01ENmJRdjd1TEdLX0NvWG1mQzlwZk0wcFMzTEwtRjdYTzduVGtpSWZxaEpfTk1vTU44cDV6cTFod1RxalRKQkR5THNMUVpHTHNyQXBOZVFzMFN2TGM?oc=5",
    "date": "2026-11-11T18:41:53+00:00",
@@ -7593,6 +8429,28 @@
    "id": "4b3d37c5a13b",
    "source": "s26",
    "category": "leadership"
+  },
+  {
+   "title": "The 'HR-leaders by MLB franchise' quiz",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWFM5aWMyb3F1eE9NMmdWQzZEbU1vVEwxeWNVLVBSVDFZVnVTMF96UGstN3A0TFQ0WlFGd05tVnltZFZmTjd4bzhxOXBwNW9PNDhuRjBMM1lkMGFoLTVvYmFSc3JENEZnNGVLWUZCQUthQ0djdGxfQjFwcGFZb1BhS09peWU1MnkydGt2RzZPWTBFVFk?oc=5",
+   "date": "2026-11-11T18:09:39+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Yardbarker",
+   "id": "f92925b016cc",
+   "source": "s21",
+   "category": "people"
+  },
+  {
+   "title": "Femeia care de 250 de zile protestează zilnic pe treptele Curții de Apel pentru Călin Georgescu este psiholog pentru victimele violenței domestice",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcE1aMlRKdjluMlJub0JFcmQzRVlieGxUNTlKMl9pak9hMWdkQ3BWTHNUd08zTlB1YjBkdDFROFU3YVR3Z2N6cGxEdjByMUw2cGdwemdwekhTMnJGNjlQRXYwOXY1UW93LU9BSlBFM2xmSzMzaHFtY0JwU1l1blZXUUJCRE5YMkRRTzNQUG9kbnM2dmRLYko2Vl9zR2JFM1h2ejJMNmNJSW1YMHhScWN6T094Mjl0dmZ4V3RYdjIxN3FKNkxMc0tjMC1NaDJMenI4RlJwNGpscFNyUGpWVEZjNm05bWZuNE14SjQ4WmxOMmFpcG54OUJESTNZTzk5ai1tSUln?oc=5",
+   "date": "2026-11-11T17:53:55+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "HotNews.ro",
+   "id": "de2d17166fa0",
+   "source": "s33",
+   "category": "ro"
   },
   {
    "title": "Evaluating Wearable Electrodermal Activity as a Candidate Digital Biomarker of Occupational Well-Being: Longitudinal Real-World Study.",
@@ -7672,17 +8530,6 @@
    "category": "ro"
   },
   {
-   "title": "Deanxit: ce efecte adverse grave au dus la reevaluarea EMA",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeXdITVFZWDdJc3N2WjBpQmNzMENNTHFIck9OeE94ZmUzVlVWQk1Xb1RWNUFGLTc2UWs2a3FiQzNpZ3l2WGZlY2VFSW44V1M1WThidGlKQkxCRnQyUFhVUnVScVR4UDBVd2hSaHRBUzExanNHVVFFLVJwWFlsMlRublA3YnhYLWUxUFlwNkdyaldHZzQwTEZHVmZqLXlUNlA5aGx6azhqdzVaZlM1dGRRcTlYamJkSG5PdU0xYUxsZFdDVTVLZkQwTWlXRzlCZ0I2SVEtUkY5Q1B6d0FPUXc?oc=5",
-   "date": "2026-11-11T16:30:02+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Ziarul Național",
-   "id": "d8d120d44dbc",
-   "source": "s31",
-   "category": "ro"
-  },
-  {
    "title": "How Couples Create Their Own Unique Microcultures",
    "link": "https://greatergood.berkeley.edu/article/item/how_couples_create_their_own_unique_microcultures",
    "date": "2026-11-11T16:30:00+00:00",
@@ -7713,6 +8560,17 @@
    "publisher": "Gallup News",
    "id": "e465421a3afd",
    "source": "s22",
+   "category": "people"
+  },
+  {
+   "title": "- Personnel Today Jobs",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaEdvMXNiOUl6WHdVTERFQTRPaFFfUkozQnNoNGJXRjB1NEVySExzeDRZU2NMcEhSQUU4cHo2UWZPdlVZY2FKS1BWSVRDR3hTbWUwWWZsbFc0NzBWTWkzMnZxT0tMU0hKSEFMZ2ZxVUZ4V1hmU1ZoU2xRWVNpU2pQTVlDT2pzcmtWVk9Qc08yc2FPalFKSldxM1BNQmpldkZpLV9vOFFVcFFicGhKbUphU1Q4MHNMUGpIalZBckdmWQ?oc=5",
+   "date": "2026-11-11T16:00:50+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Personnel Today Jobs",
+   "id": "5b09bde2e45e",
+   "source": "s17",
    "category": "people"
   },
   {
@@ -7769,6 +8627,17 @@
    "id": "804da323979f",
    "source": "s26",
    "category": "leadership"
+  },
+  {
+   "title": "Industry bodies join forces to develop mental health platform for MENA’s marketing sector",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvd201NWY2RnJJYmp0bTdrRjRoUWQ3YzQzVHBDY2lPRXNTbndIaXBMTURlVmxxLWw2YTNuNjQ0QndrcEN1WTFNTzdaVTNRUVM1dEpyWmtyTUNBdnY3YzdlbkpTb3pXakFZYUJiVFpWM2RKaWh5QVE?oc=5",
+   "date": "2026-11-11T15:09:21+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Campaign Middle East",
+   "id": "fe0f1907ab0d",
+   "source": "s13",
+   "category": "wellbeing"
   },
   {
    "title": "Global hiring needs strategy: Safeguard Global CPO",
@@ -8002,15 +8871,15 @@
    "category": "ro"
   },
   {
-   "title": "Cum va arăta piața muncii în viitor? Ce se știe în prezent",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMndCWHhFNnFSOG1rNlBJZEVFMGpYeGZxNG9oTG0wQzVXeGpsRlVvLWJRMEF6NXhmWWFNUnp4QlJLWUlYb2VZSk5UYTVpRG1HRDVIbGxkR3dkT2IyMnFDMmdzYkthSmdwRXc3d2lpQzhrNGxUYmNQNW4tRnpjNW9lRjZjQU9iMGc5SzhqamN3cG5NSzRWUC1pdW1IeW_SAaQBQVVfeXFMTnoyd0dzNnFUYVFjUTczdll6RGxLaDZKRTJ6T25DUGJIVVpxNF9XY2Jka0NDV01CUmR6RnlYUlREN3htMWpDVkgxY2dWSjNmRTVSOEVuc1ZWV2VGcVJqWEFVcXprZnhNQ1Uxd2V2bmZkSmgzVkpXYXIwdzhSeElrMmR4SklEV2NYMzhGWktaWU5mU09YaHlsT3lUejNxQl9SVXhOT04?oc=5",
-   "date": "2026-11-11T11:03:28+00:00",
+   "title": "Co-Worker Recognition Ranks #1 for What Employees Value Most, New Kudos Research Reveals",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONzhpT3hieHJTOHNGRFI3MmlpeUE3VXBUZ080ZHJidi14NzlGRHhRWHJ0UTZwaU5Db0o2VnZkZlY0TWdpRFpYaC1VNFgxTFJPV2ozNEs1Ty02ak5fVGp6eGFwckxNY0NNX1NydHdGN0hiMWt0LXB1TXJ6bFdrN3JvUE9ianBtRkxDclV4LWZ1aE1WZl9zWXRwT3pQeXZ2MmRFM29ZMXVmc1BtSHllR05peUZnN3E4RHRabHQxcC16emE2WUlwenkyZm9XSQ?oc=5",
+   "date": "2026-11-11T11:04:20+00:00",
    "summary": "",
    "author": null,
-   "publisher": "Ziare.com",
-   "id": "67db4521280f",
-   "source": "s34",
-   "category": "ro"
+   "publisher": "HRTech Series",
+   "id": "022adfa5ed6f",
+   "source": "s20",
+   "category": "people"
   },
   {
    "title": "Angajatori și candidați se întâlnesc la o nouă ediție a Târgului de Cariere din Sibiu",
@@ -8024,15 +8893,15 @@
    "category": "ro"
   },
   {
-   "title": "SHRM New York State | SHRM NYS Webinar Series - Webinar II",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2JRLXpnZGJzWUVsa2s5bVVjZl83ZkIxSFpLeElmTi0weVA1TGlfQW16NHpXTzI4bEFYTlRvaWhIT3YxVUxvbklJRk5aSFFIUTJVM0ljbXpqRGZIQk5YbTAyVGhqcGZjSHJkalZXS2NiYVB6LVFVLXl1RkUxaDdHWlJKVElIYTFhaERZNnFIeGlVWTlSam9fc013?oc=5",
-   "date": "2026-11-11T10:09:07+00:00",
+   "title": "Melanie Joy (psiholog): Oamenii devin tot mai conștienți de beneficiile alimentației bazate pe produse de origine vegetală",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc2lDUHk0b2Zqd1pXajVMVXNxNmhablR5SlEzLXB1QWQ1cGpVa09BN2FoYXVyNmFFa0NyaHhSbjJ4blI0cmpGQTZ3TVAtLUF1UzJOdElWX28xTUgzajJvY1plSkFlRTliN2czeWRlMlZRY0ZiV0MtbDFRcFFjWW9YYWxzSEtRRS1mZ2dFWFpHQXc2NmdpeHJlekxINHI4OGZLN0hHOHN1UWhadHR2VmxGWnZxX1d6NmhjRWVlUTJxMGtLYlo4bDJBNXJPVWJaRzgwQ0pELVRMSC14Z1VuR1Y5bQ?oc=5",
+   "date": "2026-11-11T10:21:48+00:00",
    "summary": "",
    "author": null,
-   "publisher": "SHRM",
-   "id": "1ef05bf02fee",
-   "source": "s24",
-   "category": "people"
+   "publisher": "Agerpres",
+   "id": "256bc235aa3e",
+   "source": "s33",
+   "category": "ro"
   },
   {
    "title": "Touch of evil: the terrifying truth about sleep paralysis",
@@ -8057,6 +8926,17 @@
    "category": "ro"
   },
   {
+   "title": "Five steps: Close the waiting gap in workplace mental health",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ1FkNHRGZHAyQ3hvb1FxdTgyOUE1TlhkQlVzNm5oOU5wVE4wTmVNbjZITTJlZVlNYTU0Mmd3VXlZZ2JGX0Q5REVKX3pBakdiVmZTenRPR1dKWHhwSjQyX0VxZ09Cb210ZFR3M1VoOE9yVjFHN184cTFGamF6N1NTbnZQUWttZw?oc=5",
+   "date": "2026-11-11T08:13:33+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "HRZone",
+   "id": "ce77cea6ec21",
+   "source": "s13",
+   "category": "wellbeing"
+  },
+  {
    "title": "Civil Service People Survey 2025 - Results Highlights",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNejRZajhwSzRkMEJaUGF0WTdiZEFjM2JOa1prV2oxVVBSalk3dTFFd3FXNFhFZ29fZkJScW5PY0h0X1BjbE5lZnRaUTRkYUZTQldNQlV1TW1yeVFWcTRteUVuYVVpNWJpOWt0eE9ISW9aZlBITHlFampNcEdoZ2liVTd5bVhXM0dzX2lELXRYUVZNMEJHQ1c3TmJEU0E0U29IblNfeG12TjA0VnhKVWYtdi16RkwtanVXTG51b09Xa20yNGZOMkQtZ3BWTzVOaWZi?oc=5",
    "date": "2026-11-11T08:00:00+00:00",
@@ -8077,17 +8957,6 @@
    "id": "f4f094eab578",
    "source": "s20",
    "category": "people"
-  },
-  {
-   "title": "Aproape 4.900 de salariați ai STB au legături de rudenie în interiorul companiei. 36 de prime, sporuri...",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wSWM5RmkzRzNMdVJKam5LZXkzTGFneVFTdFZYclM1VmJVcHBBSTRGS21nNmh3bHA0Q1o0cDZEcnE5NHRoMjNnYkFwR1RfbFBHSzlUeldkOVVnVkRZOXFyd1lHSVdtQjIyVThFX2ptNllPSk04YjdfatIBgAFBVV95cUxQbGM1TF9ia0U2a1R0Ynh0cllMcjVCZTlRU0xMNWFqUXB3TFFHV245SFJYSjVSUnNXS3dqdzhIUFNHSjBoWk5FR1VmUEZ0NC1sUThxaTIyS0gxQ0RIWmZtYmppYXFGa1IwUkJhZmJFbWgwRFRGbkRacnF5RUFxNTFXNg?oc=5",
-   "date": "2026-11-11T08:00:00+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Ziare.com",
-   "id": "25b31c081408",
-   "source": "s34",
-   "category": "ro"
   },
   {
    "title": "Work Reimagined UAE forum to address employee well-being and workplace culture",
@@ -8332,6 +9201,17 @@
    "category": "research"
   },
   {
+   "title": "Motivul pentru care Brigitte și Florin Pastramă au ajuns la psiholog. „Nu mai am viața pe care am avut-o până la 40 de ani”",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcjE4TTZxb1c5SExlS1NHYVdXS2tLUEFHbUc3SVVPVk5xM05sRWtUS1hsMHN5c3F3QTBwRVJfZWlCR090MTVsSVFUNVlDV3FqT1NQckQ1ME54cThQUExvdG5UbzljOFZ4aVNqWTlQVjBPWEhzWUtmMzh5LTljZ3JMeVgydDNDc0ZaanNsb04wWnMyS3VCM0ViMVB4eVQ2UjFBczhwTnR2ckd5YVhWVHFfQndzZEtNZks0M0lGcVc5bHRKVk9yX1doQUJDVTRhTHliVTlSZlVyc2pPZU15U1h5UnQtYlA1eEpPZnQtdnRZbVp3NURUMFVNdFY5MGdUSHFTZXdiZkF3?oc=5",
+   "date": "2026-11-10T23:19:33+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Libertatea",
+   "id": "1012beed7c75",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "The HBR Guide to Killing Projects",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xMWNHOW9GNVhOZGh0REZnOE9xLWJqRGNBLTQxZ3NlYk0yRVhlTThjd2F1OERIUDJuUVVOVHVyVjkzZWtfbjRIQmZlNmpyMmdUbV9GZGw3bENrQ0M4aHlYZ0xLRHBrZzd0?oc=5",
    "date": "2026-11-10T23:19:06+00:00",
@@ -8451,6 +9331,17 @@
    "id": "8921702843b2",
    "source": "s7",
    "category": "psih"
+  },
+  {
+   "title": "(PDF) Americans' Confidence in the Media",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54Vlh4YTl0RVRobUFCYXhJZDlyTGJKRU5uWGw4Z3U4VkNLampSem5TZF9ibkFlbVhIbldURE5yMWZnNDhBMnZWbzQ4cDJZSktyaF9RZGRrY0dQQ1h2TV9lQnhCdjNDWFU2RWMxR0RjanVaMlp3TzY2aFFvWQ?oc=5",
+   "date": "2026-11-10T18:47:44+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Gallup News",
+   "id": "291f97c1eff8",
+   "source": "s22",
+   "category": "people"
   },
   {
    "title": "Study Tracks 3,000 Real-World Psychedelic Journeys",
@@ -8629,15 +9520,26 @@
    "category": "people"
   },
   {
-   "title": "- Personnel Today Jobs",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHBaenZ3VkNHNy1UWGc2RmlXSFF6QzlRZ3E3S2J4elQ5dnlJbklRcDhGcWdPRnVfMnVCMzlYY2NMV21Ra2x2VFVjeTRUQmgxVDZVSGhmSURMZlRZdzNvZTRzRVczTERKVG15YkpXVkQ5dlNSV3JJLURVcy13MTZHSnNob1lyeHRjc21RMXdkYTVmcGFLOUlid3NHYWNGQmU1aVEwOC11NWZhQjl3N2VtcUl1eV8?oc=5",
-   "date": "2026-11-10T15:57:48+00:00",
+   "title": "La psiholog de la 16 ani, pe baza propriului consimțământ. Ce propune proiectul susținut de Andreea Neacșu",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5US1FLSmR5QWR0MHRBS0JhcFYyMW5kVFB1ZGNtUC1aZ24xaHJsdVVTdWI1UEZISFJzbnJJUFpPWHlHdjdGWGpaVjg1b1p0VkJWZHJ1dVNtRkpUd1BTLTFrTzR0RVJFLTV6V3Fzcy11R1JvWjJJajR6a1VIclE?oc=5",
+   "date": "2026-11-10T15:46:40+00:00",
    "summary": "",
    "author": null,
-   "publisher": "Personnel Today Jobs",
-   "id": "f574641ddb45",
-   "source": "s17",
-   "category": "people"
+   "publisher": "Ziar Târgu Neamț",
+   "id": "a6ddc53677e5",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
+   "title": "Iași: Nou Centru de Sănătate Mintală și pentru Prevenirea și Tratarea Adicțiilor, la Institutul de Psihiatrie 'Socola'",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeFFYbV9ORHB4VlVZaktVaEJhZ0RRWEZFTTNBaWdHMFVKemcxMnZERWFOQ0s5ZGZOei0tMjJkNEw3Uk1RUl9jX2FIcFFtRWhtRDBLWkJEZlRPalRILUdJRFVrV0t6ODRrdnJ2U1lxaHFMZ0JTQkdJVEdOR0hpdG1mQmVFMVhSQTVPcjd5Vlh5Y3NMbGYxcGhkS3pkd3UwNUlwTW5udDVKQ2JPYTR4eXZlSUlOakV0VzdkeGJDRGdIN3g0b3JfVFBsaENkdW5FRFZublFhQlJCRQ?oc=5",
+   "date": "2026-11-10T14:57:35+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Agerpres",
+   "id": "75182cd72736",
+   "source": "s33",
+   "category": "ro"
   },
   {
    "title": "As Your Company Evolves, Hold On to What Makes It Unique",
@@ -8660,6 +9562,17 @@
    "id": "7700e4a4b00f",
    "source": "s22",
    "category": "people"
+  },
+  {
+   "title": "De ce Mica nu l-a părăsit niciodată pe Nuțu Cămătaru, potrivit unui psiholog: „Este arhetipul femeii tribale, fără discuție”",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc3N5ZFA4UmFkall2clAwUkpxZGR2NUpTNS1ZbXVjTWFaS1ZEZHUwLTROWERrWUZmTVJ1d2tfR3JqTVlRbnFtUE9kS3dDcXJUakFHRElwenNMdHZIUENmRll5WmphbmI3bXIwdVFxRDl1YXVqT2puT2VGeW1pbnBzM1N4OUJicUwxX2JMUkJQWnhFUWlQYVB3Sk8tQUVvdVBpdnR2VVExWE82RS1SUE1VcmFSV1pMVzItbDFtTGRFcVk3MXpLMHpOdnRQRXBWQ1pxYmVST3I5dEFGYVZ2cUFlV0Vsc0N2Q183UWk2VENlb09mdkU?oc=5",
+   "date": "2026-11-10T14:18:37+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Cancan",
+   "id": "cd6523ae2887",
+   "source": "s33",
+   "category": "ro"
   },
   {
    "title": "Inflation Continued to Rise in October, Squeezing Employees",
@@ -8717,6 +9630,17 @@
    "category": "people"
   },
   {
+   "title": "Aberdeen facilities management professional takes superman to Glasgow to champion workplace mental health",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV214NFZ5SVBnNE5aZXlCVndSbkRfS1FhU1BtaFkwaHVwcUF4YTNEV2FadUQ4NkQtUkVUangzcDZNSUpVaklXZTJ1RUNkWmF1RmtOVE1PMktPU3V4QS1rSEVCc1llRU5GS25qUnRfMnlFajEtTURWSVRxVDVIUW5zMUNQOTlUUDJJTFAwMlhEOVRhSzJXSGpsdWQ0dm5YcVpoXzBPams5YlN1cEo5ekVwVWlaMVFrRG1GM24wWFRnMVF5RmRoajREVDFVSUY5NEY0a2dDNnpIXzc?oc=5",
+   "date": "2026-11-10T12:55:43+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Aberdeen & Grampian Chamber of Commerce",
+   "id": "2fa8a8d0b673",
+   "source": "s13",
+   "category": "wellbeing"
+  },
+  {
    "title": "What happens to your brain when the days get darker? - video",
    "link": "https://www.theguardian.com/science/video/2026/nov/10/what-happens-to-your-brain-when-the-days-get-darker-video",
    "date": "2026-11-10T12:23:54+00:00",
@@ -8737,6 +9661,17 @@
    "id": "e4a0fd9cc471",
    "source": "s26",
    "category": "leadership"
+  },
+  {
+   "title": "(PDF) Americans' Views on Satisfaction and MIP",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFhTLUVpYWJFckZsUVUxWmZLOUMyMHlObzZSTldyUTV6WTc0V0ktY0VnQ2lhb3dVcnlRSTNaQ1hQS0w1blRYRUQ3c0dYRG56TXN0dGRIZ3V4WHNObVM3UVNIcUFvMG1RTTUzb1ZEOEN4a1IxWjlQbGQtMGFnVUd0QVZRZw?oc=5",
+   "date": "2026-11-10T11:50:40+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Gallup News",
+   "id": "f85fff178fb5",
+   "source": "s22",
+   "category": "people"
   },
   {
    "title": "Assessing Learner Readiness for Virtual Reality Simulations in Mental Health Nursing.",
@@ -8926,6 +9861,17 @@
    "category": "leadership"
   },
   {
+   "title": "Tencuială desprinsă, tavane degradate, mucegai, frig. Cum arată Facultatea de Psihologie și Științele Educației din cadrul Universității „Ovidius” și ce spune instituția",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSkJfSzJ3SVlaQzFwLUY2U1V5VEd4VEJmQnBscnlvejZQWTJkS2RDdkpmYjlVcG5LUmtGbTJicDFzdGswb1FjeUthUHREcndQSmx0R3lhdWRsSXVNVEpjcnZNM25tbHZURnA1Z1RaMHlKSDhybTk2ckxsaGFZd2ZnOF9MUU4wOENOZUlWYnBEUU0wQmN2YmtFYU1kSFVkamh3MjVqM3E0aFhqQ1VxVk52YzgwOVhBOWhzS2pmckVBWC1Ha254YzQxTzhKWF80QVpsQUNIRFFiVC0tcFVyY2s1VFd4UWcxZnFOVFM2VkpUYjhkR3RXQV8yTGppVnVsM2ZpOTNOSTlqRl9aQVZ4M1hmNTdjNA?oc=5",
+   "date": "2026-11-10T10:25:57+00:00",
+   "summary": "",
+   "author": null,
+   "publisher": "Constanța 100%",
+   "id": "4e597c6716da",
+   "source": "s33",
+   "category": "ro"
+  },
+  {
    "title": "(PDF) Americans' 2026 Issue Concerns",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaclBsUjZOOTNhczRIRllQNzQ3Ymd3MHptMVo5NTBJTV8tcmVyOVFxdjFYd2VFeG5YQTB1RHBtVXIteC14SFNsbm04YjZDUWRkb3I5NkJjb3RKZmxPMExmeDBxY1VubzNRUnQ0dTJlb3dRSGpjNENISkttMnBGS1k?oc=5",
    "date": "2026-11-10T10:16:55+00:00",
@@ -8946,149 +9892,6 @@
    "id": "1f46dc9c009f",
    "source": "s22",
    "category": "people"
-  },
-  {
-   "title": "Americans' Views on the Death Penalty as Punishment for Murder (Trends)",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWthb3VScFRsS0c3YmU2T245XzQza1p2dFJLU2lWNmNqUWZoSnl6SnhNM3Q4NDh2dTMyOC1lenBUOTZQcmFuaUpLelJwUWUxVy1wQW9RZTVjUEhpTTA3dTBlNUdKT0h6Q1czR0hZaTU5ZFZ1NGxCcm5Gb3plSnpvLVNCTXVpZ1V2anlRMnJFQmplN1B1b01PMno1QQ?oc=5",
-   "date": "2026-11-10T09:09:46+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Gallup News",
-   "id": "8a4133122bf2",
-   "source": "s22",
-   "category": "people"
-  },
-  {
-   "title": "Power to the people: driving HR and culture at Sizewell C",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY1dEYWFZSG9uZUFoZ0I3WHk1QXJ0RVEzTUlQbkFDQXFIM3hBZS1yZXpBODE3aGlBYXI5b2I5RkdkZHVhOEtaSnVSRE1CSG5UOHg0d3l1WFB1VldHaUN0c0ZBMF9HUnR3ZHYwb1FWZVNScm83cV9LWkxVLVk2T2FpX1d2czkwRy1uYW1Mc19nMFhqdkhEeGc?oc=5",
-   "date": "2026-11-10T09:03:15+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Personnel Today",
-   "id": "16c805c64fab",
-   "source": "s17",
-   "category": "people"
-  },
-  {
-   "title": "Sexual harassment and tribunal risk: building a legally defensible response (webinar)",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVkRBX3lQMWk0ZGV4WnZGRVNKNF9mQkhiTmd4TmZ6b25fT2lFaDBmZHRvZ1NQeVQ4a3pMVTc1Y0M1ZlN6OFdId3JjN3JxdmZuSS1CWW9CQWxfZC12U1ctVHlxWVhNMXg4TUUwNjg1Uk1jdVJyZ0tmVHlJZmhzODNPc1k5ZWdIZlllV2tvdEdjbW5yMmR2dzhYbjVmc1dIeDVLcDJ2WUtxRnJyX3BBcWVZRnhCU3hfNnFy?oc=5",
-   "date": "2026-11-10T08:58:17+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Personnel Today",
-   "id": "13a09c0b134e",
-   "source": "s17",
-   "category": "people"
-  },
-  {
-   "title": "(PDF) Americans' Views on Government Power",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMl9TekFjX21aQlVIdHF0OW9lUFEtY3MzMFlsRGFjUnByS0JTN3RrWkJPTnJ1SXRDVS1IY0d6YWdNR1U2ZDF3RGh5akZlZ1VpV0VaOVZYd1AyeVY3ZERtYlMzZURoNW1lVDdEd1JHWWJDMFZUa3VaRTdua3Nsa0NEc0lzYw?oc=5",
-   "date": "2026-11-10T08:48:36+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Gallup News",
-   "id": "7b4184079cd8",
-   "source": "s22",
-   "category": "people"
-  },
-  {
-   "title": "(PDF) Americans' Views on the Nature of Threats to Vital U.S. Interests",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUR5bEVRLUxpQzk0cVoxM1FabVliMDRfWHdtMUxRcl9JVEwxbWI4UkVDMldRdnFTbUZuX1JYMzh2T2ZuOWNtalY1WU1VTy03M3ZUQ0pFbllJbzlZQTNwS21SVllGcUJVQTdFSnlYaG84U21ycmVOM05BUno1c0ZvU0R5aUZ2SFBMcGZYT1ZBazVqYzBBckE?oc=5",
-   "date": "2026-11-10T08:46:12+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Gallup News",
-   "id": "0a11deac1301",
-   "source": "s22",
-   "category": "people"
-  },
-  {
-   "title": "(PDF) Americans' Views on Electric Vehicles",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3ZnNGFySlItbDl3X1NWVE1aeXpkTzAxei1SczljMHkyUS10aFo3Q05FNVJhNVFzbDJTUFJqZ1dVS3ZnM25oRmpqZHZaYkdfSkNmVnFGX0NmSjk3WkhKUVlQR1lOS1JjY1lRNjZCZjRzdE9idWpFZEV2ZEVQNGptN3Jkdm0?oc=5",
-   "date": "2026-11-10T08:44:04+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Gallup News",
-   "id": "8ab7b4689697",
-   "source": "s22",
-   "category": "people"
-  },
-  {
-   "title": "Angajatori din Olt, sancționați de ITM. Patru persoane lucrau fără contracte de muncă",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdExPcDVQRlY3SmxSNTRITmlXSE1vNjgzTXVVU3liYkt3TGYzZWl3bUdIV1pNTEhERy1jS3A0RmU1WVdFb2FNYzRLeUVyUlZTM3VaM3pSLUZnY3lfX2hsTXRDbDFjNWhVbjk3alZhR1RCWDlHZENzRVRtZUVkOFppelAxQ1NfbkhUSWpicVRqcWJCcms0dWlqX1pMQkJ5S3NockZhVlFIWEx1UFdUY3pTWGNoSzE?oc=5",
-   "date": "2026-11-10T08:16:48+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Gazeta Nouă",
-   "id": "8959df606205",
-   "source": "s30",
-   "category": "ro"
-  },
-  {
-   "title": "Explaining the shift from reactive care to preventive solutions for employee well-being",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQa1ZJTUsyRk96bVIyOTBZYWFTaVpCMElfcXFJdTMwSGg3TWNTUXRGZF95SmZGSWpETktrOXRPWXdOYkl0QmdzeFFibnVTWWZuU0RHMmVzc0dRV2EwalVhNGtEU3VuY2pqTFJCQ3VPUDNkeHRGdWxkMUE1cW43eW1hOHdsWmN4eTVqRGRlSjd2a05mRFFJdTlVcWtpUHVBR1FyNGNONzNVZ0tUS2poUXF0cE9wbDlrRE5NR3FXN1AtUGJYeS1PYzRXSl9rZklkYlhLSnJqdHZSenZpQWhOOUJWUmhqTFFuZTJTN1MySVB3?oc=5",
-   "date": "2026-11-10T08:00:17+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "South China Morning Post",
-   "id": "b6fc2ef989de",
-   "source": "s20",
-   "category": "people"
-  },
-  {
-   "title": "How Employee Wellbeing Affects Workplace Productivity",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUTduV0xLY0tYaHNEQUhUd0FWWGdlWnZERjM3N3QwR3M1TWNXV0ZxcnROcU50Z05xY2NiUHJUUUo4QlJSUV9UNmJZMlRHMUJuUzhERGpTZDJ1anZLbkVSSlNRU1gyZ1FmOTNCb3JKUm1aZEhLQTl2VXZ3LXN6R1Nvald3?oc=5",
-   "date": "2026-11-10T08:00:00+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Gallup.com",
-   "id": "2043babb341c",
-   "source": "s20",
-   "category": "people"
-  },
-  {
-   "title": "Employee Engagement and Productivity: Gallup's Research and What It Means for Leaders",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS2pZNDdHWjF2bXJudXpnTEZKT2VjU0NwNnFYN1ZFbGdabV9YdlhSQVdNbFBtN2RUV2FRcGJkaDZ5akJZNGdQZ3BPR1hXc0IyS3p1OG5GMG14QTQ0cl9YWnAzVUdjZmpKeUgwM3Jsb202ZjhJM0VwbTZlbnhvTlB6V1JNekZNVXBZ?oc=5",
-   "date": "2026-11-10T08:00:00+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Gallup",
-   "id": "3d38943ad30c",
-   "source": "s20",
-   "category": "people"
-  },
-  {
-   "title": "Hybrid Work and Productivity: What the Data Show",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHc2pDQkFMTlIya3hmc0tDeUxaSDFKOC1ZZ0c2dUVvSTVycGViZnB3cEx3T3IyLTAxcjBqZnZQVGFpM1l2b1FiRGZtX3R0TDhjSU4xT3JVcHVNT2dva3R3UWVuSWdRalBpQjNPT1gzWENEUHl5d2VCbg?oc=5",
-   "date": "2026-11-10T08:00:00+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Gallup.com",
-   "id": "545ef371a03f",
-   "source": "s22",
-   "category": "people"
-  },
-  {
-   "title": "CIPD Annual Conference and Exhibition 2026: Six key takeaways",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYU1YWVpPaXUwdmhsN3hqclRfMXRXakl1eXhtYzh0eUV4N05EM2NDRFg5T3pldWxtb3B3SWZCLXZDRU9zd3VHWnpLUmJ3cUJPRlh0NncySkVuRmdETHZ3R25QcnRjTU9yendEZU54YUpHSXVObEN2LXNqbGNDb3ViX1hzd0ZoRUV6d2toZmNiT2VOa1JSNTlERGtXZExJdw?oc=5",
-   "date": "2026-11-10T08:00:00+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "CIPD",
-   "id": "149a0a5fee81",
-   "source": "s23",
-   "category": "people"
-  },
-  {
-   "title": "12 angajatori sancționați în octombrie de inspectorii de muncă pentru muncă nedeclarată. 27 persoane depistate",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbDd1dmN5TlllenExY2tVRUZ6bTBWUjBzOHkzUUZsLXAwM1BuYlM2dFlkSTd5eUh6VVlwX3FNazdDYmo4Z1FvVHNJWnE0NWRNejZfMEdvWmM5eDU4dy1WX3JHSVMyUzB1cEhoTlBZbkhwNGtTMVdkWW56eGNpRS1FUmQ0blN2STRPU1VtbEQ3TmJyMnhYWmhsSFNUWU9EbENpVTNFclNTanFfMGk3ZHFMYzZXOWlhNmZWNWJYWTFVaFdsc2tDanAwTlc1OVB3bEswUExTcjhwaUpiZw?oc=5",
-   "date": "2026-11-10T07:58:20+00:00",
-   "summary": "",
-   "author": null,
-   "publisher": "Vaslui azi",
-   "id": "3668e33a922a",
-   "source": "s30",
-   "category": "ro"
   },
   {
    "title": "Administrative Harm and Workforce Strain Indicators.",
